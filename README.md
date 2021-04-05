@@ -1,6 +1,8 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time :2021-04-05 19:59:48.131267
+ > update time: 2021-04-06 00:42:47.884361  total: 468 
+
+**This Tool Aims to Exploit the CVE-2018-13341** : [Rajchowdhury420/CVE-2018-13341](https://github.com/Rajchowdhury420/CVE-2018-13341)  create time: 2021-04-05T13:37:28Z
 
 **Froala Persistent XSS** : [Hackdwerg/CVE-2021-30109](https://github.com/Hackdwerg/CVE-2021-30109)  create time: 2021-04-05T10:14:48Z
 

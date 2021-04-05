@@ -3,14 +3,14 @@ Description: Editor's info in the top of the file
 Author: p1ay8y3ar
 Date: 2021-04-01 23:53:55
 LastEditor: p1ay8y3ar
-LastEditTime: 2021-04-05 13:23:51
+LastEditTime: 2021-04-06 00:40:08
 Email: p1ay8y3ar@gmail.com
 '''
 
 import requests
 from peewee import *
 from datetime import datetime
-
+import time
 db = SqliteDatabase("cve.sqlite")
 
 
@@ -41,9 +41,9 @@ def write_file(new_contents):
         f.write(new)
 
 
-def get_info():
+def get_info(year):
     try:
-        year = datetime.now().year
+
         api = "https://api.github.com/search/repositories?q=CVE-{}&sort=updated".format(
             year)
         # 请求API
@@ -86,9 +86,15 @@ def db_match(items):
 
 
 def main():
-    item = get_info()
+    year = datetime.now().year
+    sorted_list = []
+    for i in range(2000, year + 1, 1):
+        item = get_info(i)
 
-    sorted_list = db_match(item)
+        sorted = db_match(item)
+        if len(sorted) != 0:
+            sorted_list.extend(sorted)
+        time.sleep(5)
     # print(sorted_list)
 
     newline = ""
@@ -98,8 +104,9 @@ def main():
         newline = line + newline
     print(newline)
     if newline != "":
-        newline = "# Automatic monitor github cve using Github Actions \n\n > update time :{}\n\n".format(
-            datetime.now()) + newline
+        newline = "# Automatic monitor github cve using Github Actions \n\n > update time: {}  total: {} \n\n".format(
+            datetime.now(),
+            CVE_DB.select().where(CVE_DB.id != None).count()) + newline
 
         write_file(newline)
 
