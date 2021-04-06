@@ -3,7 +3,7 @@ Description: Editor's info in the top of the file
 Author: p1ay8y3ar
 Date: 2021-04-01 23:53:55
 LastEditor: p1ay8y3ar
-LastEditTime: 2021-04-06 00:40:08
+LastEditTime: 2021-04-06 09:51:36
 Email: p1ay8y3ar@gmail.com
 '''
 
@@ -90,7 +90,8 @@ def main():
     sorted_list = []
     for i in range(2000, year + 1, 1):
         item = get_info(i)
-
+        if item == None:
+            continue
         sorted = db_match(item)
         if len(sorted) != 0:
             sorted_list.extend(sorted)
