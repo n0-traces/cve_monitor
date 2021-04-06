@@ -3,16 +3,16 @@ Description: Editor's info in the top of the file
 Author: p1ay8y3ar
 Date: 2021-04-01 23:53:55
 LastEditor: p1ay8y3ar
-LastEditTime: 2021-04-06 11:55:42
+LastEditTime: 2021-04-06 13:10:07
 Email: p1ay8y3ar@gmail.com
 '''
 
-from re import escape
 import requests
 from peewee import *
 from datetime import datetime
 import time
 import random
+import math
 db = SqliteDatabase("cve.sqlite")
 
 
@@ -43,7 +43,37 @@ def write_file(new_contents):
         f.write(new)
 
 
+def craw_all():
+    # 这是爬取所有的,github api限制每分钟请求最多30次
+    api = "https://api.github.com/search/repositories?q=CVE-{}&sort=updated&per_page=100&page={}"
+    item_list = []
+    for i in range(1999, 2022, 1):
+        try:
+            reqtem = requests.get(api.format(i, 1)).json()
+            total_count = reqtem["total_count"]
+            print("{}年,共{}条".format(i, total_count))
+            for_count = math.ceil(total_count / 100) + 1
+            time.sleep(random.randint(3, 15))
+        except Exception as e:
+            print("请求数量的时候发生错误", e)
+            continue
+
+        for j in range(1, for_count, 1):
+            try:
+                req = requests.get(api.format(i, j)).json()
+                items = req["items"]
+                item_list.extend(items)
+                print("{}年，第{}轮，爬取{}条".format(i, j, len(items)))
+                time.sleep(random.randint(3, 15))
+            except Exception as e:
+                print("网络发生错误", e)
+                continue
+
+    return item_list
+
+
 def get_info(year):
+    # 监控用的
     try:
 
         api = "https://api.github.com/search/repositories?q=CVE-{}&sort=updated".format(
@@ -88,7 +118,28 @@ def db_match(items):
     return sorted(r_list, key=lambda e: e.__getitem__('created_at'))
 
 
+def update_all():
+    sorted_list = craw_all()
+    sorted = db_match(sorted_list)
+    if len(sorted) != 0:
+        print("更新{}条".format(len(sorted)))
+        sorted_list.extend(sorted)
+    newline = ""
+    for s in sorted_list:
+        line = "**{}** : [{}]({})  create time: {}\n\n".format(
+            s["description"], s["full_name"], s["url"], s["created_at"])
+        newline = line + newline
+    print(newline)
+    if newline != "":
+        newline = "# Automatic monitor github cve using Github Actions \n\n > update time: {}  total: {} \n\n".format(
+            datetime.now(),
+            CVE_DB.select().where(CVE_DB.id != None).count()) + newline
+
+        write_file(newline)
+
+
 def main():
+    # 下面是监控用的
     year = datetime.now().year
     sorted_list = []
     for i in range(year, 1999, -1):
@@ -98,9 +149,9 @@ def main():
         print("{}年,获取原始数据:{}条".format(i, len(item)))
         sorted = db_match(item)
         if len(sorted) != 0:
-            print("{}年,新更新{}条".format(i, len(sorted)))
+            print("{}年,更新{}条".format(i, len(sorted)))
             sorted_list.extend(sorted)
-        count = random.randint(3, 10)
+        count = random.randint(3, 15)
         time.sleep(count)
     # print(sorted_list)
 
@@ -119,4 +170,5 @@ def main():
 
 
 if __name__ == "__main__":
+    # update_all()
     main()
