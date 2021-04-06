@@ -1,6 +1,10 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-06 06:11:45.117951  total: 4750 
+ > update time: 2021-04-06 10:10:01.562799  total: 4752 
+
+**Seafile 7.0.5 Persistent XSS** : [Security-AVS/CVE-2021-30146](https://github.com/Security-AVS/CVE-2021-30146)  create time: 2021-04-06T09:16:37Z
+
+**C# POC for CVE-2021-26855 aka ProxyLogon, supports the classically semi-interactive web shell as well as shellcode injection** : [Flangvik/SharpProxyLogon](https://github.com/Flangvik/SharpProxyLogon)  create time: 2021-03-29T21:10:34Z
 
 **no description** : [pwn3z/CVE-2019-19781-Citrix](https://github.com/pwn3z/CVE-2019-19781-Citrix)  create time: 2021-04-06T05:24:59Z
 
