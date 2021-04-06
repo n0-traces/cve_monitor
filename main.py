@@ -3,14 +3,16 @@ Description: Editor's info in the top of the file
 Author: p1ay8y3ar
 Date: 2021-04-01 23:53:55
 LastEditor: p1ay8y3ar
-LastEditTime: 2021-04-06 09:51:36
+LastEditTime: 2021-04-06 10:57:16
 Email: p1ay8y3ar@gmail.com
 '''
 
+from re import escape
 import requests
 from peewee import *
 from datetime import datetime
 import time
+import random
 db = SqliteDatabase("cve.sqlite")
 
 
@@ -52,7 +54,8 @@ def get_info(year):
 
         return items
     except Exception as e:
-        print("发生错误", e)
+        print("网络请求发生错误", e)
+        return None
 
 
 def db_match(items):
@@ -90,12 +93,15 @@ def main():
     sorted_list = []
     for i in range(2000, year + 1, 1):
         item = get_info(i)
-        if item == None:
+        if item is None or len(item) == 0:
             continue
+        print("{}年,获取原始数据:{}条".format(i, len(item)))
         sorted = db_match(item)
         if len(sorted) != 0:
+            print("{}年,新更新{}条".format(i, len(sorted)))
             sorted_list.extend(sorted)
-        time.sleep(5)
+        count = random.randint(3, 10)
+        time.sleep(count)
     # print(sorted_list)
 
     newline = ""

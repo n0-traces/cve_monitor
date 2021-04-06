@@ -1,6 +1,16 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-06 00:23:08.187342  total: 471 
+ > update time: 2021-04-06 10:50:25.908112  total: 476 
+
+**no description** : [Sec504/Zyxel-NBG2105-CVE-2021-3297](https://github.com/Sec504/Zyxel-NBG2105-CVE-2021-3297)  create time: 2021-04-06T02:38:43Z
+
+**no description** : [fengzhouc/CVE-2021-21300](https://github.com/fengzhouc/CVE-2021-21300)  create time: 2021-04-06T01:44:17Z
+
+**Exploit Code for CVE-2020-1472 aka Zerologon** : [Udyz/Zerologon](https://github.com/Udyz/Zerologon)  create time: 2021-04-06T02:48:35Z
+
+**CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送** : [404notf0und/CVE-Flow](https://github.com/404notf0und/CVE-Flow)  create time: 2020-06-15T14:56:18Z
+
+**Exploit for CVE-2012-2982** : [Ari-Weinberg/CVE-2012-2982](https://github.com/Ari-Weinberg/CVE-2012-2982)  create time: 2021-04-06T01:31:58Z
 
 **no description** : [AlexSeniorProject/CVE-2021-3156](https://github.com/AlexSeniorProject/CVE-2021-3156)  create time: 2021-04-05T18:00:43Z
 
