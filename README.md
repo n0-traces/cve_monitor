@@ -1,6 +1,10 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-06 11:10:09.060825  total: 4753 
+ > update time: 2021-04-06 17:27:57.469782  total: 4755 
+
+**XSS Discovered By: Orion Hridoy** : [orionhridoy/CVE-2021-30150](https://github.com/orionhridoy/CVE-2021-30150)  create time: 2021-04-06T16:13:04Z
+
+**RCE 0day (Orion Hridoy)** : [orionhridoy/CVE-2021-30149](https://github.com/orionhridoy/CVE-2021-30149)  create time: 2021-04-06T16:12:03Z
 
 **[CVE-2021-21972] VMware vSphere Client Unauthorized File Upload to Remote Code Execution (RCE)** : [murataydemir/CVE-2021-21972](https://github.com/murataydemir/CVE-2021-21972)  create time: 2021-04-06T10:38:40Z
 
