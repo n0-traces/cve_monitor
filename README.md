@@ -1,6 +1,8 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-06 10:10:01.562799  total: 4752 
+ > update time: 2021-04-06 11:10:09.060825  total: 4753 
+
+**[CVE-2021-21972] VMware vSphere Client Unauthorized File Upload to Remote Code Execution (RCE)** : [murataydemir/CVE-2021-21972](https://github.com/murataydemir/CVE-2021-21972)  create time: 2021-04-06T10:38:40Z
 
 **Seafile 7.0.5 Persistent XSS** : [Security-AVS/CVE-2021-30146](https://github.com/Security-AVS/CVE-2021-30146)  create time: 2021-04-06T09:16:37Z
 
