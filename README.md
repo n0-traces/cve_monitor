@@ -1,6 +1,8 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-06 17:27:57.469782  total: 4755 
+ > update time: 2021-04-06 22:08:56.710107  total: 4756 
+
+**no description** : [jessica0f0116/cve_2021_1732](https://github.com/jessica0f0116/cve_2021_1732)  create time: 2021-04-06T21:24:20Z
 
 **XSS Discovered By: Orion Hridoy** : [orionhridoy/CVE-2021-30150](https://github.com/orionhridoy/CVE-2021-30150)  create time: 2021-04-06T16:13:04Z
 
