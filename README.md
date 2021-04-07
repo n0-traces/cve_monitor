@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-07 14:29:22.497352  total: 4758 
+ > update time: 2021-04-07 07:12:21.415031  total: 4760 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**POC for CVE-2016-2098 in bash** : [Debalinax64/CVE-2016-2098](https://github.com/Debalinax64/CVE-2016-2098)  create time: 2021-04-07T06:27:25Z
+
+**no description** : [danshuizhangyu/CVE-2021-21300](https://github.com/danshuizhangyu/CVE-2021-21300)  create time: 2021-04-07T06:48:16Z
 
 **Cnvd-2020-10487 / cve-2020-1938, scanner tool** : [bkfish/CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner](https://github.com/bkfish/CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner)  create time: 2020-02-20T21:00:15Z
 
