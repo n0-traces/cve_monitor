@@ -33,12 +33,13 @@ jobs:
         with:
           python-version: 3.7
       - name: install python packages
-        run: pip install peewee requests mkdocs mkdocs-bootstrap386
+        run: pip install  mkdocs mkdocs-bootstrap386
         
       - name: change to gh-pages
         run: |
           git clone https://github.com/p1ay8y3ar/cve_monitor.git
           # 看一下分支情况
+          cd cve_monitor
           git branch -a
           git checkout remotes/origin/gh-pages
           git checkout master -- README.md
