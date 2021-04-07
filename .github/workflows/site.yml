@@ -13,6 +13,8 @@ jobs:
         uses: actions/checkout@v1
       - name: install python packages
         run: pip install mkdocs-bootstrap386
+      - name: run shell
+        run: cp README.md web/
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
