@@ -32,7 +32,7 @@ jobs:
         with:
           python-version: 3.7
       - name: install python packages
-        run: pip install peewee requests
+        run: pip install peewee requests mkdocs mkdocs-bootstrap386
       - name: run script
         run: python  main.py
         
@@ -47,3 +47,19 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          
+      # update website
+      - name: change to gh-pages
+        run: |
+          git checkout gh-pages
+          git checkout master -- README.md
+          cp README.md site/docs/
+          cd site
+          mkdocs gh-deploy
+          
+      - name: push gh-pages changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+        
