@@ -1,5 +1,5 @@
 name: update website
-on:[push]
+on: [push]
 
 jobs:
   build:
