@@ -57,6 +57,13 @@ jobs:
           cd site
           mkdocs gh-deploy
           
+      - name: commit
+        run: |
+          git config --global user.email p1ay8y3ar@gmail.com
+          git config --global user.name p1ay8y3ar
+          git add .
+          git commit -m "update gh" -a
+          
       - name: push gh-pages changes
         uses: ad-m/github-push-action@master
         with:
