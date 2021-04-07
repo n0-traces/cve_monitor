@@ -1,7 +1,7 @@
 site_author: 'p1ay8y3ar'
 repo_name: 'p1ay8y3ar/cve_monitor'
 repo_url: 'https://github.com/p1ay8y3ar/cve_monitor'
-docs_dir: .
+docs_dir: web/
 site_name: CVE Monitor
 theme:
   name: bootstrap386
