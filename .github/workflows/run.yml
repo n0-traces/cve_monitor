@@ -51,6 +51,7 @@ jobs:
       # update website
       - name: change to gh-pages
         run: |
+          git fetch
           git checkout gh-pages
           git checkout master -- README.md
           cp README.md site/docs/
