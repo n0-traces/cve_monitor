@@ -11,7 +11,8 @@ jobs:
     steps:
       - name: Checkout master
         uses: actions/checkout@v1
-
+      - name: install python packages
+        run: pip install mkdocs-bootstrap386
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:

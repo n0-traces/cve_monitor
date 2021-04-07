@@ -4,5 +4,5 @@ repo_url: 'https://github.com/p1ay8y3ar/cve_monitor'
 docs_dir: web/
 site_name: CVE Monitor
 theme:
-  name: bootstrap386
+  name: material
 
