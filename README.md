@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-07 05:49:06.361473  total: 4757 
+ > update time: 2021-04-07 14:29:22.497352  total: 4758 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Cnvd-2020-10487 / cve-2020-1938, scanner tool** : [bkfish/CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner](https://github.com/bkfish/CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner)  create time: 2020-02-20T21:00:15Z
+
+**vRealize RCE + Privesc (CVE-2021-21975, CVE-2021-21983, CVE-0DAY-?????)** : [rabidwh0re/REALITY_SMASHER](https://github.com/rabidwh0re/REALITY_SMASHER)  create time: 2021-04-06T23:24:38Z
 
 **XSS Discovered By: Orion Hridoy** : [orionhridoy/CVE-2021-30150](https://github.com/orionhridoy/CVE-2021-30150)  create time: 2021-04-06T16:13:04Z
 
