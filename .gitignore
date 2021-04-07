@@ -38,6 +38,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+site/site/
 # C extensions
 *.so
 
