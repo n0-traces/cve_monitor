@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-08 15:21:30.247062  total: 4767 
+ > update time: 2021-04-08 16:33:59.508455  total: 4770 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)  POC: https://github.com/ollypwn/CurveBall** : [yanghaoi/CVE-2020-0601](https://github.com/yanghaoi/CVE-2020-0601)  create time: 2020-02-03T13:58:07Z
+
+**test** : [xuejilinhan/CVE-2021-24098](https://github.com/xuejilinhan/CVE-2021-24098)  create time: 2021-04-08T15:39:33Z
+
+**test** : [xuejilinhan/CVE-2021-24086](https://github.com/xuejilinhan/CVE-2021-24086)  create time: 2021-04-08T15:37:26Z
 
 **测试** : [kenyon-wong/cve-2021-21635](https://github.com/kenyon-wong/cve-2021-21635)  create time: 2021-04-08T15:13:28Z
 
