@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-09 13:46:14.598112  total: 4780 
+ > update time: 2021-04-09 16:48:10.944681  total: 4782 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**MDaemon Advisories - CVE-2021-27180, CVE-2021-27181, CVE-2021-27182, CVE-2021-27183** : [chudyPB/MDaemon-Advisories](https://github.com/chudyPB/MDaemon-Advisories)  create time: 2021-04-09T16:34:28Z
+
+**CVE-2021-26295-POC 利用DNSlog进行CVE-2021-26295的漏洞验证。  使用 poc：将目标放于target.txt后运行python poc.py即可。（Jdk环境需<12，否则ysoserial无法正常生成有效载荷）  exp：python exp.py https://baidu.com然后进入命令执行界面（无回显）** : [coolyin001/CVE-2021-26295--](https://github.com/coolyin001/CVE-2021-26295--)  create time: 2021-04-09T16:20:18Z
 
 **A simple python3 exploit for CVE-2019-3403** : [davidmckennirey/CVE-2019-3403](https://github.com/davidmckennirey/CVE-2019-3403)  create time: 2021-03-18T22:36:58Z
 
