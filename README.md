@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-09 18:13:37.578131  total: 4783 
+ > update time: 2021-04-09 20:42:02.129702  total: 4784 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**An exploit to get root in vsftpd 2.3.4 (CVE-2011-2523) written in python** : [HerculesRD/vsftpd2.3.4PyExploit](https://github.com/HerculesRD/vsftpd2.3.4PyExploit)  create time: 2021-04-09T20:26:01Z
 
 **no description** : [RichardKabuto/CVE-2021-88888](https://github.com/RichardKabuto/CVE-2021-88888)  create time: 2021-04-09T18:00:41Z
 
