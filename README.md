@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-11 06:59:28.070638  total: 4797 
+ > update time: 2021-04-11 07:55:31.779944  total: 4798 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Samba 3.0.20 username map script exploit** : [Un4gi/CVE-2007-2447](https://github.com/Un4gi/CVE-2007-2447)  create time: 2021-04-11T07:53:20Z
 
 **cve-2020-10977 read and execute** : [lisp3r/cve-2020-10977-read-and-execute](https://github.com/lisp3r/cve-2020-10977-read-and-execute)  create time: 2021-04-11T06:31:06Z
 
