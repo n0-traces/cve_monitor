@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-11 07:55:31.779944  total: 4798 
+ > update time: 2021-04-11 11:26:45.831138  total: 4799 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**GitLab 11.4.7 CE RCE exploit with different reverse shells. CVE-2018-19571 + CVE-2018-19585** : [Algafix/gitlab-RCE-11.4.7](https://github.com/Algafix/gitlab-RCE-11.4.7)  create time: 2021-04-11T11:23:37Z
 
 **Samba 3.0.20 username map script exploit** : [Un4gi/CVE-2007-2447](https://github.com/Un4gi/CVE-2007-2447)  create time: 2021-04-11T07:53:20Z
 
