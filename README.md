@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-11 11:26:45.831138  total: 4799 
+ > update time: 2021-04-12 07:59:51.631975  total: 4800 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Trigger-only for CVE-2021-29627** : [raymontag/cve-2021-29627](https://github.com/raymontag/cve-2021-29627)  create time: 2021-04-12T07:51:03Z
 
 **GitLab 11.4.7 CE RCE exploit with different reverse shells. CVE-2018-19571 + CVE-2018-19585** : [Algafix/gitlab-RCE-11.4.7](https://github.com/Algafix/gitlab-RCE-11.4.7)  create time: 2021-04-11T11:23:37Z
 
