@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-13 04:39:48.617347  total: 4804 
+ > update time: 2021-04-13 07:01:29.251709  total: 4805 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Auto exploit RCE CVE-2020-5902** : [haisenberg/CVE-2020-5902](https://github.com/haisenberg/CVE-2020-5902)  create time: 2021-04-13T06:48:20Z
 
 **Cross Site Scripting (XSS) at the "Reset Password" page form of Priority Enterprise Management System v8.00 allows attackers to execute javascript on behalf of the victim by sending a malicious URL or directing the victim to a malicious site.** : [NagliNagli/CVE-2021-26832](https://github.com/NagliNagli/CVE-2021-26832)  create time: 2021-04-13T04:25:31Z
 
