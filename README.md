@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-14 15:54:44.195954  total: 4817 
+ > update time: 2021-04-14 20:50:23.971063  total: 4818 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for DHCP vulnerability (NEW:WRECK) in FreeBSD** : [knqyf263/CVE-2020-7461](https://github.com/knqyf263/CVE-2020-7461)  create time: 2021-04-14T20:37:38Z
 
 **no description** : [givemefivw/CVE-2021-25646](https://github.com/givemefivw/CVE-2021-25646)  create time: 2021-04-14T15:36:04Z
 
