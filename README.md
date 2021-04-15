@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-15 10:32:15.405757  total: 4823 
+ > update time: 2021-04-15 15:55:30.425151  total: 4824 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [somatrasss/CVE-2021-21402](https://github.com/somatrasss/CVE-2021-21402)  create time: 2021-04-15T15:32:39Z
 
 **Zeek package to detect CVE-2020-0601** : [0xxon/cve-2020-0601](https://github.com/0xxon/cve-2020-0601)  create time: 2020-01-15T00:01:29Z
 
