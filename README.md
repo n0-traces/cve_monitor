@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-17 07:07:30.715651  total: 4839 
+ > update time: 2021-04-17 19:06:20.122747  total: 4840 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021-29349 CSRF to remove all messages in Mahara 20.10** : [Vulnmachines/CVE-2021-29349](https://github.com/Vulnmachines/CVE-2021-29349)  create time: 2021-04-17T18:48:38Z
 
 **张师傅牛逼** : [Reach-Z/CVE-2021-9999](https://github.com/Reach-Z/CVE-2021-9999)  create time: 2021-04-17T06:52:04Z
 
