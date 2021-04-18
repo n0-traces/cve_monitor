@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-17 19:42:20.781116  total: 4841 
+ > update time: 2021-04-18 02:29:40.354141  total: 4842 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**demo testing CVE-2021-25281** : [SkyBulk/CVE-2021-25281](https://github.com/SkyBulk/CVE-2021-25281)  create time: 2021-04-18T01:55:23Z
 
 **A repository hosting write ups for the 0 days CVE-2021-25679, CVE-2021-25680, and CVE-2021-25681** : [3ndG4me/AdTran-Personal-Phone-Manager-Vulns](https://github.com/3ndG4me/AdTran-Personal-Phone-Manager-Vulns)  create time: 2021-03-03T20:06:54Z
 
