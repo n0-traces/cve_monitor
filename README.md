@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-18 02:29:40.354141  total: 4842 
+ > update time: 2021-04-18 08:54:34.321555  total: 4843 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2020-0796漏洞检测工具** : [hello12324/test](https://github.com/hello12324/test)  create time: 2021-04-18T08:43:21Z
 
 **demo testing CVE-2021-25281** : [SkyBulk/CVE-2021-25281](https://github.com/SkyBulk/CVE-2021-25281)  create time: 2021-04-18T01:55:23Z
 
