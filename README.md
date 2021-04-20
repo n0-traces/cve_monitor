@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-20 08:56:15.859702  total: 4852 
+ > update time: 2021-04-20 09:33:32.576109  total: 4853 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**jquery file upload poc** : [mi-hood/CVE-2018-9206](https://github.com/mi-hood/CVE-2018-9206)  create time: 2021-04-20T09:25:37Z
 
 **PoC and tools for exploiting CVE-2020-6516 (Chrome) and CVE-2021-24027 (WhatsApp)** : [CENSUS/whatsapp-mitd-mitm](https://github.com/CENSUS/whatsapp-mitd-mitm)  create time: 2021-03-11T15:27:25Z
 
