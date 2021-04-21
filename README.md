@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-20 20:31:32.979284  total: 4854 
+ > update time: 2021-04-21 05:01:10.843645  total: 4855 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Detected CVE-2021-28480.CVE-2021-28481** : [Udyz/Detect-CVE-2021-28480](https://github.com/Udyz/Detect-CVE-2021-28480)  create time: 2021-04-21T04:52:14Z
 
 **no description** : [Yealid/CVE-2018-11235-Git-Submodule-RCE](https://github.com/Yealid/CVE-2018-11235-Git-Submodule-RCE)  create time: 2021-04-20T20:13:25Z
 
