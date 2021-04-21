@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-21 09:55:44.279069  total: 4857 
+ > update time: 2021-04-21 10:33:28.197565  total: 4859 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Pulse Connect Secure RCE Vulnerability (CVE-2021-22893)** : [Mad-robot/CVE-2021-22893](https://github.com/Mad-robot/CVE-2021-22893)  create time: 2021-04-21T10:09:56Z
+
+**Apache Solr SSRF(CVE-2021-27905)** : [Henry4E36/Solr-SSRF](https://github.com/Henry4E36/Solr-SSRF)  create time: 2021-04-21T09:27:21Z
 
 **PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Domain Controllers running Windows Server 2003 up to Windows Server 2019.** : [ZephrFish/ExchangeRCE-CVE-2021-28480](https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480)  create time: 2021-04-21T09:50:39Z
 
