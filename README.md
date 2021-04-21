@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-21 13:11:05.774427  total: 4860 
+ > update time: 2021-04-21 17:31:44.002161  total: 4861 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**This is a proof of concept of the critical WinBox vulnerability (CVE-2018-14847) which allows for arbitrary file read of plain text passwords.  The vulnerability has long since been fixed, so this project has ended and will not be supported or updated anymore. You can fork it and update it yourself instead.** : [hacker30468/Mikrotik-router-hack](https://github.com/hacker30468/Mikrotik-router-hack)  create time: 2021-04-21T16:42:31Z
 
 **Exploit code for CVE-2019-7488 and CVE-2019-7489 resulting in remote code execution.** : [nromsdahl/CVE-2019-7489](https://github.com/nromsdahl/CVE-2019-7489)  create time: 2021-04-21T13:02:03Z
 
