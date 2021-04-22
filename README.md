@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-22 05:32:28.408256  total: 4864 
+ > update time: 2021-04-22 09:58:02.519876  total: 4865 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021-22192** : [PetrusViet/Gitlab-RCE](https://github.com/PetrusViet/Gitlab-RCE)  create time: 2021-04-22T09:35:57Z
 
 **no description** : [X0UCYB3R/Check-WP-CVE-2020-35489](https://github.com/X0UCYB3R/Check-WP-CVE-2020-35489)  create time: 2021-04-22T05:17:16Z
 
