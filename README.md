@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-21 19:12:11.504980  total: 4862 
+ > update time: 2021-04-22 02:29:12.240852  total: 4863 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [oneoy/CVE-2021-3493](https://github.com/oneoy/CVE-2021-3493)  create time: 2021-04-22T02:06:21Z
 
 **A proof of concept of CVE-2020-15808 vulnerability exploit on STM32F4 Discovery board** : [manucuf/CVE202015808](https://github.com/manucuf/CVE202015808)  create time: 2021-04-21T18:48:28Z
 
