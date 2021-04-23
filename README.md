@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-22 19:19:21.688589  total: 4868 
+ > update time: 2021-04-23 08:27:07.877817  total: 4869 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021-1732 poc & exp; tested on 20H2** : [Pai-Po/CVE-2021-1732](https://github.com/Pai-Po/CVE-2021-1732)  create time: 2021-04-23T08:21:54Z
 
 **no description** : [itssmikefm/CVE-2020-1472](https://github.com/itssmikefm/CVE-2020-1472)  create time: 2021-04-22T18:51:09Z
 
