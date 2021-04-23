@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-23 08:27:07.877817  total: 4869 
+ > update time: 2021-04-23 09:57:46.570052  total: 4870 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass** : [darryk10/CVE-2021-25735](https://github.com/darryk10/CVE-2021-25735)  create time: 2021-04-22T07:25:31Z
 
 **CVE-2021-1732 poc & exp; tested on 20H2** : [Pai-Po/CVE-2021-1732](https://github.com/Pai-Po/CVE-2021-1732)  create time: 2021-04-23T08:21:54Z
 
