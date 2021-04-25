@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-25 12:01:27.256421  total: 4881 
+ > update time: 2021-04-25 14:29:42.770874  total: 4882 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Read my  blog for more info -** : [exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732](https://github.com/exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732)  create time: 2021-04-25T12:55:15Z
 
 **CVE-2021-27905** : [W2Ning/Solr-SSRF](https://github.com/W2Ning/Solr-SSRF)  create time: 2021-04-25T11:50:19Z
 
