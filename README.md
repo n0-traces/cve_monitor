@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-25 11:44:54.317364  total: 4880 
+ > update time: 2021-04-25 12:01:27.256421  total: 4881 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021-27905** : [W2Ning/Solr-SSRF](https://github.com/W2Ning/Solr-SSRF)  create time: 2021-04-25T11:50:19Z
 
 **rebuild cve** : [ImHades101/CVE-2021-3291](https://github.com/ImHades101/CVE-2021-3291)  create time: 2021-04-25T11:18:09Z
 
