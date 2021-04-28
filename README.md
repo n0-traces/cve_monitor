@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-28 19:30:25.539210  total: 4897 
+ > update time: 2021-04-28 19:53:16.770529  total: 4898 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [lanzt/CVE-2020-14321](https://github.com/lanzt/CVE-2020-14321)  create time: 2021-04-28T19:46:55Z
 
 **PoC for CVE-2018-13382** : [tumikoto/exploit-fortinetmagicbackdoor](https://github.com/tumikoto/exploit-fortinetmagicbackdoor)  create time: 2021-04-28T19:17:04Z
 
