@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-27 18:53:47.412283  total: 4894 
+ > update time: 2021-04-28 13:17:48.128961  total: 4895 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Indicator of Compromise Scanner for CVE-2021-31221** : [f1reeye/ioc-scanner-CVE-2021-31221](https://github.com/f1reeye/ioc-scanner-CVE-2021-31221)  create time: 2021-04-28T12:54:41Z
 
 **CVE-2020-8958: Authenticated RCE exploit for NetLink HG323** : [Asjidkalam/CVE-2020-8958](https://github.com/Asjidkalam/CVE-2020-8958)  create time: 2021-04-27T15:51:08Z
 
