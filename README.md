@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-28 13:17:48.128961  total: 4895 
+ > update time: 2021-04-28 17:02:19.088452  total: 4896 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**InfluxDB CVE-2019-20933 vulnerability exploit** : [LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933](https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933)  create time: 2021-04-28T16:25:31Z
 
 **Indicator of Compromise Scanner for CVE-2021-31221** : [f1reeye/ioc-scanner-CVE-2021-31221](https://github.com/f1reeye/ioc-scanner-CVE-2021-31221)  create time: 2021-04-28T12:54:41Z
 
