@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-30 09:56:55.214427  total: 4909 
+ > update time: 2021-04-30 13:52:40.866995  total: 4910 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Proof of concept exploit for CVE-2019-8561 discovered by @jbradley89** : [0xmachos/CVE-2019-8561](https://github.com/0xmachos/CVE-2019-8561)  create time: 2019-06-07T23:48:55Z
 
 **no description** : [DeeLMind/CVE-2020-27955-LFS](https://github.com/DeeLMind/CVE-2020-27955-LFS)  create time: 2021-04-30T09:38:48Z
 
