@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-01 14:22:28.382719  total: 4914 
+ > update time: 2021-05-01 15:21:29.104932  total: 4916 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**vsftpd 2.3.4 Backdoor Exploit** : [nobodyatall648/CVE-2011-2523](https://github.com/nobodyatall648/CVE-2011-2523)  create time: 2021-05-01T15:03:55Z
+
+**Drupal Drupal 8.6.x RCE Exploit** : [nobodyatall648/CVE-2019-6340](https://github.com/nobodyatall648/CVE-2019-6340)  create time: 2021-05-01T15:00:34Z
 
 **no description** : [eR072391/cve-2017-5674](https://github.com/eR072391/cve-2017-5674)  create time: 2021-05-01T14:04:58Z
 
