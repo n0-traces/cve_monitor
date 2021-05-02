@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-02 04:05:24.108428  total: 4918 
+ > update time: 2021-05-02 08:53:44.833166  total: 4919 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**GitLab Arbitrary File Read Exploit** : [nickvdyck/gitlab-cve-2020-10977](https://github.com/nickvdyck/gitlab-cve-2020-10977)  create time: 2021-05-02T08:45:03Z
 
 **no description** : [DXY0411/CVE-2020-23342](https://github.com/DXY0411/CVE-2020-23342)  create time: 2021-05-02T03:57:32Z
 
