@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-02 02:39:45.296483  total: 4917 
+ > update time: 2021-05-02 04:05:24.108428  total: 4918 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [DXY0411/CVE-2020-23342](https://github.com/DXY0411/CVE-2020-23342)  create time: 2021-05-02T03:57:32Z
 
 **no description** : [Abdennour-py/CVE-2021-3493](https://github.com/Abdennour-py/CVE-2021-3493)  create time: 2021-05-02T01:58:29Z
 
