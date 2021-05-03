@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-03 15:58:32.026654  total: 4928 
+ > update time: 2021-05-03 16:33:55.419581  total: 4929 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**cve-2020_6418-exploittt.js** : [Jabri1/cve-2020_6418-exploit](https://github.com/Jabri1/cve-2020_6418-exploit)  create time: 2021-05-03T15:58:36Z
 
 **Docker-compose to set up a test environment for exploiting CVE-2015-8562** : [lorenzodegiorgi/setup-cve-2015-8562](https://github.com/lorenzodegiorgi/setup-cve-2015-8562)  create time: 2021-05-03T15:49:54Z
 
