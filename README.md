@@ -1,9 +1,29 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-06 16:17:46.531022  total: 4959 
+ > update time: 2021-05-06 21:56:17.566422  total: 4969 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for exploiting CVE-2020-25453** : [JamesGeee/CVE-2020-25453](https://github.com/JamesGeee/CVE-2020-25453)  create time: 2021-05-06T21:45:19Z
+
+**PoC for exploiting CVE-2021-31795** : [JamesGeee/CVE-2021-31795](https://github.com/JamesGeee/CVE-2021-31795)  create time: 2021-05-06T21:45:50Z
+
+**PoC for exploiting CVE-2021-31417** : [JamesGeee/CVE-2021-31417](https://github.com/JamesGeee/CVE-2021-31417)  create time: 2021-05-06T21:45:44Z
+
+**PoC for exploiting CVE-2021-31418** : [JamesGeee/CVE-2021-31418](https://github.com/JamesGeee/CVE-2021-31418)  create time: 2021-05-06T21:45:30Z
+
+**PoC for exploiting CVE-2021-31420** : [JamesGeee/CVE-2021-31420](https://github.com/JamesGeee/CVE-2021-31420)  create time: 2021-05-06T21:45:26Z
+
+**PoC for exploiting CVE-2021-31419** : [JamesGeee/CVE-2021-31419](https://github.com/JamesGeee/CVE-2021-31419)  create time: 2021-05-06T21:45:22Z
+
+**PoC for exploiting CVE-2021-31828** : [JamesGeee/CVE-2021-31828](https://github.com/JamesGeee/CVE-2021-31828)  create time: 2021-05-06T21:45:15Z
+
+**PoC for exploiting CVE-2021-21536** : [JamesGeee/CVE-2021-21536](https://github.com/JamesGeee/CVE-2021-21536)  create time: 2021-05-06T21:45:12Z
+
+**PoC for exploiting CVE-2021-21535** : [JamesGeee/CVE-2021-21535](https://github.com/JamesGeee/CVE-2021-21535)  create time: 2021-05-06T21:45:08Z
+
+**PoC for exploiting CVE-2021-21534** : [JamesGeee/CVE-2021-21534](https://github.com/JamesGeee/CVE-2021-21534)  create time: 2021-05-06T21:43:49Z
 
 **Vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution.** : [irql0/CVE-2021-31728](https://github.com/irql0/CVE-2021-31728)  create time: 2021-05-04T17:15:58Z
 
