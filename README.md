@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-06 09:01:32.044860  total: 4958 
+ > update time: 2021-05-06 16:17:46.531022  total: 4959 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution.** : [irql0/CVE-2021-31728](https://github.com/irql0/CVE-2021-31728)  create time: 2021-05-04T17:15:58Z
 
 **no description** : [goout2/cve-2021-ceshi](https://github.com/goout2/cve-2021-ceshi)  create time: 2021-05-06T08:55:50Z
 
