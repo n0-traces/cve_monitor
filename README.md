@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-08 06:22:20.186747  total: 4992 
+ > update time: 2021-05-09 02:59:12.192163  total: 4993 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2017-7494 python exploit** : [m4udSec/noSAMBAnoCRY-CVE-2017-7494](https://github.com/m4udSec/noSAMBAnoCRY-CVE-2017-7494)  create time: 2021-05-09T02:32:54Z
 
 **CVE-2021-987456** : [getin63/CVE-2021-987456](https://github.com/getin63/CVE-2021-987456)  create time: 2021-05-08T06:15:32Z
 
