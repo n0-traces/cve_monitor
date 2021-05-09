@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-09 07:01:44.694788  total: 4997 
+ > update time: 2021-05-09 11:19:06.748358  total: 4998 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Proof of concept for the HWiNFO AMD64 Null Pointer Dereference vulnerability.** : [Crystalware/CVE-2018-8060](https://github.com/Crystalware/CVE-2018-8060)  create time: 2021-05-09T11:04:59Z
 
 **Apache Solr RCE CVE-2020-13957** : [s-index/CVE-2020-13957](https://github.com/s-index/CVE-2020-13957)  create time: 2021-05-09T06:42:41Z
 
