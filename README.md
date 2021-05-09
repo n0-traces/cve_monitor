@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-09 13:39:31.829592  total: 4999 
+ > update time: 2021-05-09 14:27:26.028170  total: 5000 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Nginx ngx_http_range_filter_module Integer Overflow (CVE-2017-7529)** : [Gaurav-Jadhav/CVE-2017-7529](https://github.com/Gaurav-Jadhav/CVE-2017-7529)  create time: 2021-05-09T14:11:03Z
 
 **Exploit proof of concept for EVGA's WinRing0 device driver.** : [Crystalware/CVE-2020-14979](https://github.com/Crystalware/CVE-2020-14979)  create time: 2021-05-09T13:16:03Z
 
