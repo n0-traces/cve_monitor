@@ -1,9 +1,29 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-09 14:27:26.028170  total: 5000 
+ > update time: 2021-05-09 23:04:37.255207  total: 5010 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for exploiting CVE-2020-36326** : [JamesGeee/CVE-2020-36326](https://github.com/JamesGeee/CVE-2020-36326)  create time: 2021-05-09T22:55:19Z
+
+**PoC for exploiting CVE-2020-23127** : [JamesGeee/CVE-2020-23127](https://github.com/JamesGeee/CVE-2020-23127)  create time: 2021-05-09T22:55:13Z
+
+**PoC for exploiting CVE-2020-17517** : [JamesGeee/CVE-2020-17517](https://github.com/JamesGeee/CVE-2020-17517)  create time: 2021-05-09T22:55:10Z
+
+**PoC for exploiting CVE-2021-28269** : [JamesGeee/CVE-2021-28269](https://github.com/JamesGeee/CVE-2021-28269)  create time: 2021-05-09T22:55:44Z
+
+**PoC for exploiting CVE-2021-30642** : [JamesGeee/CVE-2021-30642](https://github.com/JamesGeee/CVE-2021-30642)  create time: 2021-05-09T22:55:38Z
+
+**PoC for exploiting CVE-2021-30502** : [JamesGeee/CVE-2021-30502](https://github.com/JamesGeee/CVE-2021-30502)  create time: 2021-05-09T22:55:29Z
+
+**PoC for exploiting CVE-2021-20716** : [JamesGeee/CVE-2021-20716](https://github.com/JamesGeee/CVE-2021-20716)  create time: 2021-05-09T22:55:25Z
+
+**PoC for exploiting CVE-2021-30165** : [JamesGeee/CVE-2021-30165](https://github.com/JamesGeee/CVE-2021-30165)  create time: 2021-05-09T22:55:22Z
+
+**PoC for exploiting CVE-2021-31826** : [JamesGeee/CVE-2021-31826](https://github.com/JamesGeee/CVE-2021-31826)  create time: 2021-05-09T22:55:16Z
+
+**PoC for exploiting CVE-2021-28125** : [JamesGeee/CVE-2021-28125](https://github.com/JamesGeee/CVE-2021-28125)  create time: 2021-05-09T22:55:06Z
 
 **Nginx ngx_http_range_filter_module Integer Overflow (CVE-2017-7529)** : [Gaurav-Jadhav/CVE-2017-7529](https://github.com/Gaurav-Jadhav/CVE-2017-7529)  create time: 2021-05-09T14:11:03Z
 
