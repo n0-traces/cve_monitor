@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-09 11:19:06.748358  total: 4998 
+ > update time: 2021-05-09 13:39:31.829592  total: 4999 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Exploit proof of concept for EVGA's WinRing0 device driver.** : [Crystalware/CVE-2020-14979](https://github.com/Crystalware/CVE-2020-14979)  create time: 2021-05-09T13:16:03Z
 
 **Proof of concept for the HWiNFO AMD64 Null Pointer Dereference vulnerability.** : [Crystalware/CVE-2018-8060](https://github.com/Crystalware/CVE-2018-8060)  create time: 2021-05-09T11:04:59Z
 
