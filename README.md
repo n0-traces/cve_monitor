@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-09 23:04:37.255207  total: 5010 
+ > update time: 2021-05-10 21:48:20.470424  total: 5011 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Check YouTube -** : [exploitblizzard/CVE-2020-14882-WebLogic](https://github.com/exploitblizzard/CVE-2020-14882-WebLogic)  create time: 2021-05-10T21:32:36Z
 
 **PoC for exploiting CVE-2020-36326** : [JamesGeee/CVE-2020-36326](https://github.com/JamesGeee/CVE-2020-36326)  create time: 2021-05-09T22:55:19Z
 
