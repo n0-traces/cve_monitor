@@ -1,9 +1,89 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-11 22:47:44.102434  total: 5019 
+ > update time: 2021-05-12 02:31:34.179366  total: 5059 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for exploiting CVE-2017-10796** : [JamesGeee/CVE-2017-10796](https://github.com/JamesGeee/CVE-2017-10796)  create time: 2021-05-12T01:50:28Z
+
+**PoC for exploiting CVE-2020-5013** : [JamesGeee/CVE-2020-5013](https://github.com/JamesGeee/CVE-2020-5013)  create time: 2021-05-12T01:51:05Z
+
+**PoC for exploiting CVE-2020-4993** : [JamesGeee/CVE-2020-4993](https://github.com/JamesGeee/CVE-2020-4993)  create time: 2021-05-12T01:50:55Z
+
+**PoC for exploiting CVE-2020-4932** : [JamesGeee/CVE-2020-4932](https://github.com/JamesGeee/CVE-2020-4932)  create time: 2021-05-12T01:50:48Z
+
+**PoC for exploiting CVE-2020-4979** : [JamesGeee/CVE-2020-4979](https://github.com/JamesGeee/CVE-2020-4979)  create time: 2021-05-12T01:50:38Z
+
+**PoC for exploiting CVE-2020-4883** : [JamesGeee/CVE-2020-4883](https://github.com/JamesGeee/CVE-2020-4883)  create time: 2021-05-12T01:50:35Z
+
+**PoC for exploiting CVE-2020-4929** : [JamesGeee/CVE-2020-4929](https://github.com/JamesGeee/CVE-2020-4929)  create time: 2021-05-12T01:50:32Z
+
+**PoC for exploiting CVE-2020-19110** : [JamesGeee/CVE-2020-19110](https://github.com/JamesGeee/CVE-2020-19110)  create time: 2021-05-12T01:48:40Z
+
+**PoC for exploiting CVE-2020-19112** : [JamesGeee/CVE-2020-19112](https://github.com/JamesGeee/CVE-2020-19112)  create time: 2021-05-12T01:48:37Z
+
+**PoC for exploiting CVE-2020-19114** : [JamesGeee/CVE-2020-19114](https://github.com/JamesGeee/CVE-2020-19114)  create time: 2021-05-12T01:48:34Z
+
+**PoC for exploiting CVE-2020-19108** : [JamesGeee/CVE-2020-19108](https://github.com/JamesGeee/CVE-2020-19108)  create time: 2021-05-12T01:48:31Z
+
+**PoC for exploiting CVE-2020-19107** : [JamesGeee/CVE-2020-19107](https://github.com/JamesGeee/CVE-2020-19107)  create time: 2021-05-12T01:48:22Z
+
+**PoC for exploiting CVE-2020-19109** : [JamesGeee/CVE-2020-19109](https://github.com/JamesGeee/CVE-2020-19109)  create time: 2021-05-12T01:48:13Z
+
+**PoC for exploiting CVE-2020-13949** : [JamesGeee/CVE-2020-13949](https://github.com/JamesGeee/CVE-2020-13949)  create time: 2021-05-12T01:47:55Z
+
+**PoC for exploiting CVE-2020-27223** : [JamesGeee/CVE-2020-27223](https://github.com/JamesGeee/CVE-2020-27223)  create time: 2021-05-12T01:47:52Z
+
+**PoC for exploiting CVE-2020-4901** : [JamesGeee/CVE-2020-4901](https://github.com/JamesGeee/CVE-2020-4901)  create time: 2021-05-12T01:46:54Z
+
+**PoC for exploiting CVE-2021-29139** : [JamesGeee/CVE-2021-29139](https://github.com/JamesGeee/CVE-2021-29139)  create time: 2021-05-12T01:50:25Z
+
+**PoC for exploiting CVE-2021-30128** : [JamesGeee/CVE-2021-30128](https://github.com/JamesGeee/CVE-2021-30128)  create time: 2021-05-12T01:50:22Z
+
+**PoC for exploiting CVE-2021-29138** : [JamesGeee/CVE-2021-29138](https://github.com/JamesGeee/CVE-2021-29138)  create time: 2021-05-12T01:50:11Z
+
+**PoC for exploiting CVE-2021-29140** : [JamesGeee/CVE-2021-29140](https://github.com/JamesGeee/CVE-2021-29140)  create time: 2021-05-12T01:49:40Z
+
+**PoC for exploiting CVE-2021-32259** : [JamesGeee/CVE-2021-32259](https://github.com/JamesGeee/CVE-2021-32259)  create time: 2021-05-12T01:49:36Z
+
+**PoC for exploiting CVE-2021-29488** : [JamesGeee/CVE-2021-29488](https://github.com/JamesGeee/CVE-2021-29488)  create time: 2021-05-12T01:49:33Z
+
+**PoC for exploiting CVE-2021-27437** : [JamesGeee/CVE-2021-27437](https://github.com/JamesGeee/CVE-2021-27437)  create time: 2021-05-12T01:49:30Z
+
+**PoC for exploiting CVE-2021-21419** : [JamesGeee/CVE-2021-21419](https://github.com/JamesGeee/CVE-2021-21419)  create time: 2021-05-12T01:49:27Z
+
+**PoC for exploiting CVE-2021-29142** : [JamesGeee/CVE-2021-29142](https://github.com/JamesGeee/CVE-2021-29142)  create time: 2021-05-12T01:49:24Z
+
+**PoC for exploiting CVE-2021-29141** : [JamesGeee/CVE-2021-29141](https://github.com/JamesGeee/CVE-2021-29141)  create time: 2021-05-12T01:48:56Z
+
+**PoC for exploiting CVE-2021-29442** : [JamesGeee/CVE-2021-29442](https://github.com/JamesGeee/CVE-2021-29442)  create time: 2021-05-12T01:48:49Z
+
+**PoC for exploiting CVE-2021-31778** : [JamesGeee/CVE-2021-31778](https://github.com/JamesGeee/CVE-2021-31778)  create time: 2021-05-12T01:48:46Z
+
+**PoC for exploiting CVE-2021-31777** : [JamesGeee/CVE-2021-31777](https://github.com/JamesGeee/CVE-2021-31777)  create time: 2021-05-12T01:48:43Z
+
+**PoC for exploiting CVE-2021-2321** : [JamesGeee/CVE-2021-2321](https://github.com/JamesGeee/CVE-2021-2321)  create time: 2021-05-12T01:48:05Z
+
+**PoC for exploiting CVE-2021-27480** : [JamesGeee/CVE-2021-27480](https://github.com/JamesGeee/CVE-2021-27480)  create time: 2021-05-12T01:48:02Z
+
+**PoC for exploiting CVE-2021-22660** : [JamesGeee/CVE-2021-22660](https://github.com/JamesGeee/CVE-2021-22660)  create time: 2021-05-12T01:47:59Z
+
+**PoC for exploiting CVE-2021-28165** : [JamesGeee/CVE-2021-28165](https://github.com/JamesGeee/CVE-2021-28165)  create time: 2021-05-12T01:47:49Z
+
+**PoC for exploiting CVE-2021-28164** : [JamesGeee/CVE-2021-28164](https://github.com/JamesGeee/CVE-2021-28164)  create time: 2021-05-12T01:47:42Z
+
+**PoC for exploiting CVE-2021-28163** : [JamesGeee/CVE-2021-28163](https://github.com/JamesGeee/CVE-2021-28163)  create time: 2021-05-12T01:47:10Z
+
+**PoC for exploiting CVE-2021-28168** : [JamesGeee/CVE-2021-28168](https://github.com/JamesGeee/CVE-2021-28168)  create time: 2021-05-12T01:47:05Z
+
+**PoC for exploiting CVE-2021-29495** : [JamesGeee/CVE-2021-29495](https://github.com/JamesGeee/CVE-2021-29495)  create time: 2021-05-12T01:47:01Z
+
+**PoC for exploiting CVE-2021-22677** : [JamesGeee/CVE-2021-22677](https://github.com/JamesGeee/CVE-2021-22677)  create time: 2021-05-12T01:46:58Z
+
+**PoC for exploiting CVE-2021-31779** : [JamesGeee/CVE-2021-31779](https://github.com/JamesGeee/CVE-2021-31779)  create time: 2021-05-12T01:46:51Z
+
+**PoC for exploiting CVE-2021-28271** : [JamesGeee/CVE-2021-28271](https://github.com/JamesGeee/CVE-2021-28271)  create time: 2021-05-12T01:46:41Z
 
 **no description** : [m4udSec/Cacti-CVE-2020-8813](https://github.com/m4udSec/Cacti-CVE-2020-8813)  create time: 2021-05-11T22:38:39Z
 
