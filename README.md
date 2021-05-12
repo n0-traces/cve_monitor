@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-12 12:42:48.543006  total: 5063 
+ > update time: 2021-05-12 15:36:47.427154  total: 5064 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**cve-2021** : [1151806933/cve-2021](https://github.com/1151806933/cve-2021)  create time: 2021-05-12T15:01:49Z
 
 **CVE-2020-28502 node-XMLHttpRequest RCE** : [s-index/CVE-2020-28502](https://github.com/s-index/CVE-2020-28502)  create time: 2021-05-12T12:11:03Z
 
