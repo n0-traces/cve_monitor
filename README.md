@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-13 13:46:27.813569  total: 5073 
+ > update time: 2021-05-13 15:35:09.534738  total: 5075 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**weblogic CVE-2021-2109批量验证poc** : [yuaneuro/weblogic_CVE-2021-2109_poc](https://github.com/yuaneuro/weblogic_CVE-2021-2109_poc)  create time: 2021-05-13T15:10:03Z
+
+**A Python program implementing and exploiting the Minsky Turing machine considered in the paper "Intrinsic Propensity for Vulnerability in Computers? Arbitrary Code Execution in the Universal Turing Machine" as per CVE-2021-32471 (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32471)** : [intrinsic-propensity/turing-machine](https://github.com/intrinsic-propensity/turing-machine)  create time: 2021-01-21T10:39:42Z
 
 **CVE-2020-9496和CVE-2021-2109利用dnslog批量验证漏洞poc及exp** : [yuaneuro/ofbiz-poc](https://github.com/yuaneuro/ofbiz-poc)  create time: 2021-05-13T13:28:15Z
 
