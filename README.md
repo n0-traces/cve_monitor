@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-13 10:41:28.817919  total: 5071 
+ > update time: 2021-05-13 13:46:27.813569  total: 5073 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2020-9496和CVE-2021-2109利用dnslog批量验证漏洞poc及exp** : [yuaneuro/ofbiz-poc](https://github.com/yuaneuro/ofbiz-poc)  create time: 2021-05-13T13:28:15Z
+
+**Exploit to SYSTEM for CVE-2021-21551** : [waldo-irc/CVE-2021-21551](https://github.com/waldo-irc/CVE-2021-21551)  create time: 2021-05-13T13:23:38Z
 
 **no description** : [qzyqzynb/CVE-2020-27955](https://github.com/qzyqzynb/CVE-2020-27955)  create time: 2021-05-13T10:30:28Z
 
