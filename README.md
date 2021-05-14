@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-14 08:35:41.296892  total: 5079 
+ > update time: 2021-05-14 09:24:05.099156  total: 5080 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021-21300** : [tao-sun2/CVE-2021-21300](https://github.com/tao-sun2/CVE-2021-21300)  create time: 2021-05-14T09:00:37Z
 
 **This is a good projects.** : [TheCryingGame/CVE-2021-2021good](https://github.com/TheCryingGame/CVE-2021-2021good)  create time: 2021-05-14T08:03:43Z
 
