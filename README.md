@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-15 01:27:32.095613  total: 5084 
+ > update time: 2021-05-15 07:08:05.447576  total: 5085 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Exploit CVE-2017-7494 for Net Security course final Assignment. This would reveal the vulnerability of services that run in administrative priority on Linux.** : [I-Rinka/BIT-EternalBlue-for-Linux](https://github.com/I-Rinka/BIT-EternalBlue-for-Linux)  create time: 2021-05-15T06:52:23Z
 
 **Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass)** : [guywhataguy/D-Link-CVE-2021-27342-exploit](https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit)  create time: 2021-05-15T01:22:19Z
 
