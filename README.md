@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-16 01:53:38.551837  total: 5086 
+ > update time: 2021-05-16 16:48:45.076476  total: 5090 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [kienquoc102/Exploit-CVE-2018-9995](https://github.com/kienquoc102/Exploit-CVE-2018-9995)  create time: 2021-05-16T11:21:22Z
+
+**no description** : [quocquoc181/CVE-2018-9995](https://github.com/quocquoc181/CVE-2018-9995)  create time: 2021-05-16T09:55:57Z
+
+**CVE-2019-14322: Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')** : [faisalfs10x/CVE-2019-14322-scanner](https://github.com/faisalfs10x/CVE-2019-14322-scanner)  create time: 2021-05-16T13:15:12Z
+
+**Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.** : [0vercl0k/CVE-2021-31166](https://github.com/0vercl0k/CVE-2021-31166)  create time: 2021-05-16T16:15:56Z
 
 **RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2** : [samwcyo/CVE-2021-27651-PoC](https://github.com/samwcyo/CVE-2021-27651-PoC)  create time: 2021-05-16T01:40:47Z
 
