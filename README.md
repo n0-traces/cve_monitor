@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-15 07:08:05.447576  total: 5085 
+ > update time: 2021-05-16 01:53:38.551837  total: 5086 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2** : [samwcyo/CVE-2021-27651-PoC](https://github.com/samwcyo/CVE-2021-27651-PoC)  create time: 2021-05-16T01:40:47Z
 
 **Exploit CVE-2017-7494 for Net Security course final Assignment. This would reveal the vulnerability of services that run in administrative priority on Linux.** : [I-Rinka/BIT-EternalBlue-for-Linux](https://github.com/I-Rinka/BIT-EternalBlue-for-Linux)  create time: 2021-05-15T06:52:23Z
 
