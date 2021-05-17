@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-17 16:59:46.464617  total: 5098 
+ > update time: 2021-05-17 20:03:22.726306  total: 5099 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Different rules to detect if CVE-2021-31166 is being exploited** : [Frankmock/CVE-2021-31166-detection-rules](https://github.com/Frankmock/CVE-2021-31166-detection-rules)  create time: 2021-05-17T19:55:41Z
 
 **Additional payloads and functions** : [johnjhacking/CVE-2021-22204-Payloads-and-Steps](https://github.com/johnjhacking/CVE-2021-22204-Payloads-and-Steps)  create time: 2021-05-17T16:37:05Z
 
