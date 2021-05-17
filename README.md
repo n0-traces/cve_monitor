@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-17 11:29:04.722372  total: 5097 
+ > update time: 2021-05-17 16:59:46.464617  total: 5098 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Additional payloads and functions** : [johnjhacking/CVE-2021-22204-Payloads-and-Steps](https://github.com/johnjhacking/CVE-2021-22204-Payloads-and-Steps)  create time: 2021-05-17T16:37:05Z
 
 **PoC for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.** : [An0ny-m0us/CVE-2021-31166](https://github.com/An0ny-m0us/CVE-2021-31166)  create time: 2021-05-17T11:12:45Z
 
