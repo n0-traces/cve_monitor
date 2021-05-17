@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-17 07:05:03.333346  total: 5094 
+ > update time: 2021-05-17 07:53:34.585777  total: 5095 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Nmap NSE script to detect CVE-2019-14322 of Pallets Werkzeug path traversal via SharedDataMiddleware mishandles drive names (such as C:) in Windows pathnames** : [faisalfs10x/http-vuln-cve2019-14322.nse](https://github.com/faisalfs10x/http-vuln-cve2019-14322.nse)  create time: 2021-05-17T07:48:19Z
 
 **no description** : [nth347/CVE-2019-9081_poc](https://github.com/nth347/CVE-2019-9081_poc)  create time: 2021-05-17T06:54:05Z
 
