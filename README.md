@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-19 07:09:42.894263  total: 5150 
+ > update time: 2021-05-19 07:54:14.587978  total: 5151 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**simple bash script for exploit CVE-2021-31166** : [zecopro/CVE-2021-31166](https://github.com/zecopro/CVE-2021-31166)  create time: 2021-05-19T07:50:40Z
 
 **HTTP Protocol Stack CVE-2021-31166** : [corelight/CVE-2021-31166](https://github.com/corelight/CVE-2021-31166)  create time: 2021-05-17T23:54:12Z
 
