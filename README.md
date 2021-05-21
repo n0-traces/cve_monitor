@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-21 03:54:37.338263  total: 5159 
+ > update time: 2021-05-21 05:47:33.497065  total: 5160 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Exploit Delivery via Steganography and Polyglots, CVE-2014-0282** : [Charmve/PyStegosploit](https://github.com/Charmve/PyStegosploit)  create time: 2021-05-17T04:39:32Z
 
 **no description** : [ch3rn0byl/CVE-2021-21551](https://github.com/ch3rn0byl/CVE-2021-21551)  create time: 2021-05-21T03:13:58Z
 
