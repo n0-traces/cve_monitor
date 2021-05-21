@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-21 13:52:30.592417  total: 5162 
+ > update time: 2021-05-21 16:04:14.391852  total: 5167 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for exploiting CVE-2020-25242** : [JamesGeee/CVE-2020-25242](https://github.com/JamesGeee/CVE-2020-25242)  create time: 2021-05-21T15:45:42Z
+
+**PoC for exploiting CVE-2020-17891** : [JamesGeee/CVE-2020-17891](https://github.com/JamesGeee/CVE-2020-17891)  create time: 2021-05-21T15:45:39Z
+
+**PoC for exploiting CVE-2021-25660** : [JamesGeee/CVE-2021-25660](https://github.com/JamesGeee/CVE-2021-25660)  create time: 2021-05-21T15:45:45Z
+
+**PoC for exploiting CVE-2021-27386** : [JamesGeee/CVE-2021-27386](https://github.com/JamesGeee/CVE-2021-27386)  create time: 2021-05-21T15:45:35Z
+
+**PoC for exploiting CVE-2021-23009** : [JamesGeee/CVE-2021-23009](https://github.com/JamesGeee/CVE-2021-23009)  create time: 2021-05-21T15:45:32Z
 
 **no description** : [nondejus/CVE-2021-31876](https://github.com/nondejus/CVE-2021-31876)  create time: 2021-05-21T13:19:50Z
 
