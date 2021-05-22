@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-22 04:14:55.623798  total: 5168 
+ > update time: 2021-05-22 16:35:26.863322  total: 5169 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Write-up and proof of concept exploit for CVE-2020-14372** : [kukrimate/CVE-2020-14372](https://github.com/kukrimate/CVE-2020-14372)  create time: 2021-04-19T23:36:25Z
 
 **this is a test** : [asdfkj1/CVE-2021-31168](https://github.com/asdfkj1/CVE-2021-31168)  create time: 2021-05-22T03:59:57Z
 
