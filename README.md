@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-23 13:19:10.346991  total: 5171 
+ > update time: 2021-05-23 14:28:19.999251  total: 5172 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**WordPress XXE vulnerability** : [Vulnmachines/wordpress_cve-2021-29447](https://github.com/Vulnmachines/wordpress_cve-2021-29447)  create time: 2021-05-23T14:08:34Z
 
 **Codiad unauthenticated Remote Code Execution** : [Hacker5preme/CVE-2019-19208-exploit](https://github.com/Hacker5preme/CVE-2019-19208-exploit)  create time: 2021-05-13T13:57:07Z
 
