@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-23 18:57:59.837295  total: 5175 
+ > update time: 2021-05-23 19:56:17.406642  total: 5176 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [ZhenwarX/Telerik-CVE-2017-9248-exploit](https://github.com/ZhenwarX/Telerik-CVE-2017-9248-exploit)  create time: 2021-05-23T19:50:10Z
 
 **no description** : [bgsilvait/WIn-CVE-2021-31166](https://github.com/bgsilvait/WIn-CVE-2021-31166)  create time: 2021-05-23T18:41:48Z
 
