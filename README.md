@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-24 07:58:08.370904  total: 5179 
+ > update time: 2021-05-24 15:52:06.663498  total: 5180 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [nopdata/cve-2020-28948](https://github.com/nopdata/cve-2020-28948)  create time: 2021-05-24T15:36:16Z
 
 **http.sys remote UAF to Leak Credential** : [Udyz/CVE-2021-31166](https://github.com/Udyz/CVE-2021-31166)  create time: 2021-05-24T07:42:18Z
 
