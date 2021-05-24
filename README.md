@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-24 20:55:40.421642  total: 5185 
+ > update time: 2021-05-24 21:02:47.541477  total: 5186 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Western Digital MyCloud PR4100 Link Resolution Information Disclosure Vulnerability** : [piffd0s/CVE-2021-3310](https://github.com/piffd0s/CVE-2021-3310)  create time: 2021-05-24T20:55:33Z
 
 **PoC for exploiting CVE-2020-24993** : [JamesGeee/CVE-2020-24993](https://github.com/JamesGeee/CVE-2020-24993)  create time: 2021-05-24T20:38:23Z
 
