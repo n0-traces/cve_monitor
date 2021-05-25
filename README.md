@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-25 17:35:40.945184  total: 5201 
+ > update time: 2021-05-25 20:57:29.992885  total: 5202 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Experimental PoC and demo for Smarty CVE-2021-26120** : [Twigonometry/CVE-2021-26120](https://github.com/Twigonometry/CVE-2021-26120)  create time: 2021-05-25T20:53:14Z
 
 **Coming soon** : [Hacker5preme/CVE-2018-19423-Exploit](https://github.com/Hacker5preme/CVE-2018-19423-Exploit)  create time: 2021-05-25T16:55:17Z
 
