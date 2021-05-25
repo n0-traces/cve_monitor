@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-25 01:54:33.733364  total: 5191 
+ > update time: 2021-05-25 07:21:28.831996  total: 5192 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**RCE** : [r90tpass/CVE-2021-3222222](https://github.com/r90tpass/CVE-2021-3222222)  create time: 2021-05-25T06:46:52Z
 
 **PoC for exploiting CVE-2020-36227** : [JamesGeee/CVE-2020-36227](https://github.com/JamesGeee/CVE-2020-36227)  create time: 2021-05-25T00:49:28Z
 
