@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-27 17:37:44.343432  total: 5217 
+ > update time: 2021-05-27 20:54:26.734518  total: 5218 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Exploit for Joomla JCK Editor 6.4.4 (CVE-2018-17254)** : [Nickguitar/Joomla-JCK-Editor-6.4.4-SQL-Injection](https://github.com/Nickguitar/Joomla-JCK-Editor-6.4.4-SQL-Injection)  create time: 2021-03-05T21:06:45Z
 
 **no description** : [ykg88/OHTS_IE6052-CVE-2020-17087](https://github.com/ykg88/OHTS_IE6052-CVE-2020-17087)  create time: 2021-05-27T16:55:39Z
 
