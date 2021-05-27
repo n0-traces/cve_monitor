@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-26 03:20:42.779409  total: 5213 
+ > update time: 2021-05-27 03:58:24.431277  total: 5215 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Multiple vulnerabilities in the vSphere Client (HTML5) were privately reported to VMware. Updates and workarounds are available to address these vulnerabilities in affected VMware products.** : [bigbroke/CVE-2021-21985](https://github.com/bigbroke/CVE-2021-21985)  create time: 2021-05-27T02:28:48Z
+
+**Argument Injection in Dragonfly Ruby Gem** : [mlr0p/CVE-2021-33564](https://github.com/mlr0p/CVE-2021-33564)  create time: 2021-05-25T02:48:08Z
 
 **PoC for exploiting CVE-2016-20011** : [JamesGeee/CVE-2016-20011](https://github.com/JamesGeee/CVE-2016-20011)  create time: 2021-05-26T03:00:50Z
 
