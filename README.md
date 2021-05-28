@@ -1,9 +1,21 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-28 09:14:33.413493  total: 5220 
+ > update time: 2021-05-28 17:58:18.007892  total: 5226 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for exploiting CVE-2020-27208** : [JamesGeee/CVE-2020-27208](https://github.com/JamesGeee/CVE-2020-27208)  create time: 2021-05-28T16:54:21Z
+
+**PoC for exploiting CVE-2020-12061** : [JamesGeee/CVE-2020-12061](https://github.com/JamesGeee/CVE-2020-12061)  create time: 2021-05-28T16:54:16Z
+
+**Proof of Concept for CVE-2020-14295.** : [mrg3ntl3m4n/poc-CVE-2020-14295](https://github.com/mrg3ntl3m4n/poc-CVE-2020-14295)  create time: 2021-05-28T16:40:49Z
+
+**PoC for exploiting CVE-2021-29629** : [JamesGeee/CVE-2021-29629](https://github.com/JamesGeee/CVE-2021-29629)  create time: 2021-05-28T16:54:26Z
+
+**PoC for exploiting CVE-2021-29628** : [JamesGeee/CVE-2021-29628](https://github.com/JamesGeee/CVE-2021-29628)  create time: 2021-05-28T16:54:25Z
+
+**PoC for exploiting CVE-2021-33516** : [JamesGeee/CVE-2021-33516](https://github.com/JamesGeee/CVE-2021-33516)  create time: 2021-05-28T16:54:20Z
 
 **My notes for CVE-2004-1561 IceCast exploitation** : [Nathan-Bash/CVE-2004-1561-Notes](https://github.com/Nathan-Bash/CVE-2004-1561-Notes)  create time: 2021-05-28T09:01:44Z
 
