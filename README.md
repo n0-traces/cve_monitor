@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-28 08:23:28.665053  total: 5219 
+ > update time: 2021-05-28 09:14:33.413493  total: 5220 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**My notes for CVE-2004-1561 IceCast exploitation** : [Nathan-Bash/CVE-2004-1561-Notes](https://github.com/Nathan-Bash/CVE-2004-1561-Notes)  create time: 2021-05-28T09:01:44Z
 
 **Script to patch your domain computers about the CVE-2021-21551. Privesc on machines that have the driver dbutil_2_3.sys, installed by some DELL tools (BIOS updater, SupportAssist...)** : [arnaudluti/PS-CVE-2021-21551](https://github.com/arnaudluti/PS-CVE-2021-21551)  create time: 2021-05-28T07:29:40Z
 
