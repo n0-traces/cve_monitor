@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-28 17:58:18.007892  total: 5226 
+ > update time: 2021-05-28 19:11:50.363170  total: 5227 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Cacti v1.2.8 Unauthenticated Remote Code Execution** : [hexcowboy/CVE-2020-8813](https://github.com/hexcowboy/CVE-2020-8813)  create time: 2021-05-28T17:55:49Z
 
 **PoC for exploiting CVE-2020-27208** : [JamesGeee/CVE-2020-27208](https://github.com/JamesGeee/CVE-2020-27208)  create time: 2021-05-28T16:54:21Z
 
