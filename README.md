@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-31 14:31:20.841813  total: 5233 
+ > update time: 2021-05-31 15:11:47.404914  total: 5235 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**python3 POC for CVE-2019-2729 WebLogic Deserialization Vulnerability and CVE-2017-10271 amongst others** : [pizza-power/weblogic-CVE-2019-2729-POC](https://github.com/pizza-power/weblogic-CVE-2019-2729-POC)  create time: 2021-05-31T14:54:38Z
+
+**AutoPwn Script for Moodle 3.9 leveraging CVE-2020–20282, CVE-2020–14320,CVE-2020–14321** : [3mrgnc3/Moodle_3.9_RCE_AutoPwn](https://github.com/3mrgnc3/Moodle_3.9_RCE_AutoPwn)  create time: 2021-05-31T15:03:49Z
 
 **BuddyPress is an open source WordPress plugin to build a community site. In releases of BuddyPress from 5.0.0 before 7.2.1 it's possible for a non-privileged, regular user to obtain administrator rights by exploiting an issue in the REST API members endpoint. The vulnerability has been fixed in BuddyPress 7.2.1. Existing installations of the plugin should be updated to this version to mitigate the issue.** : [HoangKien1020/CVE-2021-21389](https://github.com/HoangKien1020/CVE-2021-21389)  create time: 2021-05-31T14:12:26Z
 
