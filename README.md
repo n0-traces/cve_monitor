@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-01 11:22:55.318105  total: 5294 
+ > update time: 2021-06-01 19:30:45.257617  total: 5296 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC of how to exploit a RCE vulnerability of the example DAGs in Apache Airflow <1.10.11** : [pberba/CVE-2020-11978](https://github.com/pberba/CVE-2020-11978)  create time: 2021-05-22T15:58:01Z
+
+**This script check the CVE-2021-21985 vulnerability and patch on vCenter Server.** : [mauricelambert/CVE-2021-21985](https://github.com/mauricelambert/CVE-2021-21985)  create time: 2021-06-01T19:12:29Z
 
 **test** : [dorisroot1/CVE-2021-2989](https://github.com/dorisroot1/CVE-2021-2989)  create time: 2021-06-01T11:18:34Z
 
