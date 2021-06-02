@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-01 19:30:45.257617  total: 5296 
+ > update time: 2021-06-02 04:26:51.930746  total: 5301 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for exploiting CVE-2020-25710** : [JamesGeee/CVE-2020-25710](https://github.com/JamesGeee/CVE-2020-25710)  create time: 2021-06-02T03:00:16Z
+
+**PoC for exploiting CVE-2021-32657** : [JamesGeee/CVE-2021-32657](https://github.com/JamesGeee/CVE-2021-32657)  create time: 2021-06-02T03:00:12Z
+
+**PoC for exploiting CVE-2021-32656** : [JamesGeee/CVE-2021-32656](https://github.com/JamesGeee/CVE-2021-32656)  create time: 2021-06-02T03:00:10Z
+
+**PoC for exploiting CVE-2021-30498** : [JamesGeee/CVE-2021-30498](https://github.com/JamesGeee/CVE-2021-30498)  create time: 2021-06-02T03:00:07Z
+
+**PoC for exploiting CVE-2021-29252** : [JamesGeee/CVE-2021-29252](https://github.com/JamesGeee/CVE-2021-29252)  create time: 2021-06-02T03:00:03Z
 
 **PoC of how to exploit a RCE vulnerability of the example DAGs in Apache Airflow <1.10.11** : [pberba/CVE-2020-11978](https://github.com/pberba/CVE-2020-11978)  create time: 2021-05-22T15:58:01Z
 
