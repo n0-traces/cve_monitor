@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-02 04:26:51.930746  total: 5301 
+ > update time: 2021-06-02 10:21:30.666808  total: 5303 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**LogonTracer v1.2.0 RCE** : [dnr6419/CVE-2018-16167](https://github.com/dnr6419/CVE-2018-16167)  create time: 2021-06-02T07:39:19Z
+
+**typo3 install.php XSS** : [dnr6419/CVE-2018-6905](https://github.com/dnr6419/CVE-2018-6905)  create time: 2021-06-02T07:37:42Z
 
 **PoC for exploiting CVE-2020-25710** : [JamesGeee/CVE-2020-25710](https://github.com/JamesGeee/CVE-2020-25710)  create time: 2021-06-02T03:00:16Z
 
