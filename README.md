@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-02 10:21:30.666808  total: 5303 
+ > update time: 2021-06-02 15:22:48.390120  total: 5304 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [bluefrostsecurity/CVE-2021-28476](https://github.com/bluefrostsecurity/CVE-2021-28476)  create time: 2021-06-02T14:50:56Z
 
 **LogonTracer v1.2.0 RCE** : [dnr6419/CVE-2018-16167](https://github.com/dnr6419/CVE-2018-16167)  create time: 2021-06-02T07:39:19Z
 
