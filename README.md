@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-03 12:21:16.979451  total: 5338 
+ > update time: 2021-06-03 13:39:25.905606  total: 5340 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Un semplice exploit che sfrutta CVE-2015-7297, CVE-2015-7857 and CVE-2015-7858 per elencare gli utenti con la psw del db** : [areaventuno/exploit-joomla](https://github.com/areaventuno/exploit-joomla)  create time: 2020-10-29T00:35:35Z
+
+**stack based buffer overflow in MsIo64.sys, Proof of Concept Local Privilege Escalation to nt authority/system** : [mathisvickie/CVE-2021-27965](https://github.com/mathisvickie/CVE-2021-27965)  create time: 2021-06-03T12:39:11Z
 
 **cve-2021-21985 exploit** : [xnianq/cve-2021-21985_exp](https://github.com/xnianq/cve-2021-21985_exp)  create time: 2021-06-03T12:17:06Z
 
