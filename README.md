@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-03 00:20:16.751655  total: 5334 
+ > update time: 2021-06-03 10:36:50.234383  total: 5336 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PHPFusion 9.03.50 - Remote Code Execution** : [r90tpass/CVE-2020-24949](https://github.com/r90tpass/CVE-2020-24949)  create time: 2021-06-03T09:49:22Z
+
+**CVE-2021-21985 vmware vcenter 远程代码执行 EXP** : [r0ckysec/CVE-2021-21985](https://github.com/r0ckysec/CVE-2021-21985)  create time: 2021-06-03T09:59:21Z
 
 **PoC for exploiting CVE-2019-14836** : [JamesGeee/CVE-2019-14836](https://github.com/JamesGeee/CVE-2019-14836)  create time: 2021-06-03T00:06:49Z
 
