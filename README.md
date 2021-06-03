@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-03 10:36:50.234383  total: 5336 
+ > update time: 2021-06-03 11:41:56.482920  total: 5337 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for the SQL injection vulnerability in PostgreSQL with Django, found in Django 1.11 before 1.11.28, 2.2 before 2.2.10, and 3.0 before 3.0.3** : [huzaifakhan771/CVE-2020-7471-Django](https://github.com/huzaifakhan771/CVE-2020-7471-Django)  create time: 2021-06-03T11:21:27Z
 
 **PHPFusion 9.03.50 - Remote Code Execution** : [r90tpass/CVE-2020-24949](https://github.com/r90tpass/CVE-2020-24949)  create time: 2021-06-03T09:49:22Z
 
