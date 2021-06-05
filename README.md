@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-05 15:53:14.000498  total: 5385 
+ > update time: 2021-06-05 19:09:23.564815  total: 5386 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**This demonstration video shows how we can control the victim's device by sending the innocent-looking PDF file to the target which actually consists of  embedded payload. The exploit was made public as CVE-2010-1240.** : [Jasmoon99/Embedded-PDF](https://github.com/Jasmoon99/Embedded-PDF)  create time: 2021-06-05T18:59:28Z
 
 **no description** : [mr-r3bot/Gitlab-CVE-2021-22205](https://github.com/mr-r3bot/Gitlab-CVE-2021-22205)  create time: 2021-06-05T15:42:16Z
 
