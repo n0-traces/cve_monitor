@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-05 19:09:23.564815  total: 5386 
+ > update time: 2021-06-06 02:34:35.092082  total: 5387 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Unsafe Twig processing of static pages leading to RCE in Grav CMS 1.7.10** : [CsEnox/CVE-2021-29440](https://github.com/CsEnox/CVE-2021-29440)  create time: 2021-06-06T00:51:21Z
 
 **This demonstration video shows how we can control the victim's device by sending the innocent-looking PDF file to the target which actually consists of  embedded payload. The exploit was made public as CVE-2010-1240.** : [Jasmoon99/Embedded-PDF](https://github.com/Jasmoon99/Embedded-PDF)  create time: 2021-06-05T18:59:28Z
 
