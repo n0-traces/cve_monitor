@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-06 02:34:35.092082  total: 5387 
+ > update time: 2021-06-06 07:36:40.210662  total: 5388 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Apache/Alibaba Dubbo <= 2.7.3 PoC Code for CVE-2021-25641 RCE via Deserialization of Untrusted Data; Affects Versions <= 2.7.6 With Different Gadgets** : [Dor-Tumarkin/CVE-2021-25641-Proof-of-Concept](https://github.com/Dor-Tumarkin/CVE-2021-25641-Proof-of-Concept)  create time: 2021-06-06T06:41:36Z
 
 **Unsafe Twig processing of static pages leading to RCE in Grav CMS 1.7.10** : [CsEnox/CVE-2021-29440](https://github.com/CsEnox/CVE-2021-29440)  create time: 2021-06-06T00:51:21Z
 
