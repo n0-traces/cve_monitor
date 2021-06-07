@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-07 20:27:01.925259  total: 5395 
+ > update time: 2021-06-07 23:13:08.902234  total: 5397 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [suprise4u/CVE-2019-1388](https://github.com/suprise4u/CVE-2019-1388)  create time: 2021-06-07T22:29:08Z
+
+**PoC for exploiting CVE-2020-4732** : [JamesGeeee/CVE-2020-4732](https://github.com/JamesGeeee/CVE-2020-4732)  create time: 2021-06-07T23:08:30Z
 
 **Bludit 3.9.2 - Auth Brute Force Mitigation Bypass. CVE-2019-17240** : [brusergio/bloodit](https://github.com/brusergio/bloodit)  create time: 2021-06-07T17:22:40Z
 
