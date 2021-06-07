@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-07 09:47:16.368424  total: 5393 
+ > update time: 2021-06-07 12:29:34.573037  total: 5394 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**My implementation for an exploit of the CVE-2020-0041 bug** : [Byte-Master-101/CVE_2020_0041](https://github.com/Byte-Master-101/CVE_2020_0041)  create time: 2021-06-07T11:48:43Z
 
 **A simple repository helping to test CVE-2021-3572 in PyPA/pip** : [frenzymadness/CVE-2021-3572](https://github.com/frenzymadness/CVE-2021-3572)  create time: 2021-06-07T08:36:47Z
 
