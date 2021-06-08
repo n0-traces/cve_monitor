@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-08 10:23:56.884049  total: 5481 
+ > update time: 2021-06-08 15:49:44.393988  total: 5483 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Directory Traversal vulnerability in Enterprise License Manager portal in Mitel MiContact Center Enterprise before 9.4** : [PwCNO-CTO/CVE-2021-26714](https://github.com/PwCNO-CTO/CVE-2021-26714)  create time: 2021-06-08T15:33:51Z
+
+**Directory traversal vulnerability in the spring-boot-actuator-logview library** : [PwCNO-CTO/CVE-2021-21234](https://github.com/PwCNO-CTO/CVE-2021-21234)  create time: 2021-06-08T15:31:54Z
 
 **exploit..** : [AssassinUKG/CVE_2018_16509](https://github.com/AssassinUKG/CVE_2018_16509)  create time: 2021-06-08T10:15:39Z
 
