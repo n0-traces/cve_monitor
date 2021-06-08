@@ -1,9 +1,61 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-07 23:59:21.490733  total: 5400 
+ > update time: 2021-06-08 01:15:59.298839  total: 5426 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for exploiting CVE-2017-20005** : [JamesGeeee/CVE-2017-20005](https://github.com/JamesGeeee/CVE-2017-20005)  create time: 2021-06-08T01:09:17Z
+
+**PoC for exploiting CVE-2018-25015** : [JamesGeeee/CVE-2018-25015](https://github.com/JamesGeeee/CVE-2018-25015)  create time: 2021-06-08T01:10:51Z
+
+**PoC for exploiting CVE-2019-25045** : [JamesGeeee/CVE-2019-25045](https://github.com/JamesGeeee/CVE-2019-25045)  create time: 2021-06-08T01:11:02Z
+
+**PoC for exploiting CVE-2020-36387** : [JamesGeeee/CVE-2020-36387](https://github.com/JamesGeeee/CVE-2020-36387)  create time: 2021-06-08T01:11:52Z
+
+**PoC for exploiting CVE-2020-36386** : [JamesGeeee/CVE-2020-36386](https://github.com/JamesGeeee/CVE-2020-36386)  create time: 2021-06-08T01:11:40Z
+
+**PoC for exploiting CVE-2020-1742** : [JamesGeeee/CVE-2020-1742](https://github.com/JamesGeeee/CVE-2020-1742)  create time: 2021-06-08T01:11:28Z
+
+**PoC for exploiting CVE-2020-1690** : [JamesGeeee/CVE-2020-1690](https://github.com/JamesGeeee/CVE-2020-1690)  create time: 2021-06-08T01:11:08Z
+
+**PoC for exploiting CVE-2021-30528** : [JamesGeeee/CVE-2021-30528](https://github.com/JamesGeeee/CVE-2021-30528)  create time: 2021-06-08T01:12:15Z
+
+**PoC for exploiting CVE-2021-30527** : [JamesGeeee/CVE-2021-30527](https://github.com/JamesGeeee/CVE-2021-30527)  create time: 2021-06-08T01:12:09Z
+
+**PoC for exploiting CVE-2021-30526** : [JamesGeeee/CVE-2021-30526](https://github.com/JamesGeeee/CVE-2021-30526)  create time: 2021-06-08T01:12:03Z
+
+**PoC for exploiting CVE-2021-30525** : [JamesGeeee/CVE-2021-30525](https://github.com/JamesGeeee/CVE-2021-30525)  create time: 2021-06-08T01:11:58Z
+
+**PoC for exploiting CVE-2021-30522** : [JamesGeeee/CVE-2021-30522](https://github.com/JamesGeeee/CVE-2021-30522)  create time: 2021-06-08T01:10:57Z
+
+**PoC for exploiting CVE-2021-30538** : [JamesGeeee/CVE-2021-30538](https://github.com/JamesGeeee/CVE-2021-30538)  create time: 2021-06-08T01:10:39Z
+
+**PoC for exploiting CVE-2021-30536** : [JamesGeeee/CVE-2021-30536](https://github.com/JamesGeeee/CVE-2021-30536)  create time: 2021-06-08T01:10:29Z
+
+**PoC for exploiting CVE-2021-30535** : [JamesGeeee/CVE-2021-30535](https://github.com/JamesGeeee/CVE-2021-30535)  create time: 2021-06-08T01:10:17Z
+
+**PoC for exploiting CVE-2021-30524** : [JamesGeeee/CVE-2021-30524](https://github.com/JamesGeeee/CVE-2021-30524)  create time: 2021-06-08T01:10:04Z
+
+**PoC for exploiting CVE-2021-30523** : [JamesGeeee/CVE-2021-30523](https://github.com/JamesGeeee/CVE-2021-30523)  create time: 2021-06-08T01:09:54Z
+
+**PoC for exploiting CVE-2021-30521** : [JamesGeeee/CVE-2021-30521](https://github.com/JamesGeeee/CVE-2021-30521)  create time: 2021-06-08T01:09:48Z
+
+**PoC for exploiting CVE-2021-3277** : [JamesGeeee/CVE-2021-3277](https://github.com/JamesGeeee/CVE-2021-3277)  create time: 2021-06-08T01:09:43Z
+
+**PoC for exploiting CVE-2021-32671** : [JamesGeeee/CVE-2021-32671](https://github.com/JamesGeeee/CVE-2021-32671)  create time: 2021-06-08T01:09:38Z
+
+**PoC for exploiting CVE-2021-32670** : [JamesGeeee/CVE-2021-32670](https://github.com/JamesGeeee/CVE-2021-32670)  create time: 2021-06-08T01:09:26Z
+
+**PoC for exploiting CVE-2021-26080** : [JamesGeeee/CVE-2021-26080](https://github.com/JamesGeeee/CVE-2021-26080)  create time: 2021-06-08T01:09:08Z
+
+**PoC for exploiting CVE-2021-26079** : [JamesGeeee/CVE-2021-26079](https://github.com/JamesGeeee/CVE-2021-26079)  create time: 2021-06-08T01:09:02Z
+
+**PoC for exploiting CVE-2021-26078** : [JamesGeeee/CVE-2021-26078](https://github.com/JamesGeeee/CVE-2021-26078)  create time: 2021-06-08T01:08:57Z
+
+**PoC for exploiting CVE-2021-33194** : [JamesGeeee/CVE-2021-33194](https://github.com/JamesGeeee/CVE-2021-33194)  create time: 2021-06-08T01:08:52Z
+
+**PoC for exploiting CVE-2021-22118** : [JamesGeeee/CVE-2021-22118](https://github.com/JamesGeeee/CVE-2021-22118)  create time: 2021-06-08T01:08:45Z
 
 **PoC for exploiting CVE-2020-25716** : [JamesGeeee/CVE-2020-25716](https://github.com/JamesGeeee/CVE-2020-25716)  create time: 2021-06-07T23:45:51Z
 
