@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-11 14:34:02.326072  total: 5491 
+ > update time: 2021-06-11 14:55:52.227612  total: 5492 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Python2 POC for CVE 2020-11060** : [0xdreadnaught/cve-2020-11060-poc](https://github.com/0xdreadnaught/cve-2020-11060-poc)  create time: 2021-06-11T14:52:03Z
 
 **CVE-2021-3560 PrivEsc2root Exploit** : [swapravo/polkadots](https://github.com/swapravo/polkadots)  create time: 2021-06-11T14:28:43Z
 
