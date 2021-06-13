@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-13 16:57:43.833715  total: 5496 
+ > update time: 2021-06-13 23:25:58.477888  total: 5497 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**wpDiscuz 7.0.4 Remote Code Execution** : [hevox/CVE-2020-24186-wpDiscuz-7.0.4-RCE](https://github.com/hevox/CVE-2020-24186-wpDiscuz-7.0.4-RCE)  create time: 2021-06-13T23:10:19Z
 
 **CVE-2021–22201 Arbitrary file read on Gitlab** : [exp1orer/CVE-2021-22201](https://github.com/exp1orer/CVE-2021-22201)  create time: 2021-06-13T16:30:47Z
 
