@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-13 23:25:58.477888  total: 5497 
+ > update time: 2021-06-14 01:09:38.856910  total: 5498 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**ZeroShell 3.9.0 Remote Command Injection** : [hevox/CVE-2019-12725-Command-Injection](https://github.com/hevox/CVE-2019-12725-Command-Injection)  create time: 2021-06-13T23:57:37Z
 
 **wpDiscuz 7.0.4 Remote Code Execution** : [hevox/CVE-2020-24186-wpDiscuz-7.0.4-RCE](https://github.com/hevox/CVE-2020-24186-wpDiscuz-7.0.4-RCE)  create time: 2021-06-13T23:10:19Z
 
