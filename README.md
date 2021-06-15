@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-14 17:14:02.355590  total: 5503 
+ > update time: 2021-06-15 07:03:07.748648  total: 5504 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [spyx/cve-2019-17240](https://github.com/spyx/cve-2019-17240)  create time: 2021-06-15T05:51:05Z
 
 **Change the algorithm RS256(asymmetric) to HS256(symmetric) - POC (CVE-2016-10555)** : [FroydCod3r/poc-cve-2016-10555](https://github.com/FroydCod3r/poc-cve-2016-10555)  create time: 2021-06-14T16:56:05Z
 
