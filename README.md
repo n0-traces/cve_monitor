@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-15 07:03:07.748648  total: 5504 
+ > update time: 2021-06-15 07:28:17.040095  total: 5505 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API** : [stuartcarroll/CitrixADC-CVE-2020-8300](https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300)  create time: 2021-06-15T07:21:16Z
 
 **no description** : [spyx/cve-2019-17240](https://github.com/spyx/cve-2019-17240)  create time: 2021-06-15T05:51:05Z
 
