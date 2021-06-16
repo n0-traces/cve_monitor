@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-16 23:40:11.203190  total: 5511 
+ > update time: 2021-06-16 23:52:45.172534  total: 5512 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [KZMachine/CVERT-2021](https://github.com/KZMachine/CVERT-2021)  create time: 2021-06-16T19:25:56Z
 
 **PoC for exploiting CVE-2017-7670 : The Traffic Router component of the incubating Apache Traffic Control project is vulnerable to a Slowloris style Denial of Service attack. TCP connections made on the configured DNS port will remain in the ESTABLISHED state until the client explicitly closes the connection or Traffic Router is restarted. If connections remain in the ESTABLISHED state indefinitely and accumulate in number to match the size of the thread pool dedicated to processing DNS requests, the thread pool becomes exhausted. Once the thread pool is exhausted, Traffic Router is unable to service any DNS request, regardless of transport protocol.** : [PwnCast/CVE-2017-7670](https://github.com/PwnCast/CVE-2017-7670)  create time: 2021-06-16T23:29:51Z
 
