@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-18 10:31:16.259745  total: 5726 
+ > update time: 2021-06-18 10:50:58.146531  total: 5727 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Stored XSS via moodlenetprofile parameter in user profile** : [HoangKien1020/CVE-2020-25627](https://github.com/HoangKien1020/CVE-2020-25627)  create time: 2021-06-18T10:37:23Z
 
 **PoC for exploiting CVE-2002-1847 : Buffer overflow in mplay32.exe of Microsoft Windows Media Player (WMP) 6.3 through 7.1 allows remote attackers to execute arbitrary commands via a long mp3 filename command line argument. NOTE: since the only known attack vector requires command line access, this may not be a vulnerability.** : [PwnCast/CVE-2002-1847](https://github.com/PwnCast/CVE-2002-1847)  create time: 2021-06-18T10:26:00Z
 
