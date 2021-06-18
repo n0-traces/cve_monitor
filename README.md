@@ -1,9 +1,45 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-17 20:20:25.044636  total: 5517 
+ > update time: 2021-06-18 09:56:20.281649  total: 5535 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for exploiting CVE-2017-18640 : The Alias feature in SnakeYAML 1.18 allows entity expansion during a load operation, a related issue to CVE-2003-1564.** : [PwnCast/CVE-2017-18640](https://github.com/PwnCast/CVE-2017-18640)  create time: 2021-06-18T09:53:53Z
+
+**PoC for exploiting CVE-2021-25407 : A possible out of bounds write vulnerability in NPU driver prior to SMR JUN-2021 Release 1 allows arbitrary memory write.** : [PwnCast/CVE-2021-25407](https://github.com/PwnCast/CVE-2021-25407)  create time: 2021-06-18T09:52:27Z
+
+**PoC for exploiting CVE-2021-30553 : Use after free in Network service in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.** : [PwnCast/CVE-2021-30553](https://github.com/PwnCast/CVE-2021-30553)  create time: 2021-06-18T09:52:21Z
+
+**PoC for exploiting CVE-2021-30552 : Use after free in Extensions in Google Chrome prior to 91.0.4472.101 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted HTML page.** : [PwnCast/CVE-2021-30552](https://github.com/PwnCast/CVE-2021-30552)  create time: 2021-06-18T09:52:14Z
+
+**PoC for exploiting CVE-2021-30551 : Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.** : [PwnCast/CVE-2021-30551](https://github.com/PwnCast/CVE-2021-30551)  create time: 2021-06-18T09:52:07Z
+
+**PoC for exploiting CVE-2021-30547 : Out of bounds write in ANGLE in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially perform out of bounds memory access via a crafted HTML page.** : [PwnCast/CVE-2021-30547](https://github.com/PwnCast/CVE-2021-30547)  create time: 2021-06-18T09:52:00Z
+
+**PoC for exploiting CVE-2021-24350 : The Visitors WordPress plugin through 0.3 is affected by an Unauthenticated Stored Cross-Site Scripting (XSS) vulnerability. The plugin would display the user's user agent string without validation or encoding within the WordPress admin panel.** : [PwnCast/CVE-2021-24350](https://github.com/PwnCast/CVE-2021-24350)  create time: 2021-06-18T09:51:54Z
+
+**PoC for exploiting CVE-2021-30549 : Use after free in Spell check in Google Chrome prior to 91.0.4472.101 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted HTML page.** : [PwnCast/CVE-2021-30549](https://github.com/PwnCast/CVE-2021-30549)  create time: 2021-06-18T09:51:46Z
+
+**PoC for exploiting CVE-2021-30548 : Use after free in Loader in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.** : [PwnCast/CVE-2021-30548](https://github.com/PwnCast/CVE-2021-30548)  create time: 2021-06-18T09:51:40Z
+
+**PoC for exploiting CVE-2021-25949 : Prototype pollution vulnerability in ‘set-getter’ version 0.1.0 allows an attacker to cause a denial of service and may lead to remote code execution.** : [PwnCast/CVE-2021-25949](https://github.com/PwnCast/CVE-2021-25949)  create time: 2021-06-18T09:51:33Z
+
+**PoC for exploiting CVE-2021-25948 : Prototype pollution vulnerability in ‘expand-hash’ versions 0.1.0 through 1.0.1 allows an attacker to cause a denial of service and may lead to remote code execution.** : [PwnCast/CVE-2021-25948](https://github.com/PwnCast/CVE-2021-25948)  create time: 2021-06-18T09:51:26Z
+
+**PoC for exploiting CVE-2021-24357 : In the Best Image Gallery & Responsive Photo Gallery â€“ FooGallery WordPress plugin before 2.0.35, the Custom CSS field of each gallery is not properly sanitised or validated before being being output in the page where the gallery is embed, leading to a stored Cross-Site Scripting issue.** : [PwnCast/CVE-2021-24357](https://github.com/PwnCast/CVE-2021-24357)  create time: 2021-06-18T09:51:19Z
+
+**PoC for exploiting CVE-2021-24358 : The Plus Addons for Elementor Page Builder WordPress plugin before 4.1.10 did not validate a redirect parameter on a specifically crafted URL before redirecting the user to it, leading to an Open Redirect issue.** : [PwnCast/CVE-2021-24358](https://github.com/PwnCast/CVE-2021-24358)  create time: 2021-06-18T09:51:12Z
+
+**PoC for exploiting CVE-2021-24359 : The Plus Addons for Elementor Page Builder WordPress plugin before 4.1.11 did not properly check that a user requesting a password reset was the legitimate user, allowing an attacker to send an arbitrary reset password email to a registered user on behalf of the WordPress site. Such issue could be chained with an open redirect (CVE-2021-24358) in version below 4.1.10, to include a crafted password reset link in the email, which would lead to an account takeover.** : [PwnCast/CVE-2021-24359](https://github.com/PwnCast/CVE-2021-24359)  create time: 2021-06-18T09:51:06Z
+
+**PoC for exploiting CVE-2021-33668 : Due to improper input sanitization, specially crafted LDAP queries can be injected by an unauthenticated user. This could partially impact the confidentiality of the application.** : [PwnCast/CVE-2021-33668](https://github.com/PwnCast/CVE-2021-33668)  create time: 2021-06-18T09:50:59Z
+
+**PoC for exploiting CVE-2021-0056 : Insecure inherited permissions for the Intel(R) NUC M15 Laptop Kit Driver Pack software before updated version 1.1 may allow an authenticated user to potentially enable escalation of privilege via local access.** : [PwnCast/CVE-2021-0056](https://github.com/PwnCast/CVE-2021-0056)  create time: 2021-06-18T09:50:51Z
+
+**PoC for exploiting CVE-2021-0058 : Incorrect default permissions in the Intel(R) NUC M15 Laptop Kit Driver Pack software before updated version 1.1 may allow an authenticated user to potentially enable escalation of privilege via local access.** : [PwnCast/CVE-2021-0058](https://github.com/PwnCast/CVE-2021-0058)  create time: 2021-06-18T09:50:45Z
+
+**PoC for exploiting CVE-2021-0057 : Uncontrolled search path in the Intel(R) NUC M15 Laptop Kit Driver Pack software before updated version 1.1 may allow an authenticated user to potentially enable escalation of privilege via local access.** : [PwnCast/CVE-2021-0057](https://github.com/PwnCast/CVE-2021-0057)  create time: 2021-06-18T09:50:38Z
 
 **Git-LFS RCE Test** : [FrostsaberX/CVE-2020-27955](https://github.com/FrostsaberX/CVE-2020-27955)  create time: 2021-06-17T20:04:33Z
 
