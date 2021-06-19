@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-19 05:49:27.793946  total: 5729 
+ > update time: 2021-06-19 07:43:26.230836  total: 5730 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution** : [f4T1H21/CVE-2020-7247](https://github.com/f4T1H21/CVE-2020-7247)  create time: 2021-06-19T07:34:42Z
 
 **Pentesterlabs** : [yashanand/cve-2018-6574](https://github.com/yashanand/cve-2018-6574)  create time: 2021-06-19T05:42:43Z
 
