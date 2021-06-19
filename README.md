@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-18 10:50:58.146531  total: 5727 
+ > update time: 2021-06-19 05:02:11.955995  total: 5728 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**For pentesterlab exersise temp.** : [PrasadUg/CVE-2018-6574](https://github.com/PrasadUg/CVE-2018-6574)  create time: 2021-06-19T04:40:21Z
 
 **Stored XSS via moodlenetprofile parameter in user profile** : [HoangKien1020/CVE-2020-25627](https://github.com/HoangKien1020/CVE-2020-25627)  create time: 2021-06-18T10:37:23Z
 
