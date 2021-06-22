@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-22 02:46:20.573437  total: 5742 
+ > update time: 2021-06-22 03:30:16.166047  total: 5744 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [KZMachine/KZMachine-CVERT_2021](https://github.com/KZMachine/KZMachine-CVERT_2021)  create time: 2021-06-22T03:15:46Z
+
+**Gitlab CI Lint API未授权 SSRF漏洞 (CVE-2021-22214)** : [r0ckysec/CVE-2021-22214](https://github.com/r0ckysec/CVE-2021-22214)  create time: 2021-06-22T03:04:50Z
 
 **a reliable C based exploit for CVE-2021-3560.** : [595cyi/CVE-2021-3560](https://github.com/595cyi/CVE-2021-3560)  create time: 2021-06-22T02:18:31Z
 
