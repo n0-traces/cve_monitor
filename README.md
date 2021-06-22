@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-21 08:16:27.135063  total: 5741 
+ > update time: 2021-06-22 02:46:20.573437  total: 5742 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**a reliable C based exploit for CVE-2021-3560.** : [595cyi/CVE-2021-3560](https://github.com/595cyi/CVE-2021-3560)  create time: 2021-06-22T02:18:31Z
 
 **RCE in EXIF metadata removal from images research** : [awasthi7/CVE-2020-Exif-RCE](https://github.com/awasthi7/CVE-2020-Exif-RCE)  create time: 2021-06-21T07:59:00Z
 
