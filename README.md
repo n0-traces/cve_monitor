@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-24 15:56:19.539791  total: 5755 
+ > update time: 2021-06-24 17:41:48.337254  total: 5756 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [noobTest1122/CVE-2018-6574](https://github.com/noobTest1122/CVE-2018-6574)  create time: 2021-06-24T16:23:55Z
 
 **no description** : [KZMachine/CVERT-2021](https://github.com/KZMachine/CVERT-2021)  create time: 2021-06-24T15:49:24Z
 
