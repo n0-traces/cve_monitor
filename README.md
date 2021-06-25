@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-25 14:12:08.802780  total: 5765 
+ > update time: 2021-06-25 22:33:32.788285  total: 5766 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Proof of Concept for CVE-2021-33624** : [Kakashiiiiy/CVE-2021-33624](https://github.com/Kakashiiiiy/CVE-2021-33624)  create time: 2021-06-25T22:19:38Z
 
 **A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution.** : [kahla-sec/CVE-2021-27850_POC](https://github.com/kahla-sec/CVE-2021-27850_POC)  create time: 2021-06-25T13:55:41Z
 
