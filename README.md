@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-24 17:41:48.337254  total: 5756 
+ > update time: 2021-06-25 00:21:11.906065  total: 5759 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Resources for the Spectre vulnerability (CVE-2017-5753 and CVE-2017-5715)** : [raul23/spectre](https://github.com/raul23/spectre)  create time: 2021-06-25T00:11:51Z
+
+**Resources for the Meltdown vulnerability (CVE-2017-5754)** : [raul23/meltdown](https://github.com/raul23/meltdown)  create time: 2021-06-25T00:07:21Z
+
+**Resources for the Kr00k vulnerability (CVE-2019-15126)** : [raul23/Kr00k](https://github.com/raul23/Kr00k)  create time: 2021-06-24T22:04:42Z
 
 **no description** : [noobTest1122/CVE-2018-6574](https://github.com/noobTest1122/CVE-2018-6574)  create time: 2021-06-24T16:23:55Z
 
