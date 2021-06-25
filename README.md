@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-25 00:21:11.906065  total: 5759 
+ > update time: 2021-06-25 02:22:38.541606  total: 5760 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**My implementation of CVE-2020-0041** : [Byte-Master-101/CVE-2020-0041](https://github.com/Byte-Master-101/CVE-2020-0041)  create time: 2021-06-25T02:19:17Z
 
 **Resources for the Spectre vulnerability (CVE-2017-5753 and CVE-2017-5715)** : [raul23/spectre](https://github.com/raul23/spectre)  create time: 2021-06-25T00:11:51Z
 
