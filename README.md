@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-27 04:56:37.136568  total: 5772 
+ > update time: 2021-06-27 13:30:21.916317  total: 5773 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**POC for exploiting CVE-2021-27928** : [seska451/mariadb-cve-2021-27928](https://github.com/seska451/mariadb-cve-2021-27928)  create time: 2021-06-27T13:02:58Z
 
 **TESLA MODEL 3 HACK** : [AmazingOut/Tesla-CVE-2020-10558](https://github.com/AmazingOut/Tesla-CVE-2020-10558)  create time: 2021-06-27T04:46:01Z
 
