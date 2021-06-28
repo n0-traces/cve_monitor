@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-27 13:30:21.916317  total: 5773 
+ > update time: 2021-06-28 01:47:07.175099  total: 5774 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Check the conditions for exploiting CVE-2021-23383 through the handlebars library version assessment.** : [dn9uy3n/Check-CVE-2021-23383](https://github.com/dn9uy3n/Check-CVE-2021-23383)  create time: 2021-06-28T01:29:31Z
 
 **POC for exploiting CVE-2021-27928** : [seska451/mariadb-cve-2021-27928](https://github.com/seska451/mariadb-cve-2021-27928)  create time: 2021-06-27T13:02:58Z
 
