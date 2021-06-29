@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-29 09:19:02.057568  total: 5781 
+ > update time: 2021-06-29 14:30:17.366549  total: 5782 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021-1675 exploit** : [yu2u/CVE-2021-1675](https://github.com/yu2u/CVE-2021-1675)  create time: 2021-06-29T14:24:30Z
 
 **Overview PoC of CSRF CVE-2019-9787 WordPress Version 5.1.1** : [dexXxed/CVE-2019-9787](https://github.com/dexXxed/CVE-2019-9787)  create time: 2021-06-29T08:57:43Z
 
