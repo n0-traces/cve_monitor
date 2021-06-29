@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-29 05:27:51.830120  total: 5779 
+ > update time: 2021-06-29 06:51:04.259742  total: 5780 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**ZeroShell命令执行漏洞批量扫描poc+exp** : [MzzdToT/CVE-2019-12725](https://github.com/MzzdToT/CVE-2019-12725)  create time: 2021-06-29T06:24:22Z
 
 **测试** : [TplusSs/CVE-2021-08891](https://github.com/TplusSs/CVE-2021-08891)  create time: 2021-06-29T05:19:57Z
 
