@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-30 18:32:57.160298  total: 5789 
+ > update time: 2021-06-30 20:48:08.973066  total: 5790 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021-1675 Detection Info** : [LaresLLC/CVE-2021-1675](https://github.com/LaresLLC/CVE-2021-1675)  create time: 2021-06-30T18:32:17Z
 
 **no description** : [TheFlash2k/CVE-2021-3156](https://github.com/TheFlash2k/CVE-2021-3156)  create time: 2021-06-30T18:00:03Z
 
