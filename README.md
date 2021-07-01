@@ -1,9 +1,75 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-01 09:57:36.145178  total: 5796 
+ > update time: 2021-07-01 10:16:20.895516  total: 5829 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for exploiting CVE-2020-21787** : [AlAIAL90/CVE-2020-21787](https://github.com/AlAIAL90/CVE-2020-21787)  create time: 2021-07-01T10:07:10Z
+
+**PoC for exploiting CVE-2020-24511** : [AlAIAL90/CVE-2020-24511](https://github.com/AlAIAL90/CVE-2020-24511)  create time: 2021-07-01T10:06:58Z
+
+**PoC for exploiting CVE-2020-24512** : [AlAIAL90/CVE-2020-24512](https://github.com/AlAIAL90/CVE-2020-24512)  create time: 2021-07-01T10:06:51Z
+
+**PoC for exploiting CVE-2020-21784** : [AlAIAL90/CVE-2020-21784](https://github.com/AlAIAL90/CVE-2020-21784)  create time: 2021-07-01T10:06:45Z
+
+**PoC for exploiting CVE-2021-29949** : [AlAIAL90/CVE-2021-29949](https://github.com/AlAIAL90/CVE-2021-29949)  create time: 2021-07-01T10:10:07Z
+
+**PoC for exploiting CVE-2021-21676** : [AlAIAL90/CVE-2021-21676](https://github.com/AlAIAL90/CVE-2021-21676)  create time: 2021-07-01T10:10:01Z
+
+**PoC for exploiting CVE-2021-21675** : [AlAIAL90/CVE-2021-21675](https://github.com/AlAIAL90/CVE-2021-21675)  create time: 2021-07-01T10:09:57Z
+
+**PoC for exploiting CVE-2021-21674** : [AlAIAL90/CVE-2021-21674](https://github.com/AlAIAL90/CVE-2021-21674)  create time: 2021-07-01T10:09:52Z
+
+**PoC for exploiting CVE-2021-21673** : [AlAIAL90/CVE-2021-21673](https://github.com/AlAIAL90/CVE-2021-21673)  create time: 2021-07-01T10:09:48Z
+
+**PoC for exploiting CVE-2021-21672** : [AlAIAL90/CVE-2021-21672](https://github.com/AlAIAL90/CVE-2021-21672)  create time: 2021-07-01T10:09:45Z
+
+**PoC for exploiting CVE-2021-21671** : [AlAIAL90/CVE-2021-21671](https://github.com/AlAIAL90/CVE-2021-21671)  create time: 2021-07-01T10:09:40Z
+
+**PoC for exploiting CVE-2021-21670** : [AlAIAL90/CVE-2021-21670](https://github.com/AlAIAL90/CVE-2021-21670)  create time: 2021-07-01T10:09:36Z
+
+**PoC for exploiting CVE-2021-29948** : [AlAIAL90/CVE-2021-29948](https://github.com/AlAIAL90/CVE-2021-29948)  create time: 2021-07-01T10:09:32Z
+
+**PoC for exploiting CVE-2021-33528** : [AlAIAL90/CVE-2021-33528](https://github.com/AlAIAL90/CVE-2021-33528)  create time: 2021-07-01T10:09:28Z
+
+**PoC for exploiting CVE-2021-33530** : [AlAIAL90/CVE-2021-33530](https://github.com/AlAIAL90/CVE-2021-33530)  create time: 2021-07-01T10:09:16Z
+
+**PoC for exploiting CVE-2021-33529** : [AlAIAL90/CVE-2021-33529](https://github.com/AlAIAL90/CVE-2021-33529)  create time: 2021-07-01T10:09:12Z
+
+**PoC for exploiting CVE-2021-33531** : [AlAIAL90/CVE-2021-33531](https://github.com/AlAIAL90/CVE-2021-33531)  create time: 2021-07-01T10:09:08Z
+
+**PoC for exploiting CVE-2021-29954** : [AlAIAL90/CVE-2021-29954](https://github.com/AlAIAL90/CVE-2021-29954)  create time: 2021-07-01T10:09:04Z
+
+**PoC for exploiting CVE-2021-32736** : [AlAIAL90/CVE-2021-32736](https://github.com/AlAIAL90/CVE-2021-32736)  create time: 2021-07-01T10:08:59Z
+
+**PoC for exploiting CVE-2021-22368** : [AlAIAL90/CVE-2021-22368](https://github.com/AlAIAL90/CVE-2021-22368)  create time: 2021-07-01T10:08:54Z
+
+**PoC for exploiting CVE-2021-22367** : [AlAIAL90/CVE-2021-22367](https://github.com/AlAIAL90/CVE-2021-22367)  create time: 2021-07-01T10:08:50Z
+
+**PoC for exploiting CVE-2021-22354** : [AlAIAL90/CVE-2021-22354](https://github.com/AlAIAL90/CVE-2021-22354)  create time: 2021-07-01T10:08:46Z
+
+**PoC for exploiting CVE-2021-22353** : [AlAIAL90/CVE-2021-22353](https://github.com/AlAIAL90/CVE-2021-22353)  create time: 2021-07-01T10:08:42Z
+
+**PoC for exploiting CVE-2021-1075** : [AlAIAL90/CVE-2021-1075](https://github.com/AlAIAL90/CVE-2021-1075)  create time: 2021-07-01T10:08:39Z
+
+**PoC for exploiting CVE-2021-29945** : [AlAIAL90/CVE-2021-29945](https://github.com/AlAIAL90/CVE-2021-29945)  create time: 2021-07-01T10:08:34Z
+
+**PoC for exploiting CVE-2021-20580** : [AlAIAL90/CVE-2021-20580](https://github.com/AlAIAL90/CVE-2021-20580)  create time: 2021-07-01T10:08:31Z
+
+**PoC for exploiting CVE-2021-20490** : [AlAIAL90/CVE-2021-20490](https://github.com/AlAIAL90/CVE-2021-20490)  create time: 2021-07-01T10:08:26Z
+
+**PoC for exploiting CVE-2021-20477** : [AlAIAL90/CVE-2021-20477](https://github.com/AlAIAL90/CVE-2021-20477)  create time: 2021-07-01T10:08:14Z
+
+**PoC for exploiting CVE-2021-29677** : [AlAIAL90/CVE-2021-29677](https://github.com/AlAIAL90/CVE-2021-29677)  create time: 2021-07-01T10:08:10Z
+
+**PoC for exploiting CVE-2021-33348** : [AlAIAL90/CVE-2021-33348](https://github.com/AlAIAL90/CVE-2021-33348)  create time: 2021-07-01T10:07:25Z
+
+**PoC for exploiting CVE-2021-29965** : [AlAIAL90/CVE-2021-29965](https://github.com/AlAIAL90/CVE-2021-29965)  create time: 2021-07-01T10:07:06Z
+
+**PoC for exploiting CVE-2021-31506** : [AlAIAL90/CVE-2021-31506](https://github.com/AlAIAL90/CVE-2021-31506)  create time: 2021-07-01T10:07:02Z
+
+**PoC for exploiting CVE-2021-29964** : [AlAIAL90/CVE-2021-29964](https://github.com/AlAIAL90/CVE-2021-29964)  create time: 2021-07-01T10:06:50Z
 
 **Local Privilege Escalation Edition for CVE-2021-1675** : [hlldz/CVE-2021-1675-LPE](https://github.com/hlldz/CVE-2021-1675-LPE)  create time: 2021-07-01T09:47:13Z
 
