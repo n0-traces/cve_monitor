@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-01 09:06:30.173357  total: 5795 
+ > update time: 2021-07-01 09:57:36.145178  total: 5796 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Local Privilege Escalation Edition for CVE-2021-1675** : [hlldz/CVE-2021-1675-LPE](https://github.com/hlldz/CVE-2021-1675-LPE)  create time: 2021-07-01T09:47:13Z
 
 **CVE-2021-1675 Simple LPE Exploit** : [evilashz/CVE-2021-1675-LPE-EXP](https://github.com/evilashz/CVE-2021-1675-LPE-EXP)  create time: 2021-07-01T09:00:31Z
 
