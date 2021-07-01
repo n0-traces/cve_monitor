@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-01 13:06:37.045632  total: 5833 
+ > update time: 2021-07-01 14:04:12.032747  total: 5834 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [cybersecurityworks553/CVE-2021-1675_PrintNightMare](https://github.com/cybersecurityworks553/CVE-2021-1675_PrintNightMare)  create time: 2021-07-01T13:58:01Z
 
 **Proof of Concept Exploit for CVE-2021-35956, AKCP sensorProbe - 'Multiple' Cross Site Scripting (XSS)** : [tcbutler320/CVE-2021-35956](https://github.com/tcbutler320/CVE-2021-35956)  create time: 2021-07-01T12:44:05Z
 
