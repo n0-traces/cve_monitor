@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-01 10:58:38.007187  total: 5830 
+ > update time: 2021-07-01 12:36:11.965051  total: 5832 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [DenizSe/CVE-2020-1675](https://github.com/DenizSe/CVE-2020-1675)  create time: 2021-07-01T12:12:16Z
+
+**no description** : [puckiestyle/CVE-2021-1675](https://github.com/puckiestyle/CVE-2021-1675)  create time: 2021-07-01T12:24:19Z
 
 **no description** : [Katarina-1997/IM-113-2016-Cvetkov-Katarina](https://github.com/Katarina-1997/IM-113-2016-Cvetkov-Katarina)  create time: 2021-07-01T10:52:05Z
 
