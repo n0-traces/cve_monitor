@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-02 06:24:57.965926  total: 5839 
+ > update time: 2021-07-02 07:38:13.630244  total: 5841 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Kritische Sicherheitslücke PrintNightmare CVE-2021-34527** : [glshnu/PrintNightmare](https://github.com/glshnu/PrintNightmare)  create time: 2021-07-02T07:30:52Z
+
+**no description** : [mrezqi/CVE-2021-1675_CarbonBlack_HuntingQuery](https://github.com/mrezqi/CVE-2021-1675_CarbonBlack_HuntingQuery)  create time: 2021-07-02T07:30:24Z
 
 **no description** : [thomasgeens/CVE-2021-1675](https://github.com/thomasgeens/CVE-2021-1675)  create time: 2021-07-02T06:14:29Z
 
