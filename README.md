@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-02 16:40:52.049880  total: 5849 
+ > update time: 2021-07-02 17:38:03.094681  total: 5850 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [kougyokugentou/CVE-2021-1675](https://github.com/kougyokugentou/CVE-2021-1675)  create time: 2021-07-02T17:29:04Z
 
 **no description** : [killtr0/CVE-2021-1675-PrintNightmare](https://github.com/killtr0/CVE-2021-1675-PrintNightmare)  create time: 2021-07-02T16:12:15Z
 
