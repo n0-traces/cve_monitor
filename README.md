@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-02 09:51:10.574603  total: 5843 
+ > update time: 2021-07-02 10:25:02.517293  total: 5845 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**How to enable Smart Check to detect CVE-2019-5021** : [mawinkler/smartcheck-cve-2019-5021](https://github.com/mawinkler/smartcheck-cve-2019-5021)  create time: 2021-07-02T10:10:26Z
+
+**no description** : [mr-nO0b/CVE-2021-3560](https://github.com/mr-nO0b/CVE-2021-3560)  create time: 2021-07-02T10:03:26Z
 
 **Aapche Tapestry Unserialize Vuln CVE-2021-27850 PoC** : [Ovi3/CVE_2021_27850_POC](https://github.com/Ovi3/CVE_2021_27850_POC)  create time: 2021-07-02T09:36:59Z
 
