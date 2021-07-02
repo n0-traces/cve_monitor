@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-02 20:01:50.383524  total: 5854 
+ > update time: 2021-07-02 21:32:18.225731  total: 5855 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**A temporary mitigation to the CVE-2021-1675. Print Spooler will be disabled during non-business hours.** : [gohrenberg/CVE-2021-1675-Mitigation-For-Systems-That-Need-Spooler](https://github.com/gohrenberg/CVE-2021-1675-Mitigation-For-Systems-That-Need-Spooler)  create time: 2021-07-02T21:18:11Z
 
 **no description** : [whokilleddb/CVE-2019-15107](https://github.com/whokilleddb/CVE-2019-15107)  create time: 2021-07-02T19:51:18Z
 
