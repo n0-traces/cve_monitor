@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-02 17:38:03.094681  total: 5850 
+ > update time: 2021-07-02 18:25:01.254519  total: 5852 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Explore  CVE-2019-6447 using a script** : [sidhawkss/ES-File-Explorer-Vulnerability-on-port-59777](https://github.com/sidhawkss/ES-File-Explorer-Vulnerability-on-port-59777)  create time: 2021-07-02T18:00:29Z
+
+**CVE-2021-1675: ZERO-DAY VULNERABILITY IN WINDOWS PRINTER SERVICE WITH AN EXPLOIT AVAILABLE IN ALL OPERATING SYSTEM VERSIONS** : [ptter23/CVE-2021-1675](https://github.com/ptter23/CVE-2021-1675)  create time: 2021-07-02T18:01:21Z
 
 **no description** : [kougyokugentou/CVE-2021-1675](https://github.com/kougyokugentou/CVE-2021-1675)  create time: 2021-07-02T17:29:04Z
 
