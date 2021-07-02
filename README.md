@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-01 23:55:27.805637  total: 5837 
+ > update time: 2021-07-02 02:18:37.775957  total: 5838 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Vulnerability Scanner for CVE-2021-1675/PrintNightmare** : [Leonidus0x10/CVE-2021-1675-SCANNER](https://github.com/Leonidus0x10/CVE-2021-1675-SCANNER)  create time: 2021-07-02T01:45:00Z
 
 **Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)** : [calebstewart/CVE-2021-1675](https://github.com/calebstewart/CVE-2021-1675)  create time: 2021-07-01T23:45:58Z
 
