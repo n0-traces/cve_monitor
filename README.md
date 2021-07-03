@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-03 12:58:38.514029  total: 5861 
+ > update time: 2021-07-03 15:09:19.888838  total: 5862 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Exploit for MS Http Protocol Stack RCE vulnerability (CVE-2021-31166)** : [y0g3sh-99/CVE-2021-31166-Exploit](https://github.com/y0g3sh-99/CVE-2021-31166-Exploit)  create time: 2021-07-03T14:54:59Z
 
 **Windows Print Spooler Service RCE CVE-2021-1675 (PrintNightmare)** : [ozergoker/PrintNightmare](https://github.com/ozergoker/PrintNightmare)  create time: 2021-07-03T12:25:21Z
 
