@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-03 10:38:06.573418  total: 5860 
+ > update time: 2021-07-03 12:58:38.514029  total: 5861 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Windows Print Spooler Service RCE CVE-2021-1675 (PrintNightmare)** : [ozergoker/PrintNightmare](https://github.com/ozergoker/PrintNightmare)  create time: 2021-07-03T12:25:21Z
 
 **no description** : [MrRobotTnT/CVE-2016-3088](https://github.com/MrRobotTnT/CVE-2016-3088)  create time: 2021-07-03T10:23:59Z
 
