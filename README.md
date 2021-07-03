@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-02 21:32:18.225731  total: 5855 
+ > update time: 2021-07-03 01:40:47.704105  total: 5856 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**to catch cve-2021-1675-printnightmare** : [initconf/cve-2021-1675-printnightmare](https://github.com/initconf/cve-2021-1675-printnightmare)  create time: 2021-07-03T01:04:06Z
 
 **A temporary mitigation to the CVE-2021-1675. Print Spooler will be disabled during non-business hours.** : [gohrenberg/CVE-2021-1675-Mitigation-For-Systems-That-Need-Spooler](https://github.com/gohrenberg/CVE-2021-1675-Mitigation-For-Systems-That-Need-Spooler)  create time: 2021-07-02T21:18:11Z
 
