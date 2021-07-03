@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-03 04:32:08.874011  total: 5858 
+ > update time: 2021-07-03 09:18:02.701233  total: 5859 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PentesterLab's CVE-2018-6574 exercise** : [rizemon/CVE-2018-6574](https://github.com/rizemon/CVE-2018-6574)  create time: 2021-07-03T09:01:52Z
 
 **随便放点自己弄的小东西** : [yukiNeko114514/CVE-2020-0674-PoC](https://github.com/yukiNeko114514/CVE-2020-0674-PoC)  create time: 2021-07-03T04:17:35Z
 
