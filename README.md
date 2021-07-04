@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-03 15:34:47.787221  total: 5863 
+ > update time: 2021-07-04 10:02:00.677152  total: 5864 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Youtube : https://youtu.be/Zr0KjYDSFKQ** : [exploitblizzard/PrintNightmare-CVE-2021-1675](https://github.com/exploitblizzard/PrintNightmare-CVE-2021-1675)  create time: 2021-07-04T09:50:39Z
 
 **Windows Print Spooler Remote Code Execution Vulnerability (CVE-2021-34527)** : [nemo-wq/CVE-2021-1675_CVE-2021-34527_PrintNightmare](https://github.com/nemo-wq/CVE-2021-1675_CVE-2021-34527_PrintNightmare)  create time: 2021-07-03T15:15:12Z
 
