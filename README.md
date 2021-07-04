@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-04 10:02:00.677152  total: 5864 
+ > update time: 2021-07-04 11:02:28.275613  total: 5865 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [dorkerdevil/CVE-2021-21975](https://github.com/dorkerdevil/CVE-2021-21975)  create time: 2021-03-31T13:33:45Z
 
 **Youtube : https://youtu.be/Zr0KjYDSFKQ** : [exploitblizzard/PrintNightmare-CVE-2021-1675](https://github.com/exploitblizzard/PrintNightmare-CVE-2021-1675)  create time: 2021-07-04T09:50:39Z
 
