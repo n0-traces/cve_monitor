@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-05 14:23:42.077695  total: 5873 
+ > update time: 2021-07-05 16:41:23.584939  total: 5875 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**OpenEMR < 5.0.1.4 - (Authenticated) File upload - Remote command execution** : [sec-it/exploit-CVE-2018-15139](https://github.com/sec-it/exploit-CVE-2018-15139)  create time: 2021-07-05T16:03:38Z
+
+**Workaround for Windows Print Spooler Remote Code Execution Vulnerability(CVE-2021-34527). See: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527** : [rdboboia/disable-RegisterSpoolerRemoteRpcEndPoint](https://github.com/rdboboia/disable-RegisterSpoolerRemoteRpcEndPoint)  create time: 2021-07-05T16:32:45Z
 
 **CVE-2021-1675 (PrintNightmare)** : [sailay1996/PrintNightmare-LPE](https://github.com/sailay1996/PrintNightmare-LPE)  create time: 2021-07-05T14:17:03Z
 
