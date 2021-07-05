@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-05 17:08:50.652534  total: 5876 
+ > update time: 2021-07-05 17:58:54.788847  total: 5877 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [geekbrett/CVE-2021-34527-PrintNightmare-Workaround](https://github.com/geekbrett/CVE-2021-34527-PrintNightmare-Workaround)  create time: 2021-07-05T17:50:56Z
 
 **Workaround for Windows Print Spooler Remote Code Execution Vulnerability(CVE-2021-34527). See: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527** : [rdboboia/disable-RegisterSpoolerRemoteRpcEndPoint](https://github.com/rdboboia/disable-RegisterSpoolerRemoteRpcEndPoint)  create time: 2021-07-05T16:49:32Z
 
