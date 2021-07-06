@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-06 02:11:10.341336  total: 5880 
+ > update time: 2021-07-06 05:50:41.675817  total: 5881 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**A PrintNightmare (CVE-2021-3457) Python Scanner. Scan entire subnets for hosts vulnerable to the PrintNightmare RCE** : [byt3bl33d3r/ItWasAllADream](https://github.com/byt3bl33d3r/ItWasAllADream)  create time: 2021-07-05T20:13:49Z
 
 **To check if Spooler is on and whether is it vulnerable to CVE 2021-34527** : [yyhh91/PrintNightMareChecker](https://github.com/yyhh91/PrintNightMareChecker)  create time: 2021-07-06T02:07:24Z
 
