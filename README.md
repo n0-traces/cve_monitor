@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-06 11:51:01.430372  total: 5882 
+ > update time: 2021-07-06 23:31:06.559587  total: 5883 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Tool to take advantage of CVE-2019-6447** : [mcmahonr/cve-2019-6447](https://github.com/mcmahonr/cve-2019-6447)  create time: 2021-07-06T23:13:55Z
 
 **A scanner for the CVE-2020-1472 vulnerability aka Zerologon.** : [NickSanzotta/zeroscan](https://github.com/NickSanzotta/zeroscan)  create time: 2021-06-23T12:23:48Z
 
