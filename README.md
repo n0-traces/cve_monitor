@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-06 01:18:04.655202  total: 5879 
+ > update time: 2021-07-06 02:11:10.341336  total: 5880 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**To check if Spooler is on and whether is it vulnerable to CVE 2021-34527** : [yyhh91/PrintNightMareChecker](https://github.com/yyhh91/PrintNightMareChecker)  create time: 2021-07-06T02:07:24Z
 
 **Exploits Password Reset Vulnerability in OpenCRX, CVE-2020-7378. Also maintains Stealth by deleting all the password reset mails created by the script** : [ruthvikvegunta/openCRX-CVE-2020-7378](https://github.com/ruthvikvegunta/openCRX-CVE-2020-7378)  create time: 2021-07-06T00:36:18Z
 
