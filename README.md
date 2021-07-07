@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-07 08:36:37.105228  total: 5887 
+ > update time: 2021-07-07 16:10:21.254790  total: 5888 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [corelight/CVE-2021-1675](https://github.com/corelight/CVE-2021-1675)  create time: 2021-07-02T16:44:24Z
 
 **Information on the Windows Spooler vulnerability - CVE-2021-1675; CVE 2021 34527** : [JumpsecLabs/PrintNightmare-](https://github.com/JumpsecLabs/PrintNightmare-)  create time: 2021-07-07T08:32:09Z
 
