@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-08 10:03:07.567968  total: 5893 
+ > update time: 2021-07-08 10:28:41.612423  total: 5894 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Dlink credentials decryption tool poc** : [full-disclosure/FDEU-CVE-2021-525A](https://github.com/full-disclosure/FDEU-CVE-2021-525A)  create time: 2021-07-08T10:14:12Z
 
 **no description** : [haiclover/CVE-2021-21985](https://github.com/haiclover/CVE-2021-21985)  create time: 2021-07-08T04:45:19Z
 
