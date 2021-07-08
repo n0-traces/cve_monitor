@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-08 01:06:11.402287  total: 5889 
+ > update time: 2021-07-08 02:09:07.523700  total: 5891 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE test** : [arch3rPro/CVE-2020-22222](https://github.com/arch3rPro/CVE-2020-22222)  create time: 2021-07-08T01:42:54Z
+
+**Mitigation for CVE-2021-34527 RCE by setting WRITE ACLs - Setting Modify Deny ACLs can cause other issues and is not recommended** : [WidespreadPandemic/CVE-2021-34527_ACL_mitigation](https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation)  create time: 2021-07-08T01:32:18Z
 
 **CVE-2020-1956** : [b510/CVE-2020-1956](https://github.com/b510/CVE-2020-1956)  create time: 2021-07-08T00:58:07Z
 
