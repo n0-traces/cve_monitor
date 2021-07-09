@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-09 19:28:53.064016  total: 5904 
+ > update time: 2021-07-09 21:43:02.146516  total: 5905 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**A collection of scripts to help set the appropriate registry keys for CVE-2021-34527** : [syntaxbearror/PowerShell-PrintNightmare](https://github.com/syntaxbearror/PowerShell-PrintNightmare)  create time: 2021-07-09T21:28:16Z
 
 **no description** : [3hydraking/CVE-2019-6447](https://github.com/3hydraking/CVE-2019-6447)  create time: 2021-07-09T19:21:29Z
 
