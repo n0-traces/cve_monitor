@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-09 08:48:20.246943  total: 5902 
+ > update time: 2021-07-09 09:38:37.254454  total: 5903 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Fix for PrintNightmare CVE-2021-34527** : [Eutectico/Printnightmare](https://github.com/Eutectico/Printnightmare)  create time: 2021-07-09T09:22:03Z
 
 **no description** : [dywhoami/CVE-2021-34527-0day-Windows-Print-Spooler-](https://github.com/dywhoami/CVE-2021-34527-0day-Windows-Print-Spooler-)  create time: 2021-07-09T08:27:36Z
 
