@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-09 21:43:02.146516  total: 5905 
+ > update time: 2021-07-10 04:47:52.652462  total: 5906 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Experimenting with the CVE-2020-14343 PyYAML vulnerability** : [raul23/pyyaml-CVE-2020-14343](https://github.com/raul23/pyyaml-CVE-2020-14343)  create time: 2021-06-27T06:56:15Z
 
 **A collection of scripts to help set the appropriate registry keys for CVE-2021-34527** : [syntaxbearror/PowerShell-PrintNightmare](https://github.com/syntaxbearror/PowerShell-PrintNightmare)  create time: 2021-07-09T21:28:16Z
 
