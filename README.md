@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-10 19:33:19.125851  total: 5910 
+ > update time: 2021-07-10 20:46:12.818557  total: 5911 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [AndrewIjano/CVE-2020-8277](https://github.com/AndrewIjano/CVE-2020-8277)  create time: 2021-07-10T20:42:11Z
 
 **no description** : [3hydraking/CVE-2011-1249](https://github.com/3hydraking/CVE-2011-1249)  create time: 2021-07-10T19:27:23Z
 
