@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-10 04:47:52.652462  total: 5906 
+ > update time: 2021-07-10 08:34:12.690093  total: 5907 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**A fix for PrintNightmare vulnerability that occurs to print spoolers for Windows machines [CVE-2021-34527]** : [0xIrison/PrintNightmare_Resolver](https://github.com/0xIrison/PrintNightmare_Resolver)  create time: 2021-07-10T08:21:28Z
 
 **Experimenting with the CVE-2020-14343 PyYAML vulnerability** : [raul23/pyyaml-CVE-2020-14343](https://github.com/raul23/pyyaml-CVE-2020-14343)  create time: 2021-06-27T06:56:15Z
 
