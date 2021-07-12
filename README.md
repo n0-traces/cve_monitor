@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-12 08:28:39.162329  total: 5918 
+ > update time: 2021-07-12 09:29:40.087408  total: 5919 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [huydoppa/CVE-2021-24347-](https://github.com/huydoppa/CVE-2021-24347-)  create time: 2021-07-12T09:02:47Z
 
 **CVE-2021-34527 - PrintNightmare LPE (PowerShell)** : [galoget/PrintNightmare-CVE-2021-34527](https://github.com/galoget/PrintNightmare-CVE-2021-34527)  create time: 2021-07-12T08:18:40Z
 
