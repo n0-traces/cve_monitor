@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-14 14:29:26.816744  total: 5928 
+ > update time: 2021-07-14 19:25:27.417302  total: 5929 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [puckiestyle/CVE-2021-30461](https://github.com/puckiestyle/CVE-2021-30461)  create time: 2021-07-14T19:20:11Z
 
 **no description** : [TheWay-hue/CVE-2017-5689-Checker](https://github.com/TheWay-hue/CVE-2017-5689-Checker)  create time: 2021-07-14T14:26:29Z
 
