@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-16 01:48:13.390746  total: 5940 
+ > update time: 2021-07-16 04:28:50.424490  total: 5941 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021-3493 Ubuntu漏洞** : [derek-turing/CVE-2021-3493](https://github.com/derek-turing/CVE-2021-3493)  create time: 2021-07-16T04:02:54Z
 
 **CVE-2021-22555 Exploit** : [JustYoomoon/CVE-2021-22555-Exploit](https://github.com/JustYoomoon/CVE-2021-22555-Exploit)  create time: 2021-07-16T01:40:52Z
 
