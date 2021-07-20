@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-20 18:00:41.986078  total: 5963 
+ > update time: 2021-07-20 18:49:01.903111  total: 5964 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [cseasholtz/CVE-2021-36746](https://github.com/cseasholtz/CVE-2021-36746)  create time: 2021-07-20T18:45:12Z
 
 **Atlassian Jira unauthen template injection** : [PetrusViet/CVE-2019-11581](https://github.com/PetrusViet/CVE-2019-11581)  create time: 2021-05-04T06:30:47Z
 
