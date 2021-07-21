@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-21 13:30:40.311427  total: 5968 
+ > update time: 2021-07-21 16:50:05.533986  total: 5969 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Sequoia exploit (7/20/21)** : [Liang2580/CVE-2021-33909](https://github.com/Liang2580/CVE-2021-33909)  create time: 2021-07-21T04:04:49Z
 
 **Fix for the CVE-2021-36934** : [JoranSlingerland/CVE-2021-36934](https://github.com/JoranSlingerland/CVE-2021-36934)  create time: 2021-07-21T13:06:51Z
 
