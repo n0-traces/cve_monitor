@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-21 18:31:47.292192  total: 5973 
+ > update time: 2021-07-22 01:39:00.497993  total: 5974 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Small and dirty PoC for CVE-2021-36934** : [Wh04m1001/VSSCopy](https://github.com/Wh04m1001/VSSCopy)  create time: 2021-07-22T00:55:23Z
 
 **Bypass intended access control in Plex Media Server (CVE-2018-21031)** : [manmolecular/tautulli-cve-2018-21031](https://github.com/manmolecular/tautulli-cve-2018-21031)  create time: 2021-07-21T18:02:41Z
 
