@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-22 11:39:20.550958  total: 5980 
+ > update time: 2021-07-22 12:30:38.789326  total: 5982 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021-36934 PowerShell Fix** : [tda90/CVE-2021-36934](https://github.com/tda90/CVE-2021-36934)  create time: 2021-07-22T12:24:24Z
+
+**A capability to identify and remediate CVE-2021-36934 (HiveNightmare)** : [WiredPulse/Invoke-HiveDreams](https://github.com/WiredPulse/Invoke-HiveDreams)  create time: 2021-07-22T12:10:41Z
 
 **no description** : [NHPT/CVE-2021-test](https://github.com/NHPT/CVE-2021-test)  create time: 2021-07-22T11:35:07Z
 
