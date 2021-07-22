@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-22 01:39:00.497993  total: 5974 
+ > update time: 2021-07-22 03:19:50.276839  total: 5975 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for CVE-2021-36934, which enables a standard user to be able to retrieve the SAM, Security, and Software Registry hives in Windows 10 version 1809 or newer** : [WiredPulse/Invoke-HiveNightmare](https://github.com/WiredPulse/Invoke-HiveNightmare)  create time: 2021-07-22T03:07:56Z
 
 **Small and dirty PoC for CVE-2021-36934** : [Wh04m1001/VSSCopy](https://github.com/Wh04m1001/VSSCopy)  create time: 2021-07-22T00:55:23Z
 
