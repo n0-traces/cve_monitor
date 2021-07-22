@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-22 07:42:39.764668  total: 5976 
+ > update time: 2021-07-22 07:52:55.001952  total: 5977 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**HiveNightmare a.k.a. SeriousSam Local Privilege Escalation in Windows – CVE-2021-36934** : [romarroca/SeriousSam](https://github.com/romarroca/SeriousSam)  create time: 2021-07-22T07:49:29Z
 
 **no description** : [1111one/laravel-CVE-2021-3129-EXP](https://github.com/1111one/laravel-CVE-2021-3129-EXP)  create time: 2021-07-22T07:35:04Z
 
