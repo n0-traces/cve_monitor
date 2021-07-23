@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-23 06:57:09.330957  total: 5990 
+ > update time: 2021-07-23 23:27:56.697409  total: 5993 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Exploit Analysis of The WhatsApp Double-Free Vulnerability (CVE-2019-11932) Using the GEF-GDB Debugger** : [k3vinlusec/WhatsApp-Double-Free-Vulnerability_CVE-2019-11932](https://github.com/k3vinlusec/WhatsApp-Double-Free-Vulnerability_CVE-2019-11932)  create time: 2021-07-23T21:29:56Z
+
+**https://www.zerodayinitiative.com/advisories/ZDI-20-712/** : [k3vinlusec/R7000_httpd_BOF_CVE-2020-15416](https://github.com/k3vinlusec/R7000_httpd_BOF_CVE-2020-15416)  create time: 2020-10-09T23:42:50Z
+
+**This is a RCE bluetooth vulnerability on Android 8.0 and 9.0** : [k3vinlusec/Bluefrag_CVE-2020-0022](https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022)  create time: 2020-07-01T00:23:33Z
 
 **Exploit for HiveNightmare - CVE-2021–36934** : [FireFart/hivenightmare](https://github.com/FireFart/hivenightmare)  create time: 2021-07-23T06:36:08Z
 
