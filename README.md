@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-23 03:30:15.404880  total: 5989 
+ > update time: 2021-07-23 06:57:09.330957  total: 5990 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Exploit for HiveNightmare - CVE-2021–36934** : [FireFart/hivenightmare](https://github.com/FireFart/hivenightmare)  create time: 2021-07-23T06:36:08Z
 
 **no description** : [3t4n/samba-3.0.24-CVE-2007-2447-vunerable-](https://github.com/3t4n/samba-3.0.24-CVE-2007-2447-vunerable-)  create time: 2021-07-23T03:19:10Z
 
