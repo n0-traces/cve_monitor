@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-24 13:01:44.910400  total: 6013 
+ > update time: 2021-07-24 18:28:41.213586  total: 6014 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Spotweb 1.4.9 - 'search' SQL Injection** : [bousalman/CVE-2020-35545](https://github.com/bousalman/CVE-2020-35545)  create time: 2021-07-24T18:12:35Z
 
 **PoC for exploiting CVE-2019-10181 : It was found that in icedtea-web up to and including 1.7.2 and 1.8.2 executable code could be injected in a JAR file without compromising the signature verification. An attacker could use this flaw to inject code in a trusted JAR. The code would be executed inside the sandbox.** : [AlAIAL90/CVE-2019-10181](https://github.com/AlAIAL90/CVE-2019-10181)  create time: 2021-07-24T12:33:56Z
 
