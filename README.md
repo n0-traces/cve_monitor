@@ -1,9 +1,41 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-24 11:16:51.454335  total: 5997 
+ > update time: 2021-07-24 13:01:44.910400  total: 6013 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for exploiting CVE-2019-10181 : It was found that in icedtea-web up to and including 1.7.2 and 1.8.2 executable code could be injected in a JAR file without compromising the signature verification. An attacker could use this flaw to inject code in a trusted JAR. The code would be executed inside the sandbox.** : [AlAIAL90/CVE-2019-10181](https://github.com/AlAIAL90/CVE-2019-10181)  create time: 2021-07-24T12:33:56Z
+
+**PoC for exploiting CVE-2020-14409 : SDL (Simple DirectMedia Layer) through 2.0.12 has an Integer Overflow (and resultant SDL_memcpy heap corruption) in SDL_BlitCopy in video/SDL_blit_copy.c via a crafted .BMP file.** : [AlAIAL90/CVE-2020-14409](https://github.com/AlAIAL90/CVE-2020-14409)  create time: 2021-07-24T12:33:49Z
+
+**PoC for exploiting CVE-2020-14410 : SDL (Simple DirectMedia Layer) through 2.0.12 has a heap-based buffer over-read in Blit_3or4_to_3or4__inversed_rgb in video/SDL_blit_N.c via a crafted .BMP file.** : [AlAIAL90/CVE-2020-14410](https://github.com/AlAIAL90/CVE-2020-14410)  create time: 2021-07-24T12:33:43Z
+
+**PoC for exploiting CVE-2020-13959 : The default error page for VelocityView in Apache Velocity Tools prior to 3.1 reflects back the vm file that was entered as part of the URL. An attacker can set an XSS payload file as this vm file in the URL which results in this payload being executed. XSS vulnerabilities allow attackers to execute arbitrary JavaScript in the context of the attacked website and the attacked user. This can be abused to steal session cookies, perform requests in the name of the victim or for phishing attacks.** : [AlAIAL90/CVE-2020-13959](https://github.com/AlAIAL90/CVE-2020-13959)  create time: 2021-07-24T12:33:37Z
+
+**PoC for exploiting CVE-2020-13936 : An attacker that is able to modify Velocity templates may execute arbitrary Java code or run arbitrary system commands with the same privileges as the account running the Servlet container. This applies to applications that allow untrusted users to upload/modify velocity templates running Apache Velocity Engine versions up to 2.2.** : [AlAIAL90/CVE-2020-13936](https://github.com/AlAIAL90/CVE-2020-13936)  create time: 2021-07-24T12:33:32Z
+
+**PoC for exploiting CVE-2020-36277 : Leptonica before 1.80.0 allows a denial of service (application crash) via an incorrect left shift in pixConvert2To8 in pixconv.c.** : [AlAIAL90/CVE-2020-36277](https://github.com/AlAIAL90/CVE-2020-36277)  create time: 2021-07-24T12:33:26Z
+
+**PoC for exploiting CVE-2020-36280 : Leptonica before 1.80.0 allows a heap-based buffer over-read in pixReadFromTiffStream, related to tiffio.c.** : [AlAIAL90/CVE-2020-36280](https://github.com/AlAIAL90/CVE-2020-36280)  create time: 2021-07-24T12:33:20Z
+
+**PoC for exploiting CVE-2020-36278 : Leptonica before 1.80.0 allows a heap-based buffer over-read in findNextBorderPixel in ccbord.c.** : [AlAIAL90/CVE-2020-36278](https://github.com/AlAIAL90/CVE-2020-36278)  create time: 2021-07-24T12:33:14Z
+
+**PoC for exploiting CVE-2020-36279 : Leptonica before 1.80.0 allows a heap-based buffer over-read in rasteropGeneralLow, related to adaptmap_reg.c and adaptmap.c.** : [AlAIAL90/CVE-2020-36279](https://github.com/AlAIAL90/CVE-2020-36279)  create time: 2021-07-24T12:33:08Z
+
+**PoC for exploiting CVE-2020-36281 : Leptonica before 1.80.0 allows a heap-based buffer over-read in pixFewColorsOctcubeQuantMixed in colorquant1.c.** : [AlAIAL90/CVE-2020-36281](https://github.com/AlAIAL90/CVE-2020-36281)  create time: 2021-07-24T12:33:02Z
+
+**C# PoC for CVE-2021-36934/HiveNightmare/SeriousSAM** : [cube0x0/CVE-2021-36934](https://github.com/cube0x0/CVE-2021-36934)  create time: 2021-07-24T12:55:05Z
+
+**PoC for exploiting CVE-2021-28906 : In function read_yin_leaf() in libyang <= v1.0.225, it doesn't check whether the value of retval->ext[r] is NULL. In some cases, it can be NULL, which leads to the operation of retval->ext[r]->flags that results in a crash.** : [AlAIAL90/CVE-2021-28906](https://github.com/AlAIAL90/CVE-2021-28906)  create time: 2021-07-24T12:32:56Z
+
+**PoC for exploiting CVE-2021-28905 : In function lys_node_free() in libyang <= v1.0.225, it asserts that the value of node->module can't be NULL. But in some cases, node->module can be null, which triggers a reachable assertion (CWE-617).** : [AlAIAL90/CVE-2021-28905](https://github.com/AlAIAL90/CVE-2021-28905)  create time: 2021-07-24T12:32:50Z
+
+**PoC for exploiting CVE-2021-28904 : In function ext_get_plugin() in libyang <= v1.0.225, it doesn't check whether the value of revision is NULL. If revision is NULL, the operation of strcmp(revision, ext_plugins[u].revision) will lead to a crash.** : [AlAIAL90/CVE-2021-28904](https://github.com/AlAIAL90/CVE-2021-28904)  create time: 2021-07-24T12:32:43Z
+
+**PoC for exploiting CVE-2021-28903 : A stack overflow in libyang <= v1.0.225 can cause a denial of service through function lyxml_parse_mem(). lyxml_parse_elem() function will be called recursively, which will consume stack space and lead to crash.** : [AlAIAL90/CVE-2021-28903](https://github.com/AlAIAL90/CVE-2021-28903)  create time: 2021-07-24T12:32:37Z
+
+**PoC for exploiting CVE-2021-28902 : In function read_yin_container() in libyang <= v1.0.225, it doesn't check whether the value of retval->ext[r] is NULL. In some cases, it can be NULL, which leads to the operation of retval->ext[r]->flags that results in a crash.** : [AlAIAL90/CVE-2021-28902](https://github.com/AlAIAL90/CVE-2021-28902)  create time: 2021-07-24T12:32:31Z
 
 **no description** : [Hydragyrum/CVE-2019-20933](https://github.com/Hydragyrum/CVE-2019-20933)  create time: 2021-07-24T11:12:13Z
 
