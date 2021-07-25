@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-24 18:28:41.213586  total: 6014 
+ > update time: 2021-07-25 01:34:46.004219  total: 6015 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for CVE-2021-36934 Aka HiveNightmare/SeriousSAM written in python3** : [Sp00p64/PyNightmare](https://github.com/Sp00p64/PyNightmare)  create time: 2021-07-25T00:31:11Z
 
 **Spotweb 1.4.9 - 'search' SQL Injection** : [bousalman/CVE-2020-35545](https://github.com/bousalman/CVE-2020-35545)  create time: 2021-07-24T18:12:35Z
 
