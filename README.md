@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-25 13:25:10.972675  total: 6018 
+ > update time: 2021-07-25 14:50:47.879553  total: 6019 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021–36934， Exploit allowing you to read any registry hives as non-admin.** : [wolf0x/HiveNightmare](https://github.com/wolf0x/HiveNightmare)  create time: 2021-07-25T14:39:31Z
 
 **HiveNightmare/SeriousSAM（CVE_2021_36934）** : [AttackTeamFamily/HiveNightmare](https://github.com/AttackTeamFamily/HiveNightmare)  create time: 2021-07-25T13:19:50Z
 
