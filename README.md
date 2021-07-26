@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-25 18:27:28.104976  total: 6020 
+ > update time: 2021-07-26 03:37:05.407381  total: 6021 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Exploit code for CVE-2021-33909,Just a dump of removed https://github.com/AmIAHuman/ repo** : [bbinfosec43/CVE-2021-33909](https://github.com/bbinfosec43/CVE-2021-33909)  create time: 2021-07-26T03:24:35Z
 
 **This PowerShell script will take the mitigation measures for CVE-2021-36934 described by Microsoft and the US CERT team.  https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-36934 https://kb.cert.org/vuls/id/506989  USE AT YOUR OWN RISK -- BACKUPS MAY BREAK.** : [jmaddington/Serious-Sam---CVE-2021-36934-Mitigation-for-Datto-RMM](https://github.com/jmaddington/Serious-Sam---CVE-2021-36934-Mitigation-for-Datto-RMM)  create time: 2021-07-25T18:00:35Z
 
