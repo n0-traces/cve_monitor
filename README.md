@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-26 03:37:05.407381  total: 6021 
+ > update time: 2021-07-26 07:14:54.013116  total: 6023 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [deathflash1411/CVE-2021-35448](https://github.com/deathflash1411/CVE-2021-35448)  create time: 2021-07-26T07:10:10Z
+
+**CVE-2021-3560 (Polkit - Local Privilege Escalation)** : [deathflash1411/CVE-2021-3560](https://github.com/deathflash1411/CVE-2021-3560)  create time: 2021-07-26T07:08:36Z
 
 **Exploit code for CVE-2021-33909,Just a dump of removed https://github.com/AmIAHuman/ repo** : [bbinfosec43/CVE-2021-33909](https://github.com/bbinfosec43/CVE-2021-33909)  create time: 2021-07-26T03:24:35Z
 
