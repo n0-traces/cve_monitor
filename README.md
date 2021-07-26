@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-26 08:26:42.413915  total: 6024 
+ > update time: 2021-07-26 16:38:42.845016  total: 6025 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [magichk/cve-2021-22146](https://github.com/magichk/cve-2021-22146)  create time: 2021-07-22T06:50:34Z
 
 **no description** : [0x0D1n/CVE-2021-36934](https://github.com/0x0D1n/CVE-2021-36934)  create time: 2021-07-26T08:01:08Z
 
