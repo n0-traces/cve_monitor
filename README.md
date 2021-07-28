@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-28 12:41:36.307674  total: 6066 
+ > update time: 2021-07-28 13:13:42.347361  total: 6068 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Local Privilege Escalation via snapd (CVE-2019-7304) Remastered PoC exploit** : [f4T1H21/dirty_sock](https://github.com/f4T1H21/dirty_sock)  create time: 2021-07-28T13:06:41Z
+
+**no description** : [zoukba0014/cve-2021-123456](https://github.com/zoukba0014/cve-2021-123456)  create time: 2021-07-28T13:06:01Z
 
 **no description** : [dorisroot1/CVE-2021-412999](https://github.com/dorisroot1/CVE-2021-412999)  create time: 2021-07-28T12:24:39Z
 
