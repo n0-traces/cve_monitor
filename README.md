@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-28 16:38:31.516890  total: 6069 
+ > update time: 2021-07-29 01:36:08.847934  total: 6070 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2018-9276 PRTG < 18.2.39 Reverse Shell (Python3 support)** : [A1vinSmith/CVE-2018-9276](https://github.com/A1vinSmith/CVE-2018-9276)  create time: 2021-07-29T01:17:22Z
 
 **Exploit for CVE-2018-12636** : [nth347/CVE-2018-12636_exploit](https://github.com/nth347/CVE-2018-12636_exploit)  create time: 2021-07-28T16:30:05Z
 
