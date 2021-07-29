@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-29 17:58:54.546874  total: 6089 
+ > update time: 2021-07-29 20:44:37.952699  total: 6090 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021-36934 HiveNightmare vulnerability checker and workaround** : [irissentinel/CVE-2021-36934](https://github.com/irissentinel/CVE-2021-36934)  create time: 2021-07-29T20:35:22Z
 
 **no description** : [chompie1337/Linux_LPE_eBPF_CVE-2021-3490](https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490)  create time: 2021-06-24T18:50:17Z
 
