@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-29 12:41:09.171595  total: 6084 
+ > update time: 2021-07-29 13:09:20.702211  total: 6085 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Google Chrome Use After Free vulnerability reported by S4E Team** : [s4e-lab/CVE-2021-30573-PoC-Google-Chrome](https://github.com/s4e-lab/CVE-2021-30573-PoC-Google-Chrome)  create time: 2021-07-29T12:53:13Z
 
 **no description** : [xmco/sdwan-cve-2021-1480](https://github.com/xmco/sdwan-cve-2021-1480)  create time: 2021-07-29T12:17:50Z
 
