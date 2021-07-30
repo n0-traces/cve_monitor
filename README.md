@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-30 10:20:07.908110  total: 6092 
+ > update time: 2021-07-30 11:40:32.538890  total: 6093 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**WordPress Backup Guard Authenticated Remote Code Execution Exploit** : [0Day-dev/CVE-2021-24155.rb](https://github.com/0Day-dev/CVE-2021-24155.rb)  create time: 2021-07-30T11:28:53Z
 
 **Exploit for CVE-2018-3810** : [nth347/CVE-2018-3810_exploit](https://github.com/nth347/CVE-2018-3810_exploit)  create time: 2021-07-30T10:06:04Z
 
