@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-01 13:28:44.618537  total: 6098 
+ > update time: 2021-08-01 20:10:20.441211  total: 6099 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**SeriousSAM Auto Exploiter** : [websecnl/CVE-2021-36934](https://github.com/websecnl/CVE-2021-36934)  create time: 2021-08-01T19:54:31Z
 
 **no description** : [PandatiX/CVE-2021-28378](https://github.com/PandatiX/CVE-2021-28378)  create time: 2021-08-01T13:16:53Z
 
