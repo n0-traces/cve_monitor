@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-02 12:40:55.403092  total: 6110 
+ > update time: 2021-08-02 13:56:30.322316  total: 6111 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**POC experiments with Volume Shadow copy Service (VSS)** : [grishinpv/poc_CVE-2021-36934](https://github.com/grishinpv/poc_CVE-2021-36934)  create time: 2021-08-02T13:47:17Z
 
 **no description** : [whitetea2424/CVE-2020-27955-LFS-main](https://github.com/whitetea2424/CVE-2020-27955-LFS-main)  create time: 2021-08-02T12:32:08Z
 
