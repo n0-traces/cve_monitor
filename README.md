@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-02 13:56:30.322316  total: 6111 
+ > update time: 2021-08-02 19:00:14.229494  total: 6112 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [AssassinUKG/CVE-2021-22204](https://github.com/AssassinUKG/CVE-2021-22204)  create time: 2021-08-02T18:56:16Z
 
 **POC experiments with Volume Shadow copy Service (VSS)** : [grishinpv/poc_CVE-2021-36934](https://github.com/grishinpv/poc_CVE-2021-36934)  create time: 2021-08-02T13:47:17Z
 
