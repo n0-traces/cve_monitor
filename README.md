@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-04 06:56:37.920323  total: 6120 
+ > update time: 2021-08-04 10:42:36.171599  total: 6121 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Windows Elevation of Privilege Vulnerability CVE-2021-36934** : [shaktavist/SeriousSam](https://github.com/shaktavist/SeriousSam)  create time: 2021-08-04T10:37:41Z
 
 **no description** : [s4dbrd/CVE-2020-9496](https://github.com/s4dbrd/CVE-2020-9496)  create time: 2021-08-04T06:48:31Z
 
