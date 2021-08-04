@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-03 15:01:55.827884  total: 6118 
+ > update time: 2021-08-04 06:32:55.244102  total: 6119 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [s4dbrd/CVE-2020-9496](https://github.com/s4dbrd/CVE-2020-9496)  create time: 2021-08-04T06:20:31Z
 
 **PoC for CVE-2021-3492 used at Pwn2Own 2021** : [synacktiv/CVE-2021-3492](https://github.com/synacktiv/CVE-2021-3492)  create time: 2021-06-28T09:43:31Z
 
