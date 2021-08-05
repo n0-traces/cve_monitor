@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-05 05:26:49.040374  total: 6126 
+ > update time: 2021-08-05 16:25:33.122768  total: 6127 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**SyncBreeze Enterprise Remote BufferOverflow [CVE-2017-14980]** : [Xcatolin/SyncBreeze-BoF](https://github.com/Xcatolin/SyncBreeze-BoF)  create time: 2021-08-05T16:06:57Z
 
 **no description** : [artsking/Sqlite-CVE-2019-20218](https://github.com/artsking/Sqlite-CVE-2019-20218)  create time: 2021-08-05T05:13:50Z
 
