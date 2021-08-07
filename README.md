@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-07 15:46:31.631567  total: 6172 
+ > update time: 2021-08-07 18:20:24.830545  total: 6173 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-20210-485** : [Ch0pin/CVE20210485](https://github.com/Ch0pin/CVE20210485)  create time: 2021-08-07T18:03:30Z
 
 **PoC for exploiting CVE-2020-3391 : A vulnerability in Cisco Digital Network Architecture (DNA) Center could allow an authenticated, remote attacker to view sensitive information in clear text. The vulnerability is due to insecure storage of certain unencrypted credentials on an affected device. An attacker could exploit this vulnerability by viewing the network device configuration and obtaining credentials that they may not normally have access to. A successful exploit could allow the attacker to use those credentials to discover and manage network devices.** : [AlAIAL90/CVE-2020-3391](https://github.com/AlAIAL90/CVE-2020-3391)  create time: 2021-08-07T15:35:54Z
 
