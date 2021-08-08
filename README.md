@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-08 03:01:16.516410  total: 6196 
+ > update time: 2021-08-08 13:46:45.191297  total: 6197 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**pentesterlab challange** : [prizoner627/CVE-2018-6574-go-get-RCE](https://github.com/prizoner627/CVE-2018-6574-go-get-RCE)  create time: 2021-08-08T13:26:50Z
 
 **no description** : [julio-cfa/PoC---ES-File-Explorer-4.1.9.7.4-CVE-2019-6447-](https://github.com/julio-cfa/PoC---ES-File-Explorer-4.1.9.7.4-CVE-2019-6447-)  create time: 2021-08-08T02:54:25Z
 
