@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-07 20:25:42.785645  total: 6191 
+ > update time: 2021-08-08 01:33:36.009366  total: 6195 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for exploiting CVE-2020-27153 : In BlueZ before 5.55, a double free was found in the gatttool disconnect_cb() routine from shared/att.c. A remote attacker could potentially cause a denial of service or code execution, during service discovery, due to a redundant disconnect MGMT event.** : [AlAIAL90/CVE-2020-27153](https://github.com/AlAIAL90/CVE-2020-27153)  create time: 2021-08-08T01:08:51Z
+
+**PoC for exploiting CVE-2020-26558 : Bluetooth LE and BR/EDR secure pairing in Bluetooth Core Specification 2.1 through 5.2 may permit a nearby man-in-the-middle attacker to identify the Passkey used during pairing (in the Passkey authentication procedure) by reflection of the public key and the authentication evidence of the initiating device, potentially permitting this attacker to complete authenticated pairing with the responding device using the correct Passkey for the pairing session. The attack methodology determines the Passkey value one bit at a time.** : [AlAIAL90/CVE-2020-26558](https://github.com/AlAIAL90/CVE-2020-26558)  create time: 2021-08-08T01:08:45Z
+
+**PoC for exploiting CVE-2021-0129 : Improper access control in BlueZ may allow an authenticated user to potentially enable information disclosure via adjacent access.** : [AlAIAL90/CVE-2021-0129](https://github.com/AlAIAL90/CVE-2021-0129)  create time: 2021-08-08T01:08:40Z
+
+**ACE poc exploit for glibc cpio 2.13 through mmap chunk metadata curruption (CVE-2021-38185)** : [fangqyi/cpiopwn](https://github.com/fangqyi/cpiopwn)  create time: 2021-07-19T20:10:13Z
 
 **PoC for exploiting CVE-2019-10156 : A flaw was discovered in the way Ansible templating was implemented in versions before 2.6.18, 2.7.12 and 2.8.2, causing the possibility of information disclosure through unexpected variable substitution. By taking advantage of unintended variable substitution the content of any variable may be disclosed.** : [AlAIAL90/CVE-2019-10156](https://github.com/AlAIAL90/CVE-2019-10156)  create time: 2021-08-07T20:07:06Z
 
