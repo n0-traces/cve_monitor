@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-10 14:23:36.071210  total: 6203 
+ > update time: 2021-08-10 15:11:09.043781  total: 6204 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**nuclei scanner for proxyshell ( CVE-2021-34473 )** : [cyberheartmi9/Proxyshell-Scanner](https://github.com/cyberheartmi9/Proxyshell-Scanner)  create time: 2021-08-10T15:01:02Z
 
 **CVE-2019-11043** : [jptr218/php_hack](https://github.com/jptr218/php_hack)  create time: 2021-08-10T14:06:27Z
 
