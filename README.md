@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-11 07:28:41.007133  total: 6208 
+ > update time: 2021-08-11 11:04:38.821737  total: 6209 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [puckiestyle/CVE-2020-35606](https://github.com/puckiestyle/CVE-2020-35606)  create time: 2021-08-11T10:54:22Z
 
 **no description** : [Jerry-zhuang/CVE-2017-1000117](https://github.com/Jerry-zhuang/CVE-2017-1000117)  create time: 2021-08-11T07:09:26Z
 
