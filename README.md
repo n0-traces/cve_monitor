@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-12 17:55:39.141381  total: 6218 
+ > update time: 2021-08-12 18:10:27.826129  total: 6219 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Exploit for CVE-2021-36934** : [chron1k/oxide_hive](https://github.com/chron1k/oxide_hive)  create time: 2021-08-12T18:01:21Z
 
 **Exploit for CVE-2021-36934** : [chron1k/oxide_hive](https://github.com/chron1k/oxide_hive)  create time: 2021-08-12T17:50:36Z
 
