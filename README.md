@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-12 18:56:04.753546  total: 6220 
+ > update time: 2021-08-12 19:10:49.924914  total: 6221 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021-38601 - Reflected XSS in Pepperminty-Wiki 0.23-dev** : [hmaverickadams/CVE-2021-38601](https://github.com/hmaverickadams/CVE-2021-38601)  create time: 2021-08-12T18:55:02Z
 
 **CVE-2021-38600 - Stored XSS in Pepperminty-Wiki 0.23-dev** : [hmaverickadams/CVE-2021-38600](https://github.com/hmaverickadams/CVE-2021-38600)  create time: 2021-08-12T18:44:05Z
 
