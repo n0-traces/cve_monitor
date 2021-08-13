@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-13 07:57:13.459972  total: 6229 
+ > update time: 2021-08-13 11:15:49.064982  total: 6230 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**WpDiscuz 7.0.4 Arbitrary File Upload Exploit** : [meicookies/CVE-2020-24186](https://github.com/meicookies/CVE-2020-24186)  create time: 2021-08-13T10:58:20Z
 
 **no description** : [y-f00l/CVE-2020-14364](https://github.com/y-f00l/CVE-2020-14364)  create time: 2021-08-13T07:44:50Z
 
