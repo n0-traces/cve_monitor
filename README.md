@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-12 21:24:14.201008  total: 6223 
+ > update time: 2021-08-13 05:00:22.418514  total: 6225 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**cve-2021-123123123** : [FirDragon/cve-2021-123123123](https://github.com/FirDragon/cve-2021-123123123)  create time: 2021-08-13T04:52:24Z
+
+**CVE-2021-123123** : [FirDragon/CVE-2021-123123](https://github.com/FirDragon/CVE-2021-123123)  create time: 2021-08-13T04:48:46Z
 
 **no description** : [KielVaughn/CVE-2021-38603](https://github.com/KielVaughn/CVE-2021-38603)  create time: 2021-08-12T21:08:54Z
 
