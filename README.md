@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-14 17:36:39.385928  total: 6237 
+ > update time: 2021-08-14 21:12:20.134170  total: 6239 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**check if Azure AD Connect is affected by the vulnerability described in CVE-2021-36949** : [Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability](https://github.com/Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability)  create time: 2021-08-14T21:05:30Z
+
+**TastyIgniter 3.0.7 allows XSS via the name field during user-account creation** : [Justin-1993/CVE-2021-38699](https://github.com/Justin-1993/CVE-2021-38699)  create time: 2021-08-14T20:57:00Z
 
 **An implementation of CVE-2020-1938** : [jptr218/ghostcat](https://github.com/jptr218/ghostcat)  create time: 2021-08-14T17:32:51Z
 
