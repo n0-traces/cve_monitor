@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-14 21:12:20.134170  total: 6239 
+ > update time: 2021-08-15 11:14:21.054475  total: 6241 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**The Heartbleed bug `CVE-2014-0160` is a severe implementation flaw in the OpenSSL library, which enables attackers to steal data from the memory of the victim server. The contents of the stolen data depend on what is there in the memory of the server. It could potentially contain private keys, TLS session keys, usernames, passwords, credit cards, etc. The vulnerability is in the implementation of the Heartbeat protocol, which is used by SSL/TLS to keep the connection alive.** : [pierceoneill/bleeding-heart](https://github.com/pierceoneill/bleeding-heart)  create time: 2021-08-15T11:05:23Z
+
+**tools for automate configure Ubuntu 20.04 enviroment for testing CVE-2021-28476.** : [sh4m2hwz/CVE-2021-28476-tools-env](https://github.com/sh4m2hwz/CVE-2021-28476-tools-env)  create time: 2021-08-15T11:10:40Z
 
 **check if Azure AD Connect is affected by the vulnerability described in CVE-2021-36949** : [Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability](https://github.com/Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability)  create time: 2021-08-14T21:05:30Z
 
