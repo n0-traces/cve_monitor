@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-15 11:14:21.054475  total: 6241 
+ > update time: 2021-08-15 22:58:29.733406  total: 6243 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Stored XSS in TastyIgniter v3.0.7 Restaurtant CMS** : [HuskyHacks/CVE-2021-38699-Stored-XSS](https://github.com/HuskyHacks/CVE-2021-38699-Stored-XSS)  create time: 2021-08-12T22:32:18Z
+
+**Multiple Reflected XSS in TastyIgniter v3.0.7 Restaurtant CMS** : [HuskyHacks/CVE-2021-38699-Reflected-XSS](https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS)  create time: 2021-08-12T21:12:04Z
 
 **The Heartbleed bug `CVE-2014-0160` is a severe implementation flaw in the OpenSSL library, which enables attackers to steal data from the memory of the victim server. The contents of the stolen data depend on what is there in the memory of the server. It could potentially contain private keys, TLS session keys, usernames, passwords, credit cards, etc. The vulnerability is in the implementation of the Heartbeat protocol, which is used by SSL/TLS to keep the connection alive.** : [pierceoneill/bleeding-heart](https://github.com/pierceoneill/bleeding-heart)  create time: 2021-08-15T11:05:23Z
 
