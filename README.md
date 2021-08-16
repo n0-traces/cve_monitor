@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-16 11:50:41.352099  total: 6249 
+ > update time: 2021-08-16 13:35:35.551780  total: 6251 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability** : [phamphuqui1998/CVE-2021-34473](https://github.com/phamphuqui1998/CVE-2021-34473)  create time: 2021-08-16T11:27:13Z
+
+**Sudo Heap Overflow Baron Samedit** : [0x7183/CVE-2021-3156](https://github.com/0x7183/CVE-2021-3156)  create time: 2021-08-13T14:23:09Z
 
 **CVE-2021-25790-Multiple-Stored-XSS : Multiple Stored XSS in House Rental and Property Listing** : [MrCraniums/CVE-2021-25790-Multiple-Stored-XSS](https://github.com/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS)  create time: 2021-08-16T11:46:02Z
 
