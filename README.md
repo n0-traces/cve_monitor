@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-18 13:32:31.690272  total: 6266 
+ > update time: 2021-08-18 17:46:32.577955  total: 6267 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-TBD Stored XSS in TastyIgniter v3.0.7 Restaurtant CMS** : [Fearless523/CVE-2021-39287-Stored-XSS](https://github.com/Fearless523/CVE-2021-39287-Stored-XSS)  create time: 2021-08-17T03:01:38Z
 
 **no description** : [artsking/curl-7.64.1_CVE-2020-8285_WithPatch](https://github.com/artsking/curl-7.64.1_CVE-2020-8285_WithPatch)  create time: 2021-08-18T13:26:01Z
 
