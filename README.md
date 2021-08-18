@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-18 10:43:36.791035  total: 6262 
+ > update time: 2021-08-18 10:54:00.335643  total: 6264 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [madhans23/curl-curl-7_64_1_CVE-2020-8169_withPatch](https://github.com/madhans23/curl-curl-7_64_1_CVE-2020-8169_withPatch)  create time: 2021-08-18T10:42:13Z
+
+**no description** : [artsking/curl-7.64.1_CVE-2020-8284_WithPatch](https://github.com/artsking/curl-7.64.1_CVE-2020-8284_WithPatch)  create time: 2021-08-18T10:40:48Z
 
 **no description** : [madhans23/curl-curl-7_64_1_CVE-2020-8169_noPatch](https://github.com/madhans23/curl-curl-7_64_1_CVE-2020-8169_noPatch)  create time: 2021-08-18T10:27:15Z
 
