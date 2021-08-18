@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-18 10:54:00.335643  total: 6264 
+ > update time: 2021-08-18 13:32:31.690272  total: 6266 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [artsking/curl-7.64.1_CVE-2020-8285_WithPatch](https://github.com/artsking/curl-7.64.1_CVE-2020-8285_WithPatch)  create time: 2021-08-18T13:26:01Z
+
+**[CVE-2021-22123] Fortinet FortiWeb Authenticated OS Command Injection** : [murataydemir/CVE-2021-22123](https://github.com/murataydemir/CVE-2021-22123)  create time: 2021-08-18T10:54:27Z
 
 **no description** : [madhans23/curl-curl-7_64_1_CVE-2020-8169_withPatch](https://github.com/madhans23/curl-curl-7_64_1_CVE-2020-8169_withPatch)  create time: 2021-08-18T10:42:13Z
 
