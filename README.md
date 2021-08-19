@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-19 06:29:01.375837  total: 6272 
+ > update time: 2021-08-19 11:39:07.396004  total: 6273 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Cobalt Strike < 4.4 dos CVE-2021-36798** : [M-Kings/CVE-2021-36798](https://github.com/M-Kings/CVE-2021-36798)  create time: 2021-08-19T11:26:51Z
 
 **no description** : [artsking/curl-7.64.1_CVE-2020-8285_WithPatch](https://github.com/artsking/curl-7.64.1_CVE-2020-8285_WithPatch)  create time: 2021-08-19T06:12:20Z
 
