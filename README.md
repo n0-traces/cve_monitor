@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-20 17:10:38.402732  total: 6322 
+ > update time: 2021-08-21 17:44:56.617349  total: 6323 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**An implementation of CVE-2015-3306** : [jptr218/proftpd_bypass](https://github.com/jptr218/proftpd_bypass)  create time: 2021-08-21T17:42:05Z
 
 **no description** : [sujithvaddi/apache_struts_cve_2017_9805](https://github.com/sujithvaddi/apache_struts_cve_2017_9805)  create time: 2021-08-20T16:49:59Z
 
