@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-24 06:31:03.196167  total: 6334 
+ > update time: 2021-08-24 08:47:07.586954  total: 6335 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Exploit script for SAP Business Objects SSRF** : [TheMMMdev/CVE-2020-6308](https://github.com/TheMMMdev/CVE-2020-6308)  create time: 2021-08-24T08:36:11Z
 
 **CVE-2020-4464 / CVE-2020-4450** : [silentsignal/WebSphere-WSIF-gadget](https://github.com/silentsignal/WebSphere-WSIF-gadget)  create time: 2021-08-17T08:44:49Z
 
