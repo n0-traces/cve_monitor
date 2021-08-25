@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-25 17:37:41.656302  total: 6337 
+ > update time: 2021-08-25 17:49:59.696457  total: 6339 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [W4RCL0UD/CVE-2021-39476](https://github.com/W4RCL0UD/CVE-2021-39476)  create time: 2021-08-25T17:37:54Z
+
+**Found multiple XSS vulnerabilities within PhoenixCart 1.0.8.0** : [W4RCL0UD/CVE-2021-39475](https://github.com/W4RCL0UD/CVE-2021-39475)  create time: 2021-08-19T18:03:40Z
 
 **Exploit to Virtua Software.** : [LucaRibeiro/CVE-2021-37589](https://github.com/LucaRibeiro/CVE-2021-37589)  create time: 2021-07-28T10:27:09Z
 
