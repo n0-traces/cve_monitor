@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-01 08:34:36.060400  total: 6376 
+ > update time: 2021-09-01 09:57:31.888803  total: 6377 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021-26084 Remote Code Execution on Confluence Servers** : [FanqXu/CVE-2021-26084](https://github.com/FanqXu/CVE-2021-26084)  create time: 2021-09-01T09:50:26Z
 
 **Atlassian Confluence Pre-Auth RCE** : [Udyz/CVE-2021-26084](https://github.com/Udyz/CVE-2021-26084)  create time: 2021-09-01T08:18:44Z
 
