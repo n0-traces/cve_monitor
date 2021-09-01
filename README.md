@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-01 11:15:05.953409  total: 6378 
+ > update time: 2021-09-01 11:29:39.977828  total: 6380 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PrintNightMare LPE提权漏洞的CS 反射加载插件。开箱即用、通过内存加载、混淆加载的驱动名称来ByPass Defender/EDR。** : [mstxq17/CVE-2021-1675_RDL_LPE](https://github.com/mstxq17/CVE-2021-1675_RDL_LPE)  create time: 2021-09-01T11:25:04Z
+
+**no description** : [qianxiao996/CVE-2021-22223](https://github.com/qianxiao996/CVE-2021-22223)  create time: 2021-09-01T11:23:17Z
 
 **no description** : [qianxiao996/CVE-2021-2222](https://github.com/qianxiao996/CVE-2021-2222)  create time: 2021-09-01T11:10:36Z
 
