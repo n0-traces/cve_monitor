@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-01 08:10:19.081497  total: 6375 
+ > update time: 2021-09-01 08:34:36.060400  total: 6376 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Atlassian Confluence Pre-Auth RCE** : [Udyz/CVE-2021-26084](https://github.com/Udyz/CVE-2021-26084)  create time: 2021-09-01T08:18:44Z
 
 **Exploit example code for CVE-2021-33831** : [lanmarc77/CVE-2021-33831](https://github.com/lanmarc77/CVE-2021-33831)  create time: 2021-08-22T14:27:29Z
 
