@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-01 12:29:17.308726  total: 6381 
+ > update time: 2021-09-01 13:02:22.775301  total: 6383 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**批量检测** : [tangxiaofeng7/CVE-2021-26084](https://github.com/tangxiaofeng7/CVE-2021-26084)  create time: 2021-09-01T12:36:52Z
+
+**CVE-2021-26084 Remote Code Execution on Confluence Servers** : [Osyanina/westone-CVE-2021-26084-scanner](https://github.com/Osyanina/westone-CVE-2021-26084-scanner)  create time: 2021-09-01T12:28:41Z
 
 **Remote Code Execution on Confluence Servers : CVE-2021-26084** : [Vulnmachines/Confluence_CVE-2021-26084](https://github.com/Vulnmachines/Confluence_CVE-2021-26084)  create time: 2021-09-01T12:19:53Z
 
