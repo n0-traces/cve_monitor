@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-01 07:55:37.222998  total: 6374 
+ > update time: 2021-09-01 08:10:19.081497  total: 6375 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Exploit example code for CVE-2021-33831** : [lanmarc77/CVE-2021-33831](https://github.com/lanmarc77/CVE-2021-33831)  create time: 2021-08-22T14:27:29Z
 
 **CVE-2021-26084 - Confluence Pre-Auth RCE  OGNL injection 远程代码执行可回显** : [r0ckysec/CVE-2021-26084_Confluence](https://github.com/r0ckysec/CVE-2021-26084_Confluence)  create time: 2021-09-01T07:45:55Z
 
