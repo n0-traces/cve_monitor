@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-01 03:29:52.014473  total: 6371 
+ > update time: 2021-09-01 07:22:07.934969  total: 6372 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Confluence Server Webwork OGNL injection** : [h3v0x/CVE-2021-26084_Confluence](https://github.com/h3v0x/CVE-2021-26084_Confluence)  create time: 2021-09-01T07:15:17Z
 
 **CVE-2021-26084 Remote Code Execution on Confluence Servers, reference: https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md** : [JKme/CVE-2021-26084](https://github.com/JKme/CVE-2021-26084)  create time: 2021-09-01T02:35:04Z
 
