@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-02 09:56:01.344300  total: 6466 
+ > update time: 2021-09-02 10:47:52.065728  total: 6469 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**readme** : [mooneee/cve-2021-6901](https://github.com/mooneee/cve-2021-6901)  create time: 2021-09-02T10:33:35Z
+
+**no description** : [DCKento/CVE-2021-40375](https://github.com/DCKento/CVE-2021-40375)  create time: 2021-08-31T11:13:14Z
+
+**XSS** : [DCKento/CVE-2021-40374](https://github.com/DCKento/CVE-2021-40374)  create time: 2021-08-31T11:12:49Z
 
 **PoC for exploiting CVE-2019-17571 : Included in Log4j 1.2 is a SocketServer class that is vulnerable to deserialization of untrusted data which can be exploited to remotely execute arbitrary code when combined with a deserialization gadget when listening to untrusted network traffic for log data. This affects Log4j versions up to 1.2 up to 1.2.17.** : [AlAIAL90/CVE-2019-17571](https://github.com/AlAIAL90/CVE-2019-17571)  create time: 2021-09-02T09:49:19Z
 
