@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-02 15:13:59.227972  total: 6473 
+ > update time: 2021-09-02 17:09:02.194060  total: 6475 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [fu2x2000/CVE-2017-17058-woo_exploit](https://github.com/fu2x2000/CVE-2017-17058-woo_exploit)  create time: 2021-05-11T16:43:00Z
+
+**Just testing if some bot will do some action here LOL** : [zeroc00I/CVE-2021-40354](https://github.com/zeroc00I/CVE-2021-40354)  create time: 2021-09-02T17:03:26Z
 
 **no description** : [itwangjie/CVE-2021-2021](https://github.com/itwangjie/CVE-2021-2021)  create time: 2021-09-02T14:56:30Z
 
