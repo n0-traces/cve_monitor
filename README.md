@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-02 01:47:08.294172  total: 6448 
+ > update time: 2021-09-02 02:53:33.346781  total: 6449 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Just run command without brain** : [smallpiggy/cve-2021-26084-confluence](https://github.com/smallpiggy/cve-2021-26084-confluence)  create time: 2021-09-02T02:41:49Z
 
 **Config files for my GitHub profile.** : [cveliz-2020074/cveliz-2020074](https://github.com/cveliz-2020074/cveliz-2020074)  create time: 2021-09-02T01:05:34Z
 
