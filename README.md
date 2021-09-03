@@ -1,9 +1,51 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-03 14:36:08.970610  total: 6482 
+ > update time: 2021-09-03 23:01:06.300384  total: 6503 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for exploiting CVE-2020-28020 : Exim 4 before 4.92 allows Integer Overflow to Buffer Overflow, in which an unauthenticated remote attacker can execute arbitrary code by leveraging the mishandling of continuation lines during header-length restriction.** : [AlAIAL90/CVE-2020-28020](https://github.com/AlAIAL90/CVE-2020-28020)  create time: 2021-09-03T22:56:13Z
+
+**PoC for exploiting CVE-2020-15744 : Stack-based Buffer Overflow vulnerability in the ONVIF server component of Victure PC420 smart camera allows an attacker to execute remote code on the target device. This issue affects: Victure PC420 firmware version 1.2.2 and prior versions.** : [AlAIAL90/CVE-2020-15744](https://github.com/AlAIAL90/CVE-2020-15744)  create time: 2021-09-03T22:55:53Z
+
+**PoC for exploiting CVE-2021-1588 : A vulnerability in the MPLS Operation, Administration, and Maintenance (OAM) feature of Cisco NX-OS Software could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition on an affected device. This vulnerability is due to improper input validation when an affected device is processing an MPLS echo-request or echo-reply packet. An attacker could exploit this vulnerability by sending malicious MPLS echo-request or echo-reply packets to an interface that is enabled for MPLS forwarding on the affected device. A successful exploit could allow the attacker to cause the MPLS OAM process to crash and restart multiple times, causing the affected device to reload and resulting in a DoS condition.** : [AlAIAL90/CVE-2021-1588](https://github.com/AlAIAL90/CVE-2021-1588)  create time: 2021-09-03T22:57:06Z
+
+**PoC for exploiting CVE-2021-1590 : A vulnerability in the implementation of the system login block-for command for Cisco NX-OS Software could allow an unauthenticated, remote attacker to cause a login process to unexpectedly restart, causing a denial of service (DoS) condition. This vulnerability is due to a logic error in the implementation of the system login block-for command when an attack is detected and acted upon. An attacker could exploit this vulnerability by performing a brute-force login attack on an affected device. A successful exploit could allow the attacker to cause a login process to reload, which could result in a delay during authentication to the affected device.** : [AlAIAL90/CVE-2021-1590](https://github.com/AlAIAL90/CVE-2021-1590)  create time: 2021-09-03T22:57:02Z
+
+**PoC for exploiting CVE-2021-1591 : A vulnerability in the EtherChannel port subscription logic of Cisco Nexus 9500 Series Switches could allow an unauthenticated, remote attacker to bypass access control list (ACL) rules that are configured on an affected device. This vulnerability is due to oversubscription of resources that occurs when applying ACLs to port channel interfaces. An attacker could exploit this vulnerability by attempting to access network resources that are protected by the ACL. A successful exploit could allow the attacker to access network resources that would be protected by the ACL that was applied on the port channel interface.** : [AlAIAL90/CVE-2021-1591](https://github.com/AlAIAL90/CVE-2021-1591)  create time: 2021-09-03T22:56:58Z
+
+**PoC for exploiting CVE-2021-1592 : A vulnerability in the way Cisco UCS Manager software handles SSH sessions could allow an authenticated, remote attacker to cause a denial of service (DoS) condition on an affected device. This vulnerability is due to improper resource management for established SSH sessions. An attacker could exploit this vulnerability by opening a significant number of SSH sessions on an affected device. A successful exploit could allow the attacker to cause a crash and restart of internal Cisco UCS Manager software processes and a temporary loss of access to the Cisco UCS Manager CLI and web UI. Note: The attacker must have valid user credentials to authenticate to the affected device.** : [AlAIAL90/CVE-2021-1592](https://github.com/AlAIAL90/CVE-2021-1592)  create time: 2021-09-03T22:56:54Z
+
+**PoC for exploiting CVE-2021-32955 : Delta Electronics DIAEnergie Version 1.7.5 and prior allows unrestricted file uploads, which may allow an attacker to remotely execute code.** : [AlAIAL90/CVE-2021-32955](https://github.com/AlAIAL90/CVE-2021-32955)  create time: 2021-09-03T22:56:51Z
+
+**PoC for exploiting CVE-2021-32967 : Delta Electronics DIAEnergie Version 1.7.5 and prior may allow an attacker to add a new administrative user without being authenticated or authorized, which may allow the attacker to log in and use the device with administrative privileges.** : [AlAIAL90/CVE-2021-32967](https://github.com/AlAIAL90/CVE-2021-32967)  create time: 2021-09-03T22:56:47Z
+
+**PoC for exploiting CVE-2021-32991 : Delta Electronics DIAEnergie Version 1.7.5 and prior is vulnerable to cross-site request forgery, which may allow an attacker to cause a user to carry out an action unintentionally.** : [AlAIAL90/CVE-2021-32991](https://github.com/AlAIAL90/CVE-2021-32991)  create time: 2021-09-03T22:56:44Z
+
+**PoC for exploiting CVE-2021-33003 : Delta Electronics DIAEnergie Version 1.7.5 and prior may allow an attacker to retrieve passwords in cleartext due to a weak hashing algorithm.** : [AlAIAL90/CVE-2021-33003](https://github.com/AlAIAL90/CVE-2021-33003)  create time: 2021-09-03T22:56:40Z
+
+**PoC for exploiting CVE-2021-32983 : A Blind SQL injection vulnerability exists in the /DataHandler/Handler_CFG.ashx endpoint of Delta Electronics DIAEnergie Version 1.7.5 and prior. The application does not properly validate the user-controlled value supplied through the parameter keyword before using it as part of an SQL query. A remote, unauthenticated attacker can exploit this issue to execute arbitrary code in the context of NT SERVICE\MSSQLSERVER.** : [AlAIAL90/CVE-2021-32983](https://github.com/AlAIAL90/CVE-2021-32983)  create time: 2021-09-03T22:56:36Z
+
+**PoC for exploiting CVE-2021-33007 : A heap-based buffer overflow in Delta Electronics TPEditor: v1.98.06 and prior may be exploited by processing a specially crafted project file. Successful exploitation of this vulnerability may allow an attacker to execute arbitrary code.** : [AlAIAL90/CVE-2021-33007](https://github.com/AlAIAL90/CVE-2021-33007)  create time: 2021-09-03T22:56:32Z
+
+**PoC for exploiting CVE-2021-33019 : A stack-based buffer overflow vulnerability in Delta Electronics DOPSoft Version 4.00.11 and prior may be exploited by processing a specially crafted project file, which may allow an attacker to execute arbitrary code.** : [AlAIAL90/CVE-2021-33019](https://github.com/AlAIAL90/CVE-2021-33019)  create time: 2021-09-03T22:56:28Z
+
+**PoC for exploiting CVE-2021-3628 : OpenKM Community Edition in its 6.3.10 version is vulnerable to authenticated Cross-site scripting (XSS). A remote attacker could exploit this vulnerability by injecting arbitrary code via de uuid parameter.** : [AlAIAL90/CVE-2021-3628](https://github.com/AlAIAL90/CVE-2021-3628)  create time: 2021-09-03T22:56:24Z
+
+**PoC for exploiting CVE-2021-39375 : Philips Healthcare Tasy Electronic Medical Record (EMR) 3.06 allows SQL injection via the WAdvancedFilter/getDimensionItemsByCode FilterValue parameter.** : [AlAIAL90/CVE-2021-39375](https://github.com/AlAIAL90/CVE-2021-39375)  create time: 2021-09-03T22:56:21Z
+
+**PoC for exploiting CVE-2021-27556 : The Cron job tab in EasyCorp ZenTao 12.5.3 allows remote attackers (who have admin access) to execute arbitrary code by setting the type parameter to System.** : [AlAIAL90/CVE-2021-27556](https://github.com/AlAIAL90/CVE-2021-27556)  create time: 2021-09-03T22:56:17Z
+
+**PoC for exploiting CVE-2021-24667 : A stored cross-site scripting vulnerability has been discovered in : Simply Gallery Blocks with Lightbox (Version – 2.2.0 & below). The vulnerability exists in the Lightbox functionality where a user with low privileges is allowed to execute arbitrary script code within the context of the application. This vulnerability is due to insufficient validation of image parameters in meta data.** : [AlAIAL90/CVE-2021-24667](https://github.com/AlAIAL90/CVE-2021-24667)  create time: 2021-09-03T22:56:09Z
+
+**PoC for exploiting CVE-2021-27913 : The function mt_rand is used to generate session tokens, this function is cryptographically flawed due to its nature being one pseudorandomness, an attacker can take advantage of the cryptographically insecure nature of this function to enumerate session tokens for accounts that are not under his/her control This issue affects: Mautic Mautic versions prior to 3.3.4; versions prior to 4.0.0.** : [AlAIAL90/CVE-2021-27913](https://github.com/AlAIAL90/CVE-2021-27913)  create time: 2021-09-03T22:56:05Z
+
+**PoC for exploiting CVE-2021-27912 : Mautic versions before 3.3.4/4.0.0 are vulnerable to an inline JS XSS attack when viewing Mautic assets by utilizing inline JS in the title and adding a broken image URL as a remote asset. This can only be leveraged by an authenticated user with permission to create or edit assets.** : [AlAIAL90/CVE-2021-27912](https://github.com/AlAIAL90/CVE-2021-27912)  create time: 2021-09-03T22:56:01Z
+
+**PoC for exploiting CVE-2021-37608 : Unrestricted Upload of File with Dangerous Type vulnerability in Apache OFBiz allows an attacker to execute remote commands. This issue affects Apache OFBiz version 17.12.07 and prior versions. Upgrade to at least 17.12.08 or apply patches at https://issues.apache.org/jira/browse/OFBIZ-12297.** : [AlAIAL90/CVE-2021-37608](https://github.com/AlAIAL90/CVE-2021-37608)  create time: 2021-09-03T22:55:57Z
+
+**Backporting CVE-2021-1748 patch for iOS <=14.3** : [ChiChou/mistune-patch-backport](https://github.com/ChiChou/mistune-patch-backport)  create time: 2021-09-03T22:48:11Z
 
 **CVE-2021-40492 Gibbon version 22 Reflected Cross Site Scripting (XSS)** : [5qu1n7/CVE-2021-40492](https://github.com/5qu1n7/CVE-2021-40492)  create time: 2021-09-02T15:33:12Z
 
