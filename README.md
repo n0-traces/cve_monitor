@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-04 15:02:55.476140  total: 6514 
+ > update time: 2021-09-04 15:26:51.728455  total: 6516 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**User enumeration wordpress.** : [kr4dd/CVE-2017-5487](https://github.com/kr4dd/CVE-2017-5487)  create time: 2021-09-04T15:20:35Z
+
+**no description** : [Anonimo501/SMBGhost_CVE-2020-0796_checker](https://github.com/Anonimo501/SMBGhost_CVE-2020-0796_checker)  create time: 2021-09-04T15:07:15Z
 
 **Setting up POC for  CVE-2021-26084** : [wolf1892/confluence-rce-poc](https://github.com/wolf1892/confluence-rce-poc)  create time: 2021-09-04T14:53:38Z
 
