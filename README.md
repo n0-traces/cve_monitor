@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-04 13:40:29.036670  total: 6511 
+ > update time: 2021-09-04 14:01:08.984242  total: 6512 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**script to exploit Confluence OGNL Injection written in golang.** : [march0s1as/CVE-2021-26084](https://github.com/march0s1as/CVE-2021-26084)  create time: 2021-09-04T13:32:42Z
 
 **Exploitation of a vulnerability in Cisco's node-jose, a JavaScript library created to manage JWT.** : [RyouYoo/CVE-2018-0114](https://github.com/RyouYoo/CVE-2018-0114)  create time: 2021-09-03T13:11:28Z
 
