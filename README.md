@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-04 07:33:37.413500  total: 6506 
+ > update time: 2021-09-04 13:29:26.728432  total: 6508 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Cross-Site Request Forgery (CSRF) in ClinicCases 7.3.3** : [sudonoodle/CVE-2021-38705](https://github.com/sudonoodle/CVE-2021-38705)  create time: 2021-09-03T20:42:43Z
+
+**Reflected Cross-Site Scripting (XSS) in ClinicCases 7.3.3** : [sudonoodle/CVE-2021-38704](https://github.com/sudonoodle/CVE-2021-38704)  create time: 2021-09-03T20:41:58Z
 
 **no description** : [BabyTeam1024/cve-2018-2628](https://github.com/BabyTeam1024/cve-2018-2628)  create time: 2021-09-04T07:22:46Z
 
