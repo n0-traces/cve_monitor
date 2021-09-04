@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-04 15:26:51.728455  total: 6516 
+ > update time: 2021-09-04 19:51:38.058406  total: 6517 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Wordpress Plainview Activity Monitor Plugin RCE (20161228)** : [Cinnamon1212/CVE-2018-15877-RCE](https://github.com/Cinnamon1212/CVE-2018-15877-RCE)  create time: 2021-09-04T19:39:18Z
 
 **User enumeration wordpress.** : [kr4dd/CVE-2017-5487](https://github.com/kr4dd/CVE-2017-5487)  create time: 2021-09-04T15:20:35Z
 
