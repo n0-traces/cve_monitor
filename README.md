@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-03 23:01:06.300384  total: 6503 
+ > update time: 2021-09-04 04:16:55.342776  total: 6504 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**A Python replicated exploit for Webmin 1.580 /file/show.cgi Remote Code Execution** : [JohnHammond/CVE-2012-2982](https://github.com/JohnHammond/CVE-2012-2982)  create time: 2021-09-04T04:01:56Z
 
 **PoC for exploiting CVE-2020-28020 : Exim 4 before 4.92 allows Integer Overflow to Buffer Overflow, in which an unauthenticated remote attacker can execute arbitrary code by leveraging the mishandling of continuation lines during header-length restriction.** : [AlAIAL90/CVE-2020-28020](https://github.com/AlAIAL90/CVE-2020-28020)  create time: 2021-09-03T22:56:13Z
 
