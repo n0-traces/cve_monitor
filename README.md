@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-04 04:16:55.342776  total: 6504 
+ > update time: 2021-09-04 05:02:25.162397  total: 6505 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2020-6418 제로데이 취약점** : [CYB3R-X3eRo0/CVE-2020-6418](https://github.com/CYB3R-X3eRo0/CVE-2020-6418)  create time: 2021-09-04T04:47:10Z
 
 **A Python replicated exploit for Webmin 1.580 /file/show.cgi Remote Code Execution** : [JohnHammond/CVE-2012-2982](https://github.com/JohnHammond/CVE-2012-2982)  create time: 2021-09-04T04:01:56Z
 
