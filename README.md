@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-04 14:01:08.984242  total: 6512 
+ > update time: 2021-09-04 14:32:01.280421  total: 6513 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021-34646 PoC** : [motikan2010/CVE-2021-34646](https://github.com/motikan2010/CVE-2021-34646)  create time: 2021-09-04T14:19:05Z
 
 **script to exploit Confluence OGNL Injection written in golang.** : [march0s1as/CVE-2021-26084](https://github.com/march0s1as/CVE-2021-26084)  create time: 2021-09-04T13:32:42Z
 
