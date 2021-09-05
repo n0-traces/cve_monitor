@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-05 09:34:14.778824  total: 6518 
+ > update time: 2021-09-05 17:02:03.591464  total: 6519 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [Prodrious/CVE-2020-13942](https://github.com/Prodrious/CVE-2020-13942)  create time: 2021-09-05T16:39:19Z
 
 **An OGNL injection vulnerability exists that would allow an authenticated user, and in some instances unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance** : [rootsmadi/CVE-2021-26084](https://github.com/rootsmadi/CVE-2021-26084)  create time: 2021-09-05T09:27:55Z
 
