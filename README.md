@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-04 19:51:38.058406  total: 6517 
+ > update time: 2021-09-05 09:34:14.778824  total: 6518 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**An OGNL injection vulnerability exists that would allow an authenticated user, and in some instances unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance** : [rootsmadi/CVE-2021-26084](https://github.com/rootsmadi/CVE-2021-26084)  create time: 2021-09-05T09:27:55Z
 
 **Wordpress Plainview Activity Monitor Plugin RCE (20161228)** : [Cinnamon1212/CVE-2018-15877-RCE](https://github.com/Cinnamon1212/CVE-2018-15877-RCE)  create time: 2021-09-04T19:39:18Z
 
