@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-06 07:03:46.984194  total: 6522 
+ > update time: 2021-09-06 12:00:48.229579  total: 6523 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021-36798 Exp: Cobalt Strike < 4.4 dos** : [JamVayne/CobaltStrikeDos](https://github.com/JamVayne/CobaltStrikeDos)  create time: 2021-09-06T11:49:03Z
 
 **asjhdsajdlksavksapfoka** : [p1gz/CVE-2021-26084-Confluence-OGNL](https://github.com/p1gz/CVE-2021-26084-Confluence-OGNL)  create time: 2021-09-06T06:55:15Z
 
