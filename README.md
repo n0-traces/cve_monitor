@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-06 12:36:12.966033  total: 6524 
+ > update time: 2021-09-06 14:09:14.132316  total: 6525 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [steefn/cve2018-6574](https://github.com/steefn/cve2018-6574)  create time: 2021-09-06T13:55:42Z
 
 **A vulnerability can allow an attacker to guess the automatically generated development mode secret token.** : [RyouYoo/CVE-2019-5420](https://github.com/RyouYoo/CVE-2019-5420)  create time: 2021-09-06T12:28:05Z
 
