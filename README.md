@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-06 12:00:48.229579  total: 6523 
+ > update time: 2021-09-06 12:36:12.966033  total: 6524 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**A vulnerability can allow an attacker to guess the automatically generated development mode secret token.** : [RyouYoo/CVE-2019-5420](https://github.com/RyouYoo/CVE-2019-5420)  create time: 2021-09-06T12:28:05Z
 
 **CVE-2021-36798 Exp: Cobalt Strike < 4.4 dos** : [JamVayne/CobaltStrikeDos](https://github.com/JamVayne/CobaltStrikeDos)  create time: 2021-09-06T11:49:03Z
 
