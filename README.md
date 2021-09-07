@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-07 16:21:41.246678  total: 6531 
+ > update time: 2021-09-07 17:24:18.135468  total: 6532 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Template Injection in Email Templates leads to code execution on Jira Service Management Server** : [PetrusViet/CVE-2021-39115](https://github.com/PetrusViet/CVE-2021-39115)  create time: 2021-09-07T09:03:35Z
 
 **Modified Verion of CVE-2016-0792** : [Aviksaikat/CVE-2016-0792](https://github.com/Aviksaikat/CVE-2016-0792)  create time: 2021-09-07T13:14:16Z
 
