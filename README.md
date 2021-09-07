@@ -1,9 +1,21 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-07 17:24:18.135468  total: 6532 
+ > update time: 2021-09-07 22:01:34.446371  total: 6538 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for exploiting CVE-2019-10172 : A flaw was found in org.codehaus.jackson:jackson-mapper-asl:1.9.x libraries. XML external entity vulnerabilities similar CVE-2016-3720 also affects codehaus jackson-mapper-asl libraries but in different classes.** : [AlAIAL90/CVE-2019-10172](https://github.com/AlAIAL90/CVE-2019-10172)  create time: 2021-09-07T21:51:57Z
+
+**PoC for exploiting CVE-2021-40153 : squashfs_opendir in unsquash-1.c in Squashfs-Tools 4.5 stores the filename in the directory entry; this is then used by unsquashfs to create the new file during the unsquash. The filename is not validated for traversal outside of the destination directory, and thus allows writing to locations outside of the destination.** : [AlAIAL90/CVE-2021-40153](https://github.com/AlAIAL90/CVE-2021-40153)  create time: 2021-09-07T21:52:34Z
+
+**PoC for exploiting CVE-2021-28700 : xen/arm: No memory limit for dom0less domUs The dom0less feature allows an administrator to create multiple unprivileged domains directly from Xen. Unfortunately, the memory limit from them is not set. This allow a domain to allocate memory beyond what an administrator originally configured.** : [AlAIAL90/CVE-2021-28700](https://github.com/AlAIAL90/CVE-2021-28700)  create time: 2021-09-07T21:52:30Z
+
+**PoC for exploiting CVE-2021-38173 : Btrbk before 0.31.2 allows command execution because of the mishandling of remote hosts filtering SSH commands using ssh_filter_btrbk.sh in authorized_keys.** : [AlAIAL90/CVE-2021-38173](https://github.com/AlAIAL90/CVE-2021-38173)  create time: 2021-09-07T21:52:08Z
+
+**PoC for exploiting CVE-2021-29484 : Ghost is a Node.js CMS. An unused endpoint added during the development of 4.0.0 has left sites vulnerable to untrusted users gaining access to Ghost Admin. Attackers can gain access by getting logged in users to click a link containing malicious code. Users do not need to enter credentials and may not know they've visited a malicious site. Ghost(Pro) has already been patched. We can find no evidence that the issue was exploited on Ghost(Pro) prior to the patch being added. Self-hosters are impacted if running Ghost a version between 4.0.0 and 4.3.2. Immediate action should be taken to secure your site. The issue has been fixed in 4.3.3, all 4.x sites should upgrade as soon as possible. As the endpoint is unused, the patch simply removes it. As a workaround blocking access to /ghost/preview can also mitigate the issue.** : [AlAIAL90/CVE-2021-29484](https://github.com/AlAIAL90/CVE-2021-29484)  create time: 2021-09-07T21:52:01Z
+
+**PoC for exploiting CVE-2021-33560 : Libgcrypt before 1.8.8 and 1.9.x before 1.9.3 mishandles ElGamal encryption because it lacks exponent blinding to address a side-channel attack against mpi_powm, and the window size is not chosen appropriately. This, for example, affects use of ElGamal in OpenPGP.** : [AlAIAL90/CVE-2021-33560](https://github.com/AlAIAL90/CVE-2021-33560)  create time: 2021-09-07T21:51:53Z
 
 **Template Injection in Email Templates leads to code execution on Jira Service Management Server** : [PetrusViet/CVE-2021-39115](https://github.com/PetrusViet/CVE-2021-39115)  create time: 2021-09-07T09:03:35Z
 
