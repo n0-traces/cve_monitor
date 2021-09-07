@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-07 22:01:34.446371  total: 6538 
+ > update time: 2021-09-07 23:18:03.091096  total: 6540 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for exploiting CVE-2021-21409 : Netty is an open-source, asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients. In Netty (io.netty:netty-codec-http2) before version 4.1.61.Final there is a vulnerability that enables request smuggling. The content-length header is not correctly validated if the request only uses a single Http2HeaderFrame with the endStream set to to true. This could lead to request smuggling if the request is proxied to a remote peer and translated to HTTP/1.1. This is a followup of GHSA-wm47-8v5p-wjpj/CVE-2021-21295 which did miss to fix this one case. This was fixed as part of 4.1.61.Final.** : [AlAIAL90/CVE-2021-21409](https://github.com/AlAIAL90/CVE-2021-21409)  create time: 2021-09-07T23:01:56Z
+
+**PoC for exploiting CVE-2021-39371 : An XML external entity (XXE) injection in PyWPS before 4.5.0 allows an attacker to view files on the application server filesystem by assigning a path to the entity. OWSLib 0.24.1 may also be affected.** : [AlAIAL90/CVE-2021-39371](https://github.com/AlAIAL90/CVE-2021-39371)  create time: 2021-09-07T23:01:49Z
 
 **PoC for exploiting CVE-2019-10172 : A flaw was found in org.codehaus.jackson:jackson-mapper-asl:1.9.x libraries. XML external entity vulnerabilities similar CVE-2016-3720 also affects codehaus jackson-mapper-asl libraries but in different classes.** : [AlAIAL90/CVE-2019-10172](https://github.com/AlAIAL90/CVE-2019-10172)  create time: 2021-09-07T21:51:57Z
 
