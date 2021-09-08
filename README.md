@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-07 23:18:03.091096  total: 6540 
+ > update time: 2021-09-08 08:48:24.133715  total: 6541 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444** : [ozergoker/CVE-2021-40444](https://github.com/ozergoker/CVE-2021-40444)  create time: 2021-09-08T08:32:40Z
 
 **PoC for exploiting CVE-2021-21409 : Netty is an open-source, asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients. In Netty (io.netty:netty-codec-http2) before version 4.1.61.Final there is a vulnerability that enables request smuggling. The content-length header is not correctly validated if the request only uses a single Http2HeaderFrame with the endStream set to to true. This could lead to request smuggling if the request is proxied to a remote peer and translated to HTTP/1.1. This is a followup of GHSA-wm47-8v5p-wjpj/CVE-2021-21295 which did miss to fix this one case. This was fixed as part of 4.1.61.Final.** : [AlAIAL90/CVE-2021-21409](https://github.com/AlAIAL90/CVE-2021-21409)  create time: 2021-09-07T23:01:56Z
 
