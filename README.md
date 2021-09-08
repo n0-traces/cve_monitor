@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-08 11:15:30.384847  total: 6543 
+ > update time: 2021-09-08 14:44:29.927363  total: 6545 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Exploit chain for CVE-2019-9791 & CVE-2019-11708 against firefox 65.0 on windows 64bit** : [Sp0pielar/CVE-2019-9791](https://github.com/Sp0pielar/CVE-2019-9791)  create time: 2021-09-08T14:38:42Z
+
+**Patched Confluence 7.12.2 (CVE-2021-26084)** : [toowoxx/docker-confluence-patched](https://github.com/toowoxx/docker-confluence-patched)  create time: 2021-09-08T14:35:37Z
 
 **Exploit CVE 2021 26084 Confluence** : [dock0d1/CVE-2021-26084_Confluence](https://github.com/dock0d1/CVE-2021-26084_Confluence)  create time: 2021-09-08T11:01:49Z
 
