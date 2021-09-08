@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-08 14:44:29.927363  total: 6545 
+ > update time: 2021-09-08 17:32:10.404620  total: 6546 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021-26084 patch as provided in "Confluence Security Advisory - 2021-08-25"** : [nizarbamida/CVE-2021-26084-patch-](https://github.com/nizarbamida/CVE-2021-26084-patch-)  create time: 2021-09-08T17:05:16Z
 
 **Exploit chain for CVE-2019-9791 & CVE-2019-11708 against firefox 65.0 on windows 64bit** : [Sp0pielar/CVE-2019-9791](https://github.com/Sp0pielar/CVE-2019-9791)  create time: 2021-09-08T14:38:42Z
 
