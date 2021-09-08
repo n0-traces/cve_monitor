@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-08 08:48:24.133715  total: 6541 
+ > update time: 2021-09-08 09:17:22.469085  total: 6542 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [Edgarloyola/CVE-2021-36563](https://github.com/Edgarloyola/CVE-2021-36563)  create time: 2021-07-27T11:22:21Z
 
 **Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444** : [ozergoker/CVE-2021-40444](https://github.com/ozergoker/CVE-2021-40444)  create time: 2021-09-08T08:32:40Z
 
