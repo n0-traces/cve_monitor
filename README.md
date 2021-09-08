@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-08 09:17:22.469085  total: 6542 
+ > update time: 2021-09-08 11:15:30.384847  total: 6543 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Exploit CVE 2021 26084 Confluence** : [dock0d1/CVE-2021-26084_Confluence](https://github.com/dock0d1/CVE-2021-26084_Confluence)  create time: 2021-09-08T11:01:49Z
 
 **no description** : [Edgarloyola/CVE-2021-36563](https://github.com/Edgarloyola/CVE-2021-36563)  create time: 2021-07-27T11:22:21Z
 
