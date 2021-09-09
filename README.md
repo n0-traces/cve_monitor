@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-09 06:31:20.843390  total: 6550 
+ > update time: 2021-09-09 13:06:49.159333  total: 6551 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**TP Seguridad Informática** : [fran-CICS/ExploitTensorflowCVE-2021-37678](https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678)  create time: 2021-09-09T12:55:55Z
 
 **Confluence OGNL injection** : [dorkerdevil/CVE-2021-26084](https://github.com/dorkerdevil/CVE-2021-26084)  create time: 2021-09-09T06:19:13Z
 
