@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-08 22:42:36.450446  total: 6547 
+ > update time: 2021-09-09 03:33:11.955060  total: 6548 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [rfcxv/CVE-2021-40444-POC](https://github.com/rfcxv/CVE-2021-40444-POC)  create time: 2021-09-09T03:15:57Z
 
 **CVE-2021-40346 PoC (HAProxy HTTP Smuggling)** : [knqyf263/CVE-2021-40346](https://github.com/knqyf263/CVE-2021-40346)  create time: 2021-09-08T22:26:19Z
 
