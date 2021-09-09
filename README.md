@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-09 13:06:49.159333  total: 6551 
+ > update time: 2021-09-09 16:03:04.747870  total: 6552 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [twentybel0w/CVE-2020-25233](https://github.com/twentybel0w/CVE-2020-25233)  create time: 2021-09-09T15:58:08Z
 
 **TP Seguridad Informática** : [fran-CICS/ExploitTensorflowCVE-2021-37678](https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678)  create time: 2021-09-09T12:55:55Z
 
