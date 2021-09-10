@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-10 08:34:29.589141  total: 6557 
+ > update time: 2021-09-10 09:57:12.123587  total: 6558 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021-40444 Sample** : [Udyz/CVE-2021-40444-Sample](https://github.com/Udyz/CVE-2021-40444-Sample)  create time: 2021-09-10T09:43:41Z
 
 **CVE-2021-40346 integer overflow enables http smuggling** : [donky16/CVE-2021-40346-POC](https://github.com/donky16/CVE-2021-40346-POC)  create time: 2021-09-10T08:18:20Z
 
