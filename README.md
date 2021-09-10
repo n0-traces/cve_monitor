@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-10 18:28:34.228341  total: 6562 
+ > update time: 2021-09-10 23:25:12.985388  total: 6563 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [alikarimi999/CVE-2021-40346](https://github.com/alikarimi999/CVE-2021-40346)  create time: 2021-09-10T23:02:45Z
 
 **EternalBlueTrojan(CVE-2017-0144)** : [Ali-Imangholi/EternalBlueTrojan](https://github.com/Ali-Imangholi/EternalBlueTrojan)  create time: 2021-09-10T18:18:53Z
 
