@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-11 14:23:24.883576  total: 6571 
+ > update time: 2021-09-11 15:43:32.399698  total: 6572 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Malicious document builder for CVE-2021-40444** : [amartinsec/MSHTHell](https://github.com/amartinsec/MSHTHell)  create time: 2021-09-11T15:33:41Z
 
 **Updating all CVE-details from the year 1999 to 2021** : [techyrick/CVE-list](https://github.com/techyrick/CVE-list)  create time: 2021-09-11T14:06:01Z
 
