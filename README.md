@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-11 04:59:49.072208  total: 6567 
+ > update time: 2021-09-11 06:56:58.382104  total: 6568 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Strapi  Remote Code Execution** : [D3m0nicw0lf/-CVE-2019-19609](https://github.com/D3m0nicw0lf/-CVE-2019-19609)  create time: 2021-09-11T06:53:33Z
 
 **CVE-2021-40444 Microsoft MSHTML Remote Code Execution Vulnerability** : [FanqXu/CVE-2021-40444](https://github.com/FanqXu/CVE-2021-40444)  create time: 2021-09-11T04:13:12Z
 
