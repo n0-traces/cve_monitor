@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-11 15:43:32.399698  total: 6572 
+ > update time: 2021-09-11 16:37:12.963231  total: 6573 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**A malicious .cab creation tool for CVE-2021-40444** : [mansk1es/Caboom](https://github.com/mansk1es/Caboom)  create time: 2021-09-11T16:31:05Z
 
 **Malicious document builder for CVE-2021-40444** : [amartinsec/MSHTHell](https://github.com/amartinsec/MSHTHell)  create time: 2021-09-11T15:33:41Z
 
