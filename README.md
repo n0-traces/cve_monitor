@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-12 01:35:59.342055  total: 6575 
+ > update time: 2021-09-12 09:33:26.479755  total: 6576 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Reverse engineering the "A Letter Before Court 4.docx" malicious files exploting cve-2021-40444** : [jamesrep/cve-2021-40444](https://github.com/jamesrep/cve-2021-40444)  create time: 2021-09-12T09:27:40Z
 
 **no description** : [R0fM1a/CVE-2021-40444-pocv](https://github.com/R0fM1a/CVE-2021-40444-pocv)  create time: 2021-09-12T00:25:14Z
 
