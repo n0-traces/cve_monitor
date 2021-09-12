@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-12 12:48:09.951616  total: 6579 
+ > update time: 2021-09-12 18:03:23.308729  total: 6580 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Exploitation of CVE-2018-18925 a Remote Code Execution against the Git self hosted tool: Gogs.** : [RyouYoo/CVE-2018-18925](https://github.com/RyouYoo/CVE-2018-18925)  create time: 2021-09-12T17:57:56Z
 
 **Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution.** : [RyouYoo/CVE-2021-24499](https://github.com/RyouYoo/CVE-2021-24499)  create time: 2021-09-12T12:43:24Z
 
