@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-12 18:29:17.381798  total: 6581 
+ > update time: 2021-09-13 03:43:28.716171  total: 6582 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [sDreamForZzQ/CVE-2021-1234](https://github.com/sDreamForZzQ/CVE-2021-1234)  create time: 2021-09-13T02:09:32Z
 
 **This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit** : [aslitsecurity/CVE-2021-40444_builders](https://github.com/aslitsecurity/CVE-2021-40444_builders)  create time: 2021-09-12T18:05:53Z
 
