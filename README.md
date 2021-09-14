@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-14 13:49:19.368325  total: 6598 
+ > update time: 2021-09-14 22:39:28.268543  total: 6601 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Scans Microsoft office documents for malicious xml entries** : [InfoSecPolkCounty/CVE2021-40444-document-Scanner](https://github.com/InfoSecPolkCounty/CVE2021-40444-document-Scanner)  create time: 2021-09-14T19:59:53Z
+
+**no description** : [k8gege/CVE-2021-40444](https://github.com/k8gege/CVE-2021-40444)  create time: 2021-09-14T17:10:48Z
+
+**Multiple SQL Inejection Vulnerability in Support Board Version 3.3.3 that allow remote unauthenticated attacker to execute arbitrary SQL commands via status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id parameters to ajax.php which is connected to functions.php which the vulnerability is present.** : [itsjeffersonli/CVE-2021-24741](https://github.com/itsjeffersonli/CVE-2021-24741)  create time: 2021-08-28T18:34:40Z
 
 **partly working PoC, check lockedbytes PoC for full experience!** : [js-on/CVE-2021-40444](https://github.com/js-on/CVE-2021-40444)  create time: 2021-09-14T13:45:36Z
 
