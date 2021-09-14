@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-14 11:49:10.897147  total: 6597 
+ > update time: 2021-09-14 13:49:19.368325  total: 6598 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**partly working PoC, check lockedbytes PoC for full experience!** : [js-on/CVE-2021-40444](https://github.com/js-on/CVE-2021-40444)  create time: 2021-09-14T13:45:36Z
 
 **no description** : [mr-r3b00t/2021-BadPewCVEs](https://github.com/mr-r3b00t/2021-BadPewCVEs)  create time: 2021-09-14T11:38:33Z
 
