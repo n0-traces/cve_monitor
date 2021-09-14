@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-14 11:39:03.846830  total: 6596 
+ > update time: 2021-09-14 11:49:10.897147  total: 6597 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [mr-r3b00t/2021-BadPewCVEs](https://github.com/mr-r3b00t/2021-BadPewCVEs)  create time: 2021-09-14T11:38:33Z
 
 **Here you can find my relation about the project I made for the Internet Security course. Because I written it in Latex, you can also find the Latex source files. The project talks about Maltego vulnerability CVE-2020-24656, which allows an attacker to exfiltrate data via an XXE injection attack.** : [terzinodipaese/Internet-Security-Project](https://github.com/terzinodipaese/Internet-Security-Project)  create time: 2021-09-14T11:33:12Z
 
