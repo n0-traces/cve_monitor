@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-13 10:27:57.086510  total: 6590 
+ > update time: 2021-09-14 02:17:05.298023  total: 6592 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [aydianosec/CVE2021-40444](https://github.com/aydianosec/CVE2021-40444)  create time: 2021-09-14T01:37:25Z
+
+**CSRF in Qloapps HotelCommerce 1.5.1** : [dillonkirsch/CVE-2021-41074](https://github.com/dillonkirsch/CVE-2021-41074)  create time: 2021-09-13T19:55:57Z
 
 **no description** : [Immersive-Labs-Sec/cve-2021-40444-analysis](https://github.com/Immersive-Labs-Sec/cve-2021-40444-analysis)  create time: 2021-09-09T15:43:08Z
 
