@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-14 22:39:28.268543  total: 6601 
+ > update time: 2021-09-14 23:34:18.541829  total: 6602 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2018-15473 Exploit** : [MrDottt/CVE-2018-15473](https://github.com/MrDottt/CVE-2018-15473)  create time: 2021-09-14T23:20:52Z
 
 **Scans Microsoft office documents for malicious xml entries** : [InfoSecPolkCounty/CVE2021-40444-document-Scanner](https://github.com/InfoSecPolkCounty/CVE2021-40444-document-Scanner)  create time: 2021-09-14T19:59:53Z
 
