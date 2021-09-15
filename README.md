@@ -1,9 +1,37 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-15 10:47:24.079445  total: 6607 
+ > update time: 2021-09-15 16:23:31.448220  total: 6621 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for exploiting CVE-2021-1829 : A type confusion issue was addressed with improved state handling. This issue is fixed in macOS Big Sur 11.3. An application may be able to execute arbitrary code with kernel privileges.** : [AlAIAL90/CVE-2021-1829](https://github.com/AlAIAL90/CVE-2021-1829)  create time: 2021-09-15T15:58:30Z
+
+**PoC for exploiting CVE-2020-27942 : A logic issue was addressed with improved state management. This issue is fixed in Security Update 2021-002 Catalina, Security Update 2021-003 Mojave. Processing a maliciously crafted font file may lead to arbitrary code execution.** : [AlAIAL90/CVE-2020-27942](https://github.com/AlAIAL90/CVE-2020-27942)  create time: 2021-09-15T15:58:26Z
+
+**PoC for exploiting CVE-2021-1830 : An out-of-bounds read was addressed with improved input validation. This issue is fixed in iOS 14.5 and iPadOS 14.5. A local user may be able to read kernel memory.** : [AlAIAL90/CVE-2021-1830](https://github.com/AlAIAL90/CVE-2021-1830)  create time: 2021-09-15T15:58:22Z
+
+**PoC for exploiting CVE-2021-30858 : A use after free issue was addressed with improved memory management. This issue is fixed in iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6. Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.** : [AlAIAL90/CVE-2021-30858](https://github.com/AlAIAL90/CVE-2021-30858)  create time: 2021-09-15T15:58:18Z
+
+**PoC for exploiting CVE-2021-1831 : The issue was addressed with improved permissions logic. This issue is fixed in iOS 14.5 and iPadOS 14.5. An application may allow shortcuts to access restricted files.** : [AlAIAL90/CVE-2021-1831](https://github.com/AlAIAL90/CVE-2021-1831)  create time: 2021-09-15T15:58:15Z
+
+**PoC for exploiting CVE-2021-28560 : Acrobat Reader DC versions versions 2021.001.20150 (and earlier), 2020.001.30020 (and earlier) and 2017.011.30194 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.** : [AlAIAL90/CVE-2021-28560](https://github.com/AlAIAL90/CVE-2021-28560)  create time: 2021-09-15T15:58:11Z
+
+**PoC for exploiting CVE-2021-28564 : Acrobat Reader DC versions versions 2021.001.20150 (and earlier), 2020.001.30020 (and earlier) and 2017.011.30194 (and earlier) are affected by an Out-of-bounds Write vulnerability within the ImageTool component. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.** : [AlAIAL90/CVE-2021-28564](https://github.com/AlAIAL90/CVE-2021-28564)  create time: 2021-09-15T15:58:07Z
+
+**PoC for exploiting CVE-2021-28561 : Acrobat Reader DC versions versions 2021.001.20150 (and earlier), 2020.001.30020 (and earlier) and 2017.011.30194 (and earlier) are affected by a memory corruption vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.** : [AlAIAL90/CVE-2021-28561](https://github.com/AlAIAL90/CVE-2021-28561)  create time: 2021-09-15T15:58:03Z
+
+**PoC for exploiting CVE-2021-28565 : Acrobat Reader DC versions versions 2021.001.20150 (and earlier), 2020.001.30020 (and earlier) and 2017.011.30194 (and earlier) are affected by an Out-of-bounds Read vulnerability in the PDFLibTool component. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.** : [AlAIAL90/CVE-2021-28565](https://github.com/AlAIAL90/CVE-2021-28565)  create time: 2021-09-15T15:57:58Z
+
+**PoC for exploiting CVE-2021-28559 : Acrobat Reader DC versions versions 2021.001.20150 (and earlier), 2020.001.30020 (and earlier) and 2017.011.30194 (and earlier) are affected by an Information Exposure vulnerability. An unauthenticated attacker could leverage this vulnerability to get access to restricted data stored within global variables and objects.** : [AlAIAL90/CVE-2021-28559](https://github.com/AlAIAL90/CVE-2021-28559)  create time: 2021-09-15T15:57:54Z
+
+**PoC for exploiting CVE-2021-1833 : This issue was addressed with improved checks. This issue is fixed in iOS 14.5 and iPadOS 14.5. An application may be able to gain elevated privileges.** : [AlAIAL90/CVE-2021-1833](https://github.com/AlAIAL90/CVE-2021-1833)  create time: 2021-09-15T15:57:51Z
+
+**PoC for exploiting CVE-2021-1832 : Copied files may not have the expected file permissions. This issue is fixed in Security Update 2021-002 Catalina, iOS 14.5 and iPadOS 14.5, watchOS 7.4, tvOS 14.5, macOS Big Sur 11.3. The issue was addressed with improved permissions logic.** : [AlAIAL90/CVE-2021-1832](https://github.com/AlAIAL90/CVE-2021-1832)  create time: 2021-09-15T15:57:48Z
+
+**PoC for exploiting CVE-2021-28553 : Acrobat Reader DC versions versions 2021.001.20150 (and earlier), 2020.001.30020 (and earlier) and 2017.011.30194 (and earlier) are affected by an Use After Free vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.** : [AlAIAL90/CVE-2021-28553](https://github.com/AlAIAL90/CVE-2021-28553)  create time: 2021-09-15T15:57:44Z
+
+**PoC for exploiting CVE-2021-28550 : Acrobat Reader DC versions versions 2021.001.20150 (and earlier), 2020.001.30020 (and earlier) and 2017.011.30194 (and earlier) are affected by a Use After Free vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.** : [AlAIAL90/CVE-2021-28550](https://github.com/AlAIAL90/CVE-2021-28550)  create time: 2021-09-15T15:57:41Z
 
 **no description** : [artsking/linux-3.0.35_CVE-2020-36386_withPatch](https://github.com/artsking/linux-3.0.35_CVE-2020-36386_withPatch)  create time: 2021-09-15T10:38:52Z
 
