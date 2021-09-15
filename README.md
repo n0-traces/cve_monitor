@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-14 23:34:18.541829  total: 6602 
+ > update time: 2021-09-15 03:27:10.843116  total: 6603 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**no description** : [security-dbg/CVE-2021-21220](https://github.com/security-dbg/CVE-2021-21220)  create time: 2021-09-15T03:11:41Z
 
 **CVE-2018-15473 Exploit** : [MrDottt/CVE-2018-15473](https://github.com/MrDottt/CVE-2018-15473)  create time: 2021-09-14T23:20:52Z
 
