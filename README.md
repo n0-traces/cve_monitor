@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-16 17:06:52.648687  total: 6638 
+ > update time: 2021-09-16 23:54:16.836159  total: 6639 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Exploitation of CVE-2019-5420 to gain code execution.** : [RyouYoo/CVE-2019-5420-RCE](https://github.com/RyouYoo/CVE-2019-5420-RCE)  create time: 2021-09-16T23:44:14Z
 
 **Python script to extract embedded URLs from doc files (.doc, .docx, .docm, .rtf)** : [gh0stxplt/CVE-2021-40444-URL-Extractor](https://github.com/gh0stxplt/CVE-2021-40444-URL-Extractor)  create time: 2021-09-16T16:54:50Z
 
