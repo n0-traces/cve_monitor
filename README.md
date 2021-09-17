@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-17 02:23:39.335270  total: 6640 
+ > update time: 2021-09-17 02:57:25.546598  total: 6641 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**CVE-2021-40539 POC** : [DarkSprings/CVE-2021-40539](https://github.com/DarkSprings/CVE-2021-40539)  create time: 2021-09-17T02:51:40Z
 
 **Windows win32k ascension UAC poc** : [DarkSprings/CVE-2021-38639](https://github.com/DarkSprings/CVE-2021-38639)  create time: 2021-09-17T02:09:37Z
 
