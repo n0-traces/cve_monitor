@@ -1,9 +1,61 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-17 02:57:25.546598  total: 6641 
+ > update time: 2021-09-18 02:48:06.324052  total: 6667 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**PoC for exploiting CVE-2020-3259 : A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to retrieve memory contents on an affected device, which could lead to the disclosure of confidential information. The vulnerability is due to a buffer tracking issue when the software parses invalid URLs that are requested from the web services interface. An attacker could exploit this vulnerability by sending a crafted GET request to the web services interface. A successful exploit could allow the attacker to retrieve memory contents, which could lead to the disclosure of confidential information. Note: This vulnerability affects only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.** : [AlAIAL90/CVE-2020-3259](https://github.com/AlAIAL90/CVE-2020-3259)  create time: 2021-09-18T02:44:37Z
+
+**PoC for exploiting CVE-2020-3214 : A vulnerability in Cisco IOS XE Software could allow an authenticated, local attacker to escalate their privileges to a user with root-level privileges. The vulnerability is due to insufficient validation of user-supplied content. This vulnerability could allow an attacker to load malicious software onto an affected device.** : [AlAIAL90/CVE-2020-3214](https://github.com/AlAIAL90/CVE-2020-3214)  create time: 2021-09-18T02:44:33Z
+
+**PoC for exploiting CVE-2020-5398 : In Spring Framework, versions 5.2.x prior to 5.2.3, versions 5.1.x prior to 5.1.13, and versions 5.0.x prior to 5.0.16, an application is vulnerable to a reflected file download (RFD) attack when it sets a "Content-Disposition" header in the response where the filename attribute is derived from user supplied input.** : [AlAIAL90/CVE-2020-5398](https://github.com/AlAIAL90/CVE-2020-5398)  create time: 2021-09-18T02:43:51Z
+
+**PoC for exploiting CVE-2021-20117 : Nessus Agent 8.3.0 and earlier was found to contain a local privilege escalation vulnerability which could allow an authenticated, local administrator to run specific executables on the Nessus Agent host. This is different than CVE-2021-20118.** : [AlAIAL90/CVE-2021-20117](https://github.com/AlAIAL90/CVE-2021-20117)  create time: 2021-09-18T02:44:52Z
+
+**PoC for exploiting CVE-2021-20118 : Nessus Agent 8.3.0 and earlier was found to contain a local privilege escalation vulnerability which could allow an authenticated, local administrator to run specific executables on the Nessus Agent host. This is different than CVE-2021-20117.** : [AlAIAL90/CVE-2021-20118](https://github.com/AlAIAL90/CVE-2021-20118)  create time: 2021-09-18T02:44:48Z
+
+**PoC for exploiting CVE-2021-36870 : Multiple Authenticated Persistent Cross-Site Scripting (XSS) vulnerabilities in WordPress WP Google Maps plugin (versions <= 8.1.12). Vulnerable parameters: &dataset_name, &wpgmza_gdpr_retention_purpose, &wpgmza_gdpr_company_name, &name #2, &name, &polyname #2, &polyname, &address.** : [AlAIAL90/CVE-2021-36870](https://github.com/AlAIAL90/CVE-2021-36870)  create time: 2021-09-18T02:44:44Z
+
+**PoC for exploiting CVE-2021-36871 : Multiple Authenticated Persistent Cross-Site Scripting (XSS) vulnerabilities in WordPress WP Google Maps Pro premium plugin (versions <= 8.1.11). Vulnerable parameters: &wpgmaps_marker_category_name, Value > &attributes[], Name > &attributes[], &icons[], &names[], &description, &link, &title.** : [AlAIAL90/CVE-2021-36871](https://github.com/AlAIAL90/CVE-2021-36871)  create time: 2021-09-18T02:44:41Z
+
+**PoC for exploiting CVE-2021-30704 : A logic issue was addressed with improved state management. This issue is fixed in tvOS 14.6, Security Update 2021-004 Mojave, iOS 14.6 and iPadOS 14.6, Security Update 2021-003 Catalina, macOS Big Sur 11.4, watchOS 7.5. An application may be able to execute arbitrary code with kernel privileges.** : [AlAIAL90/CVE-2021-30704](https://github.com/AlAIAL90/CVE-2021-30704)  create time: 2021-09-18T02:44:29Z
+
+**PoC for exploiting CVE-2021-30701 : This issue was addressed with improved checks. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Security Update 2021-003 Catalina, macOS Big Sur 11.4, watchOS 7.5. Processing a maliciously crafted image may lead to arbitrary code execution.** : [AlAIAL90/CVE-2021-30701](https://github.com/AlAIAL90/CVE-2021-30701)  create time: 2021-09-18T02:44:25Z
+
+**PoC for exploiting CVE-2021-30700 : This issue was addressed with improved checks. This issue is fixed in macOS Big Sur 11.4, tvOS 14.6, watchOS 7.5, iOS 14.6 and iPadOS 14.6. Processing a maliciously crafted image may lead to disclosure of user information.** : [AlAIAL90/CVE-2021-30700](https://github.com/AlAIAL90/CVE-2021-30700)  create time: 2021-09-18T02:44:21Z
+
+**PoC for exploiting CVE-2021-30698 : A null pointer dereference was addressed with improved input validation. This issue is fixed in macOS Big Sur 11.4, Safari 14.1.1, iOS 14.6 and iPadOS 14.6. A remote attacker may be able to cause a denial of service.** : [AlAIAL90/CVE-2021-30698](https://github.com/AlAIAL90/CVE-2021-30698)  create time: 2021-09-18T02:44:17Z
+
+**PoC for exploiting CVE-2021-30699 : A window management issue was addressed with improved state management. This issue is fixed in iOS 14.6 and iPadOS 14.6. A user may be able to view restricted content from the lockscreen.** : [AlAIAL90/CVE-2021-30699](https://github.com/AlAIAL90/CVE-2021-30699)  create time: 2021-09-18T02:44:14Z
+
+**PoC for exploiting CVE-2021-30693 : A validation issue was addressed with improved logic. This issue is fixed in macOS Big Sur 11.4, Security Update 2021-003 Catalina, Security Update 2021-004 Mojave, iOS 14.6 and iPadOS 14.6. Processing a maliciously crafted image may lead to arbitrary code execution.** : [AlAIAL90/CVE-2021-30693](https://github.com/AlAIAL90/CVE-2021-30693)  create time: 2021-09-18T02:44:09Z
+
+**PoC for exploiting CVE-2021-30696 : An attacker in a privileged network position may be able to misrepresent application state. This issue is fixed in macOS Big Sur 11.4, Security Update 2021-003 Catalina, Security Update 2021-004 Mojave. A logic issue was addressed with improved state management.** : [AlAIAL90/CVE-2021-30696](https://github.com/AlAIAL90/CVE-2021-30696)  create time: 2021-09-18T02:44:05Z
+
+**PoC for exploiting CVE-2021-30697 : A logic issue was addressed with improved state management. This issue is fixed in tvOS 14.6, Security Update 2021-004 Mojave, iOS 14.6 and iPadOS 14.6, Security Update 2021-003 Catalina, macOS Big Sur 11.4, watchOS 7.5. A local user may be able to leak sensitive user information.** : [AlAIAL90/CVE-2021-30697](https://github.com/AlAIAL90/CVE-2021-30697)  create time: 2021-09-18T02:44:01Z
+
+**PoC for exploiting CVE-2021-30688 : A malicious application may be able to break out of its sandbox. This issue is fixed in macOS Big Sur 11.4, Security Update 2021-003 Catalina. A path handling issue was addressed with improved validation.** : [AlAIAL90/CVE-2021-30688](https://github.com/AlAIAL90/CVE-2021-30688)  create time: 2021-09-18T02:43:57Z
+
+**PoC for exploiting CVE-2021-30687 : An out-of-bounds read was addressed with improved bounds checking. This issue is fixed in tvOS 14.6, Security Update 2021-004 Mojave, iOS 14.6 and iPadOS 14.6, Security Update 2021-003 Catalina, macOS Big Sur 11.4, watchOS 7.5. Processing a maliciously crafted image may lead to disclosure of user information.** : [AlAIAL90/CVE-2021-30687](https://github.com/AlAIAL90/CVE-2021-30687)  create time: 2021-09-18T02:43:55Z
+
+**PoC for exploiting CVE-2021-30468 : A vulnerability in the JsonMapObjectReaderWriter of Apache CXF allows an attacker to submit malformed JSON to a web service, which results in the thread getting stuck in an infinite loop, consuming CPU indefinitely. This issue affects Apache CXF versions prior to 3.4.4; Apache CXF versions prior to 3.3.11.** : [AlAIAL90/CVE-2021-30468](https://github.com/AlAIAL90/CVE-2021-30468)  create time: 2021-09-18T02:43:47Z
+
+**PoC for exploiting CVE-2021-31721 : Chevereto before 3.17.1 allows Cross Site Scripting (XSS) via an image title at the image upload stage.** : [AlAIAL90/CVE-2021-31721](https://github.com/AlAIAL90/CVE-2021-31721)  create time: 2021-09-18T02:43:40Z
+
+**PoC for exploiting CVE-2021-31810 : An issue was discovered in Ruby through 2.6.7, 2.7.x through 2.7.3, and 3.x through 3.0.1. A malicious FTP server can use the PASV response to trick Net::FTP into connecting back to a given IP address and port. This potentially makes curl extract information about services that are otherwise private and not disclosed (e.g., the attacker can conduct port scans and service banner extractions).** : [AlAIAL90/CVE-2021-31810](https://github.com/AlAIAL90/CVE-2021-31810)  create time: 2021-09-18T02:43:36Z
+
+**PoC for exploiting CVE-2021-37576 : arch/powerpc/kvm/book3s_rtas.c in the Linux kernel through 5.13.5 on the powerpc platform allows KVM guest OS users to cause host OS memory corruption via rtas_args.nargs, aka CID-f62f3c20647e.** : [AlAIAL90/CVE-2021-37576](https://github.com/AlAIAL90/CVE-2021-37576)  create time: 2021-09-18T02:43:32Z
+
+**PoC for exploiting CVE-2021-33193 : A crafted method sent through HTTP/2 will bypass validation and be forwarded by mod_proxy, which can lead to request splitting or cache poisoning. This issue affects Apache HTTP Server 2.4.17 to 2.4.48.** : [AlAIAL90/CVE-2021-33193](https://github.com/AlAIAL90/CVE-2021-33193)  create time: 2021-09-18T02:43:28Z
+
+**PoC for exploiting CVE-2021-22939 : If the Node.js https API was used incorrectly and "undefined" was in passed for the "rejectUnauthorized" parameter, no error was returned and connections to servers with an expired certificate would have been accepted.** : [AlAIAL90/CVE-2021-22939](https://github.com/AlAIAL90/CVE-2021-22939)  create time: 2021-09-18T02:43:24Z
+
+**PoC for exploiting CVE-2021-30860 : An integer overflow was addressed with improved input validation. This issue is fixed in Security Update 2021-005 Catalina, iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6, watchOS 7.6.2. Processing a maliciously crafted PDF may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.** : [AlAIAL90/CVE-2021-30860](https://github.com/AlAIAL90/CVE-2021-30860)  create time: 2021-09-18T02:43:17Z
+
+**PoC for exploiting CVE-2021-40346 : An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.** : [AlAIAL90/CVE-2021-40346](https://github.com/AlAIAL90/CVE-2021-40346)  create time: 2021-09-18T02:43:14Z
+
+**PoC for exploiting CVE-2021-28701 : Another race in XENMAPSPACE_grant_table handling Guests are permitted access to certain Xen-owned pages of memory. The majority of such pages remain allocated / associated with a guest for its entire lifetime. Grant table v2 status pages, however, are de-allocated when a guest switches (back) from v2 to v1. Freeing such pages requires that the hypervisor enforce that no parallel request can result in the addition of a mapping of such a page to a guest. That enforcement was missing, allowing guests to retain access to pages that were freed and perhaps re-used for other purposes. Unfortunately, when XSA-379 was being prepared, this similar issue was not noticed.** : [AlAIAL90/CVE-2021-28701](https://github.com/AlAIAL90/CVE-2021-28701)  create time: 2021-09-18T02:43:09Z
 
 **CVE-2021-40539 POC** : [DarkSprings/CVE-2021-40539](https://github.com/DarkSprings/CVE-2021-40539)  create time: 2021-09-17T02:51:40Z
 
