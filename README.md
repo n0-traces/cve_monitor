@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-18 07:39:31.350180  total: 6719 
+ > update time: 2021-09-18 22:31:45.106708  total: 6720 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit** : [Levilutz/CVE-2021-30860](https://github.com/Levilutz/CVE-2021-30860)  create time: 2021-09-18T22:14:17Z
 
 **[CVE-2021-26084] Confluence pre-auth RCE test script** : [ludy-dev/CVE-2021-26084_PoC](https://github.com/ludy-dev/CVE-2021-26084_PoC)  create time: 2021-09-18T07:33:24Z
 
