@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-19 19:20:52.610896  total: 6723 
+ > update time: 2021-09-19 19:51:07.824146  total: 6724 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Modified code so that we don´t need to rely on CAB archives** : [Edubr2020/CVE-2021-40444--CABless](https://github.com/Edubr2020/CVE-2021-40444--CABless)  create time: 2021-09-19T19:46:28Z
 
 **OMIGod / CVE-2021-38647 POC and Demo environment** : [SimenBai/CVE-2021-38647-POC-and-Demo-environment](https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment)  create time: 2021-09-19T15:43:32Z
 
