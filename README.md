@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-20 09:58:43.292691  total: 6725 
+ > update time: 2021-09-20 10:59:44.417014  total: 6726 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**A Vagrant VM test lab to learn about CVE-2021-38647 in the Open Management Infrastructure agent (aka "omigod").** : [craig-m-unsw/omigod-lab](https://github.com/craig-m-unsw/omigod-lab)  create time: 2021-09-18T15:25:18Z
 
 **PoC CVE-2021-30632 - Out of bounds write in V8** : [Phuong39/PoC-CVE-2021-30632](https://github.com/Phuong39/PoC-CVE-2021-30632)  create time: 2021-09-20T09:49:51Z
 
